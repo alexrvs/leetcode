@@ -1,5 +1,5 @@
 # leetcode
 Solutions for leetcode problems
 
-No|Problem|Solution
-1|Two Sum|cpp
+|NO.|Problem|Solution|
+|1|Two Sum|[cpp](./TwoSum/sol1.cpp)|
