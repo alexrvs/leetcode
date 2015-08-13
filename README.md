@@ -5,4 +5,4 @@ Solutions for leetcode problems
 |-----|---------|----------|
 | 1 | Two Sum | [cpp](./TwoSum/Solution.cpp)/[java](./TwoSum/Solution.java)/[python](./TwoSum/Solution.py)/[ruby](./TwoSum/Solution.rb)/[javascript](./TwoSum/Solution.js) |
 | 2 | Add Two Numbers | [cpp](./AddTwoNumbers/Solution.cpp)/[java](./AddTwoNumbers/Solution.java)/[python](./AddTwoNumbers/Solution.py)/[ruby](./AddTwoNumbers/Solution.rb)/[javascript](./AddTwoNumbers/Solution.js) |
-| 3 | Longest Substring Without Repeating Characters | [cpp](./LongestSubstringWithoutRepeatingCharacters/Solution.cpp)/[java](./LongestSubstringWithoutRepeatingCharacters/Solution.java) |
+| 3 | Longest Substring Without Repeating Characters | [cpp](./LongestSubstringWithoutRepeatingCharacters/Solution.cpp)/[java](./LongestSubstringWithoutRepeatingCharacters/Solution.java)/[python](./LongestSubstringWithoutRepeatingCharacters/Solution.py) |

@@ -11,9 +11,8 @@ class Solution {
                 for (int j = start; j < i; j++) {
                     if ( s[j] == s[i] ) {
                         len = i - start;
-                        for (int k = start; k < i; k++)
-                            if (max < len)
-                                max = len;
+                        if (max < len)
+                            max = len;
                         start = j+1;
                         break;
                     }

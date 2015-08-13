@@ -10,9 +10,8 @@ public class Solution {
       for (int j = start; j < i; j++) {
         if ( s.charAt(j) == s.charAt(i) ) {
           len = i - start;
-          for (int k = start; k < i; k++)
           if (max < len)
-          max = len;
+            max = len;
           start = j+1;
           break;
         }
