@@ -30,6 +30,3 @@ def length_of_longest_substring(s)
   end
   return max
 end
-
-str1 = "a"
-puts(length_of_longest_substring(str1))
