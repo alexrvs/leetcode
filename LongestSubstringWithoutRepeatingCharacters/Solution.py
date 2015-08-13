@@ -23,5 +23,3 @@ class Solution:
             max = length
         return max
 
-s = Solution()
-print(s.lengthOfLongestSubstring("au"))
