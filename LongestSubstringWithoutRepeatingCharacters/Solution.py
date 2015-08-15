@@ -22,4 +22,3 @@ class Solution:
         if max < length:
             max = length
         return max
-
