@@ -11,4 +11,4 @@ Solutions for leetcode problems
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
-| 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py) |
+| 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb) |
