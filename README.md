@@ -12,3 +12,4 @@ Solutions for leetcode problems
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
+| 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp) |
