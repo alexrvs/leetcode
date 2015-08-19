@@ -7,6 +7,7 @@ Solutions for leetcode problems
 | 2 | Add Two Numbers | [cpp](./AddTwoNumbers/Solution.cpp)/[java](./AddTwoNumbers/Solution.java)/[python](./AddTwoNumbers/Solution.py)/[ruby](./AddTwoNumbers/Solution.rb)/[javascript](./AddTwoNumbers/Solution.js) |
 | 3 | Longest Substring Without Repeating Characters | [cpp](./LongestSubstringWithoutRepeatingCharacters/Solution.cpp)/[java](./LongestSubstringWithoutRepeatingCharacters/Solution.java)/[python](./LongestSubstringWithoutRepeatingCharacters/Solution.py)/[ruby](./LongestSubstringWithoutRepeatingCharacters/Solution.rb)/[javascript](./LongestSubstringWithoutRepeatingCharacters/Solution.js) |
 | 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp) |
+| 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
