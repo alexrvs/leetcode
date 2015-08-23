@@ -12,6 +12,7 @@ Solutions for leetcode problems
 | 134 | GasStation | [cpp](./GasStation/Solution.cpp) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp) |
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp) |
+| 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
