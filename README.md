@@ -18,6 +18,6 @@ Solutions for leetcode problems
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
-| 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb) |
+| 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb)/[javascript](./PalindromeLinkedList/Solution.js) |
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
