@@ -21,4 +21,4 @@ Solutions for leetcode problems
 | 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb)/[javascript](./PalindromeLinkedList/Solution.js) |
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
-| 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java) |
+| 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py) |
