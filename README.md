@@ -11,6 +11,7 @@ Solutions for leetcode problems
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 134 | GasStation | [cpp](./GasStation/Solution.cpp) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
+| 136 | Single Number | [cpp](./SingleNumber/Solution.cpp) |
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
