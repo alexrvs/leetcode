@@ -19,7 +19,3 @@ class Solution(object):
                     candies[i] = num
 
         return sum(candies)
-
-ratings=[2,1, 2]
-s = Solution()
-print(s.candy(ratings))
