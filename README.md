@@ -23,5 +23,5 @@ Solutions for leetcode problems
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
 | 263 | Ugly Number | [cpp](./UglyNumber/Solution.cpp)/[java](./UglyNumber/Solution.java)/[python](./UglyNumber/Solution.py)/[ruby](./UglyNumber/Solution.rb)/[javascript](./UglyNumber/Solution.js) |
-| 263 | Ugly Number II | [cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py) |
+| 264 | Ugly Number II | [cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py)/[ruby](./UglyNumberII/Solution.rb) |
 | 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py)/[ruby](./MissingNumber/Solution.rb)/[javascript](./MissingNumber/Solution.js) |
