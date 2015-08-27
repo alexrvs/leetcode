@@ -22,7 +22,7 @@ Solutions for leetcode problems
 | 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb)/[javascript](./PalindromeLinkedList/Solution.js) |
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
-| 257 | Binary Tree Paths | [java](./binaryTreePaths/Solution.java)/[python](./binaryTreePaths/Solution.py)/[ruby](./binaryTreePaths/Solution.rb)/[javascript](./binaryTreePaths/Solution.js) |
+| 257 | Binary Tree Paths | [cpp](./binaryTreePaths/Solution.cpp)/[java](./binaryTreePaths/Solution.java)/[python](./binaryTreePaths/Solution.py)/[ruby](./binaryTreePaths/Solution.rb)/[javascript](./binaryTreePaths/Solution.js) |
 | 258 | Add Digits | [cpp](./AddDigits/Solution.cpp)/[java](./AddDigits/Solution.java)/[python](./AddDigits/Solution.py)/[ruby](./AddDigits/Solution.rb)/[javascript](./AddDigits/Solution.js) |
 | 263 | Ugly Number | [cpp](./UglyNumber/Solution.cpp)/[java](./UglyNumber/Solution.java)/[python](./UglyNumber/Solution.py)/[ruby](./UglyNumber/Solution.rb)/[javascript](./UglyNumber/Solution.js) |
 | 264 | Ugly Number II | [cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py)/[ruby](./UglyNumberII/Solution.rb)/[javascript](./UglyNumberII/Solution.js) |
