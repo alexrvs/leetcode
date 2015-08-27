@@ -15,5 +15,3 @@ def nth_ugly_number(n)
     end
     return ugly_nums.last
 end
-
-puts nth_ugly_number(10)
