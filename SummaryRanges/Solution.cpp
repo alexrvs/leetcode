@@ -7,12 +7,12 @@ private:
     }
 public:
     vector<string> summaryRanges(vector<int>& nums) {
-        int start = -1;
-        start = nums[0];
         string range;
         vector<string> ranges;
         int size = nums.size();
-        for (int i = 0; i < size; i++) {
+        if (size == 0) return ranges;
+        int start = nums[0];
+        for (int i = 1; i < size; i++) {
             if (nums[i] == nums[i-1] + 1) continue;
             if (start == nums[i-1]) {
                 range = getstring(start);
