@@ -9,7 +9,7 @@ Solutions for leetcode problems
 | 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp) |
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
-| 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py) |
+| 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb) |
 | 134 | GasStation | [cpp](./GasStation/Solution.cpp) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
