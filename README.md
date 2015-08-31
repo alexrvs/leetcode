@@ -10,7 +10,7 @@ Solutions for leetcode problems
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
-| 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py) |
+| 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
