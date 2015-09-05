@@ -12,7 +12,7 @@ Solutions for leetcode problems
 | 19 | Remove Nth Node From End Of List | [cpp](./RemoveNthNodeFromEndOfList/Solution.cpp)/[java](./RemoveNthNodeFromEndOfList/Solution.java)/[python](./RemoveNthNodeFromEndOfList/Solution.py)/[ruby](./RemoveNthNodeFromEndOfList/Solution.rb)/[javascript](./RemoveNthNodeFromEndOfList/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
-| 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java) |
+| 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
