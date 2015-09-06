@@ -35,3 +35,4 @@ Solutions for leetcode problems
 | 264 | Ugly Number II | [cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py)/[ruby](./UglyNumberII/Solution.rb)/[javascript](./UglyNumberII/Solution.js) |
 | 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py)/[ruby](./MissingNumber/Solution.rb)/[javascript](./MissingNumber/Solution.js) |
 | 274 | H-Index | [cpp](./H-Index/Solution.cpp) |
+| 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp) |
