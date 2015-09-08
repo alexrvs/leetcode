@@ -36,3 +36,4 @@ Solutions for leetcode problems
 | 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py)/[ruby](./MissingNumber/Solution.rb)/[javascript](./MissingNumber/Solution.js) |
 | 274 | H-Index | [cpp](./H-Index/Solution.cpp) |
 | 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp)/[java](./H-IndexII/Solution.java)/[python](./H-IndexII/Solution.py)/[ruby](./H-IndexII/Solution.rb)/[javascript](./H-IndexII/Solution.js) |
+| 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp) |
