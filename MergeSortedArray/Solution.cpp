@@ -1,25 +1,23 @@
 class Solution {
 public:
-    void merge(int A[], int m, int B[], int n) {
-        int mi = m+n-1;
-        int ai = m-1;
-        int bi = n-1;
-        while (ai >= 0 && bi>=0) {
-            if (A[ai] > B[bi]) {
-                A[mi] = A[ai];
-                ai--;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        nums1.resize(m+n);
+        int i1 = m - 1;
+        int i2 = n - 1;
+        int i = m + n - 1;
+        nums1.resize(m+n);
+        while (i1 >= 0 && i2 >= 0) {
+            if (nums1[i1] > nums2[i2]) {
+                nums1[i--] = nums1[i1--];
             } else {
-                A[mi] = B[bi];
-                bi--;
+                nums1[i--] = nums2[i2--];
             }
-            mi--;
         }
-        if (ai < 0) {
-            while (bi >= 0) {
-                A[mi] = B[bi];
-                mi--;
-                bi--;
-            }
+        while (i1 >= 0) {
+            nums1[i--] = nums1[i1--];
+        }
+        while (i2 >= 0) {
+            nums1[i--] = nums2[i2--];
         }
         return;
     }
