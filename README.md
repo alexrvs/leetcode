@@ -35,6 +35,6 @@ Solutions for leetcode problems
 | 263 | Ugly Number | [cpp](./UglyNumber/Solution.cpp)/[java](./UglyNumber/Solution.java)/[python](./UglyNumber/Solution.py)/[ruby](./UglyNumber/Solution.rb)/[javascript](./UglyNumber/Solution.js) |
 | 264 | Ugly Number II | [cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py)/[ruby](./UglyNumberII/Solution.rb)/[javascript](./UglyNumberII/Solution.js) |
 | 268 | Missing Number | [cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py)/[ruby](./MissingNumber/Solution.rb)/[javascript](./MissingNumber/Solution.js) |
-| 274 | H-Index | [cpp](./H-Index/Solution.cpp)/[java](./H-Index/Solution.java) |
+| 274 | H-Index | [cpp](./H-Index/Solution.cpp)/[java](./H-Index/Solution.java)/[python](./H-Index/Solution.py) |
 | 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp)/[java](./H-IndexII/Solution.java)/[python](./H-IndexII/Solution.py)/[ruby](./H-IndexII/Solution.rb)/[javascript](./H-IndexII/Solution.js) |
 | 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp)/[java](./FirstBadVersion/Solution.java)/[python](./FirstBadVersion/Solution.py)/[ruby](./FirstBadVersion/Solution.rb)/[javascript](./FirstBadVersion/Solution.js) |
