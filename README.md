@@ -30,7 +30,7 @@ Solutions for leetcode problems
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
 | 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb)/[javascript](./PalindromeLinkedList/Solution.js) |
 | 237 | Delete Node in a Linked List | [cpp](./DeleteNodeInALinkedList/Solution.cpp)/[java](./DeleteNodeInALinkedList/Solution.java)/[python](./DeleteNodeInALinkedList/Solution.py)/[ruby](./DeleteNodeInALinkedList/Solution.rb)/[javascript](./DeleteNodeInALinkedList/Solution.js) |
-| 241 | Different Ways To Add Parentheses | [cpp](./DifferentWaysToAddParentheses/Solution.cpp)/[java](./DifferentWaysToAddParentheses/Solution.java) |
+| 241 | Different Ways To Add Parentheses | [cpp](./DifferentWaysToAddParentheses/Solution.cpp)/[java](./DifferentWaysToAddParentheses/Solution.java)/[python](./DifferentWaysToAddParentheses/Solution.py) |
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
 | 257 | Binary Tree Paths | [cpp](./binaryTreePaths/Solution.cpp)/[java](./binaryTreePaths/Solution.java)/[python](./binaryTreePaths/Solution.py)/[ruby](./binaryTreePaths/Solution.rb)/[javascript](./binaryTreePaths/Solution.js) |
 | 258 | Add Digits | [cpp](./AddDigits/Solution.cpp)/[java](./AddDigits/Solution.java)/[python](./AddDigits/Solution.py)/[ruby](./AddDigits/Solution.rb)/[javascript](./AddDigits/Solution.js) |
