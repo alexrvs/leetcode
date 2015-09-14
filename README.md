@@ -23,7 +23,7 @@ Solutions for leetcode problems
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
-| 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java) |
+| 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
