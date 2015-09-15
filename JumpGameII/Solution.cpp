@@ -10,15 +10,14 @@ public:
         while (from <= reachable) {
             jumps++;
             nowReach = reachable;
-            for (int i = from; i <= nowReach; i++) {
-                int canReach = i + nums[i];
+            for (; from <= nowReach; from++) {
+                int canReach = from + nums[from];
                 if (canReach >= size-1)
                     return jumps;
                 if (canReach > reachable) {
                     reachable = canReach;
                 }
             }
-            from = nowReach + 1;
         }
         return 0;
     }

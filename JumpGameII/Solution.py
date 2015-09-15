@@ -13,16 +13,13 @@ class Solution(object):
         while start <=  reachable:
             jumps += 1
             nowReach = reachable
-            i = start
 
-            while i <= nowReach:
-                canReach = i + nums[i]
+            while start <= nowReach:
+                canReach = start + nums[start]
                 if canReach >= size - 1:
                     return jumps
                 if canReach > reachable:
                     reachable = canReach
-                i += 1
-
-            start = nowReach + 1
+                start += 1
 
         return 0

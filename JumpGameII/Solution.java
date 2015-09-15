@@ -9,12 +9,11 @@ public class Solution {
         while (from <= reachable) {
             jumps++;
             nowReach = reachable;
-            for (int i = from; i <= nowReach; i++) {
-                canReach = i + nums[i];
+            for (; from <= nowReach; from++) {
+                canReach = from + nums[from];
                 if (canReach >= size - 1) return jumps;
                 if (canReach > reachable) reachable = canReach;
             }
-            from = nowReach + 1;
         }
         return 0;
     }
