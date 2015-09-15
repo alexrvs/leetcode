@@ -13,7 +13,7 @@ Solutions for leetcode problems
 | 20 | Valid Parentheses | [cpp](./ValidParentheses/Solution.cpp)/[java](./ValidParentheses/Solution.java)/[python](./ValidParentheses/Solution.py)/[ruby](./ValidParentheses/Solution.rb)/[javascript](./ValidParentheses/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
 | 22 | Merge Sorted Array | [cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
-| 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp) |
+| 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
 | 55 | Jump Game | [cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
