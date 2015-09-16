@@ -1,8 +1,7 @@
-class Solution {
-public:
-    int climbStairs(int n) {
+public class Solution {
+    public int climbStairs(int n) {
         if (n <= 2) return n;
-        vector<int> ways(n+1, 0);
+        int[] ways = new int[n + 1];
         ways[1] = 1;
         ways[2] = 2;
         for (int i = 3; i <= n; i++) {
@@ -10,4 +9,4 @@ public:
         }
         return ways[n];
     }
-};
+}
