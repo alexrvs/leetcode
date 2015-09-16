@@ -19,6 +19,7 @@ Solutions for leetcode problems
 | 55 | Jump Game | [cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
+| 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
