@@ -32,6 +32,7 @@ Solutions for leetcode problems
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
+| 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
 | 234 | Palindrome Linked List | [cpp](./PalindromeLinkedList/Solution.cpp)/[java](./PalindromeLinkedList/Solution.java)/[python](./PalindromeLinkedList/Solution.py)/[ruby](./PalindromeLinkedList/Solution.rb)/[javascript](./PalindromeLinkedList/Solution.js) |
 | 235 | Lowest Common Ancestor Of A Binary Search Tree | [cpp](./LowestCommonAncestorOfABinarySearchTree/Solution.cpp)/[java](./LowestCommonAncestorOfABinarySearchTree/Solution.java)/[python](./LowestCommonAncestorOfABinarySearchTree/Solution.py)/[ruby](./LowestCommonAncestorOfABinarySearchTree/Solution.rb)/[javascript](./LowestCommonAncestorOfABinarySearchTree/Solution.js) |
