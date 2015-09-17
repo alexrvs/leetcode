@@ -32,7 +32,7 @@ Solutions for leetcode problems
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
-| 298 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java) |
+| 298 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
 | 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
