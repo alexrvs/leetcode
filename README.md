@@ -33,7 +33,7 @@ Solutions for leetcode problems
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 198 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
-| 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java) |
+| 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
 | 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
