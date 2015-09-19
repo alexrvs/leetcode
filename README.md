@@ -27,7 +27,7 @@ Solutions for leetcode problems
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
-| 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb) |
+| 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
 | 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
