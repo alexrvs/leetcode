@@ -52,4 +52,4 @@ Solutions for leetcode problems
 | 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp)/[java](./H-IndexII/Solution.java)/[python](./H-IndexII/Solution.py)/[ruby](./H-IndexII/Solution.rb)/[javascript](./H-IndexII/Solution.js) |
 | 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp)/[java](./FirstBadVersion/Solution.java)/[python](./FirstBadVersion/Solution.py)/[ruby](./FirstBadVersion/Solution.rb)/[javascript](./FirstBadVersion/Solution.js) |
 | 279 | Perfect Squares | [cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
-| 283 | Move Zeros | [cpp](./MoveZeros/Solution.cpp)/[java](./MoveZeros/Solution.java)/[python](./MoveZeros/Solution.py)/[rb](./MoveZeros/Solution.rb) |
+| 283 | Move Zeros | [cpp](./MoveZeros/Solution.cpp)/[java](./MoveZeros/Solution.java)/[python](./MoveZeros/Solution.py)/[rb](./MoveZeros/Solution.rb)/[javascript](./MoveZeros/Solution.js) |
