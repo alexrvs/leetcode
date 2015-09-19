@@ -27,6 +27,7 @@ Solutions for leetcode problems
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
+| 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
 | 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
@@ -53,4 +54,4 @@ Solutions for leetcode problems
 | 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp)/[java](./H-IndexII/Solution.java)/[python](./H-IndexII/Solution.py)/[ruby](./H-IndexII/Solution.rb)/[javascript](./H-IndexII/Solution.js) |
 | 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp)/[java](./FirstBadVersion/Solution.java)/[python](./FirstBadVersion/Solution.py)/[ruby](./FirstBadVersion/Solution.rb)/[javascript](./FirstBadVersion/Solution.js) |
 | 279 | Perfect Squares | [cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
-| 283 | Move Zeros | [cpp](./MoveZeros/Solution.cpp)/[java](./MoveZeros/Solution.java)/[python](./MoveZeros/Solution.py)/[rb](./MoveZeros/Solution.rb)/[javascript](./MoveZeros/Solution.js) |
+| 283 | Move Zeroes | [cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
