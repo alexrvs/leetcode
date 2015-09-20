@@ -21,7 +21,7 @@ Solutions for leetcode problems
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
-| 112 | Path Sum | [cpp](./PathSum/Solution.cpp) |
+| 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java) |
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
