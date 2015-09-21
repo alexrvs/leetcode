@@ -57,4 +57,4 @@ Solutions for leetcode problems
 | 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp)/[java](./FirstBadVersion/Solution.java)/[python](./FirstBadVersion/Solution.py)/[ruby](./FirstBadVersion/Solution.rb)/[javascript](./FirstBadVersion/Solution.js) |
 | 279 | Perfect Squares | [cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
 | 283 | Move Zeroes | [cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
-| 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp) |
+| 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp)/[java](./PeekingIterator/Solution.java) |
