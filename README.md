@@ -21,6 +21,7 @@ Solutions for leetcode problems
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
+| 100 | same Tree | [cpp](./SameTree/Solution.cpp) |
 | 104 | Maximum Depth of Binary Tree | [cpp](./MaximumDepthofBinaryTree/Solution.cpp)/[java](./MaximumDepthofBinaryTree/Solution.java)/[python](./MaximumDepthofBinaryTree/Solution.py)/[ruby](./MaximumDepthofBinaryTree/Solution.rb)/[javascript](./MaximumDepthofBinaryTree/Solution.js) |
 | 110 | Balanced Binary Tree | [cpp](./BalancedBinaryTree/Solution.cpp)/[java](./BalancedBinaryTree/Solution.java)/[python](./BalancedBinaryTree/Solution.py)/[ruby](./BalancedBinaryTree/Solution.rb)/[javascript](./BalancedBinaryTree/Solution.js) |
 | 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java)/[python](./PathSum/Solution.py)/[ruby](./PathSum/Solution.rb)/[javascript](./PathSum/Solution.js) |
