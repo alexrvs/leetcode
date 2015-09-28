@@ -32,6 +32,7 @@ Solutions for leetcode problems
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
+| 144 | Binary Tree Preorder Traversal | [cpp](./BinaryTreePreorderTraversal/Solution.cpp) |
 | 147 | Insertion Sort List | [cpp](./InsertionSortList/Solution.cpp) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
