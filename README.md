@@ -20,7 +20,7 @@ Solutions for leetcode problems
 | 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
-| 77 | Combinations | [cpp](./Combinations/Solution.cpp) |
+| 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
 | 94 | Binary Tree Inorder Traversal | [cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 100 | same Tree | [cpp](./SameTree/Solution.cpp)/[java](./SameTree/Solution.java)/[python](./SameTree/Solution.py)/[ruby](./SameTree/Solution.rb)/[javascript](./SameTree/Solution.js) |
