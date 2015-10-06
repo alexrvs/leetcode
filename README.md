@@ -38,6 +38,7 @@ Solutions for leetcode problems
 | 145 | Binary Tree Postorder Traversal | [cpp](./BinaryTreePostorderTraversal/Solution.cpp)/[java](./BinaryTreePostorderTraversal/Solution.java)/[python](./BinaryTreePostorderTraversal/Solution.py)/[ruby](./BinaryTreePostorderTraversal/Solution.rb)/[javascript](./BinaryTreePostorderTraversal/Solution.js) |
 | 147 | Insertion Sort List | [cpp](./InsertionSortList/Solution.cpp) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
+| 162 | Find Peak Element | [python](./FindPeakElement/Solution.py) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
 | 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
