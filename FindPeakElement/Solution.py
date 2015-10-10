@@ -7,11 +7,11 @@ class Solution(object):
         l = len(nums)
         if l < 2:
             return 0
-        for i in range(0, l):
-            if i == 0 and nums[i] > nums[i + 1]:
-                return i
-            if i == l - 1 and nums[i - 1] < nums[i]:
-                return i
+        if nums[0] > nums[1]:
+            return 0
+        for i in range(1, l - 1):
             if nums[i - 1] < nums[i] and nums[i] > nums[i + 1]:
                 return i
+        if nums[l - 2] < nums[l - 1]:
+            return l - 1
         return 0
