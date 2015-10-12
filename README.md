@@ -70,3 +70,4 @@ Solutions for leetcode problems
 | 283 | Move Zeroes | [cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
 | 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp)/[java](./PeekingIterator/Solution.java)/[python](./PeekingIterator/Solution.py) |
 | 290 | Word Pattern | [java](./WordPattern/Solution.java)/[ruby](./WordPattern/Solution.rb)/[javascript](./WordPattern/Solution.js) |
+| 292 | Nim Game | [python](./NimGame/Solution.py) |
