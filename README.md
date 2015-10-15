@@ -41,6 +41,7 @@ Solutions for leetcode problems
 | 162 | Find Peak Element | [cpp](./FindPeakElement/Solution.cpp)/[java](./FindPeakElement/Solution.java)/[python](./FindPeakElement/Solution.py)/[ruby](./FindPeakElement/Solution.rb)/[javascript](./FindPeakElement/Solution.js) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
+| 190 | Reverse Bits | [cpp](./ReverseBits/Solution.cpp) |
 | 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
