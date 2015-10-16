@@ -27,7 +27,7 @@ Solutions for leetcode problems
 | 100 | same Tree | [cpp](./SameTree/Solution.cpp)/[java](./SameTree/Solution.java)/[python](./SameTree/Solution.py)/[ruby](./SameTree/Solution.rb)/[javascript](./SameTree/Solution.js) |
 | 102 | Binary Tree Level Order Traversal | [python](./BinaryTreeLevelOrderTraversal/Solution.py)/[ruby](./BinaryTreeLevelOrderTraversal/Solution.rb) |
 | 104 | Maximum Depth of Binary Tree | [cpp](./MaximumDepthofBinaryTree/Solution.cpp)/[java](./MaximumDepthofBinaryTree/Solution.java)/[python](./MaximumDepthofBinaryTree/Solution.py)/[ruby](./MaximumDepthofBinaryTree/Solution.rb)/[javascript](./MaximumDepthofBinaryTree/Solution.js) |
-| 107 | Binary Tree Level Order Traversal II | [python](./BinaryTreeLevelOrderTraversalII/Solution.py) |
+| 107 | Binary Tree Level Order Traversal II | [python](./BinaryTreeLevelOrderTraversalII/Solution.py)/[ruby](./BinaryTreeLevelOrderTraversalII/Solution.rb) |
 | 110 | Balanced Binary Tree | [cpp](./BalancedBinaryTree/Solution.cpp)/[java](./BalancedBinaryTree/Solution.java)/[python](./BalancedBinaryTree/Solution.py)/[ruby](./BalancedBinaryTree/Solution.rb)/[javascript](./BalancedBinaryTree/Solution.js) |
 | 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java)/[python](./PathSum/Solution.py)/[ruby](./PathSum/Solution.rb)/[javascript](./PathSum/Solution.js) |
 | 118 | Pascal's Triangle | [cpp](./Pascal'sTriangle/Solution.cpp)/[java](./Pascal'sTriangle/Solution.java)/[python](./Pascal'sTriangle/Solution.py)/[ruby](./Pascal'sTriangle/Solution.rb)/[javascript](./Pascal'sTriangle/Solution.js) |
