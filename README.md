@@ -25,7 +25,10 @@ Solutions for leetcode problems
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
 | 94 | Binary Tree Inorder Traversal | [cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 100 | same Tree | [cpp](./SameTree/Solution.cpp)/[java](./SameTree/Solution.java)/[python](./SameTree/Solution.py)/[ruby](./SameTree/Solution.rb)/[javascript](./SameTree/Solution.js) |
+| 102 | Binary Tree Level Order Traversal | [python](./BinaryTreeLevelOrderTraversal/Solution.py)/[ruby](./BinaryTreeLevelOrderTraversal/Solution.rb)/[javascript](./BinaryTreeLevelOrderTraversal/Solution.js) |
+| 103 | Binary Tree Zigzag Level Order Traversal | [python](./BinaryTreeZigzagLevelOrderTraversal/Solution.py)/[ruby](./BinaryTreeZigzagLevelOrderTraversal/Solution.rb)/[javascript](./BinaryTreeZigzagLevelOrderTraversal/Solution.js) |
 | 104 | Maximum Depth of Binary Tree | [cpp](./MaximumDepthofBinaryTree/Solution.cpp)/[java](./MaximumDepthofBinaryTree/Solution.java)/[python](./MaximumDepthofBinaryTree/Solution.py)/[ruby](./MaximumDepthofBinaryTree/Solution.rb)/[javascript](./MaximumDepthofBinaryTree/Solution.js) |
+| 107 | Binary Tree Level Order Traversal II | [python](./BinaryTreeLevelOrderTraversalII/Solution.py)/[ruby](./BinaryTreeLevelOrderTraversalII/Solution.rb)/[javascript](./BinaryTreeLevelOrderTraversalII/Solution.js) |
 | 110 | Balanced Binary Tree | [cpp](./BalancedBinaryTree/Solution.cpp)/[java](./BalancedBinaryTree/Solution.java)/[python](./BalancedBinaryTree/Solution.py)/[ruby](./BalancedBinaryTree/Solution.rb)/[javascript](./BalancedBinaryTree/Solution.js) |
 | 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java)/[python](./PathSum/Solution.py)/[ruby](./PathSum/Solution.rb)/[javascript](./PathSum/Solution.js) |
 | 118 | Pascal's Triangle | [cpp](./Pascal'sTriangle/Solution.cpp)/[java](./Pascal'sTriangle/Solution.java)/[python](./Pascal'sTriangle/Solution.py)/[ruby](./Pascal'sTriangle/Solution.rb)/[javascript](./Pascal'sTriangle/Solution.js) |
@@ -41,6 +44,7 @@ Solutions for leetcode problems
 | 162 | Find Peak Element | [cpp](./FindPeakElement/Solution.cpp)/[java](./FindPeakElement/Solution.java)/[python](./FindPeakElement/Solution.py)/[ruby](./FindPeakElement/Solution.rb)/[javascript](./FindPeakElement/Solution.js) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
+| 190 | Reverse Bits | [cpp](./ReverseBits/Solution.cpp) |
 | 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
@@ -71,4 +75,4 @@ Solutions for leetcode problems
 | 283 | Move Zeroes | [cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
 | 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp)/[java](./PeekingIterator/Solution.java)/[python](./PeekingIterator/Solution.py) |
 | 290 | Word Pattern | [java](./WordPattern/Solution.java)/[python](./WordPattern/Solution.py)/[ruby](./WordPattern/Solution.rb)/[javascript](./WordPattern/Solution.js) |
-| 292 | Nim Game | [cpp](./NimGame/Solution.cpp)/[java](./NimGame/Solution.java)/[python](./NimGame/Solution.py) |
+| 292 | Nim Game | [cpp](./NimGame/Solution.cpp)/[java](./NimGame/Solution.java)/[python](./NimGame/Solution.py)/[ruby](./NimGame/Solution.rb)/[javascript](./NimGame/Solution.js) |
