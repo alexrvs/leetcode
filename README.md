@@ -32,7 +32,7 @@ Solutions for leetcode problems
 | 110 | Balanced Binary Tree | [cpp](./BalancedBinaryTree/Solution.cpp)/[java](./BalancedBinaryTree/Solution.java)/[python](./BalancedBinaryTree/Solution.py)/[ruby](./BalancedBinaryTree/Solution.rb)/[javascript](./BalancedBinaryTree/Solution.js) |
 | 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java)/[python](./PathSum/Solution.py)/[ruby](./PathSum/Solution.rb)/[javascript](./PathSum/Solution.js) |
 | 118 | Pascal's Triangle | [cpp](./Pascal'sTriangle/Solution.cpp)/[java](./Pascal'sTriangle/Solution.java)/[python](./Pascal'sTriangle/Solution.py)/[ruby](./Pascal'sTriangle/Solution.rb)/[javascript](./Pascal'sTriangle/Solution.js) |
-| 121 | Best Time To Buy And Sell Stock | [cpp](./BestTimeToBuyAndSellStock/Solution.cpp)/[java](./BestTimeToBuyAndSellStock/Solution.java)/[python](./BestTimeToBuyAndSellStock/Solution.py) |
+| 121 | Best Time To Buy And Sell Stock | [cpp](./BestTimeToBuyAndSellStock/Solution.cpp)/[java](./BestTimeToBuyAndSellStock/Solution.java)/[python](./BestTimeToBuyAndSellStock/Solution.py)/[ruby](./BestTimeToBuyAndSellStock/Solution.rb) |
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
