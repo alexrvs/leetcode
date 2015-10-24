@@ -16,6 +16,7 @@ Solutions for leetcode problems
 | 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java)/[python](./RemoveDuplicatesFromSortedArray/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArray/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArray/Solution.js) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp) |
+| 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp) |
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
 | 55 | Jump Game | [cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
