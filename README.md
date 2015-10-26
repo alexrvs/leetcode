@@ -20,7 +20,7 @@ Solutions for leetcode problems
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
 | 55 | Jump Game | [cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 61 | Rotate List | [cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
-| 62 | Unique Paths | [cpp](./UniquePaths/Solution.cpp)/[java](./UniquePaths/Solution.java)/[python](./UniquePaths/Solution.py)/[ruby](./UniquePaths/Solution.rb) |
+| 62 | Unique Paths | [cpp](./UniquePaths/Solution.cpp)/[java](./UniquePaths/Solution.java)/[python](./UniquePaths/Solution.py)/[ruby](./UniquePaths/Solution.rb)/[javascript](./UniquePaths/Solution.js) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 75 | Sort Colors | [cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
