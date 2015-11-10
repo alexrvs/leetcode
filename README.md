@@ -88,4 +88,4 @@ Solutions for leetcode problems
 | 290 | Word Pattern | [java](./WordPattern/Solution.java)/[python](./WordPattern/Solution.py)/[ruby](./WordPattern/Solution.rb)/[javascript](./WordPattern/Solution.js) |
 | 292 | Nim Game | [cpp](./NimGame/Solution.cpp)/[java](./NimGame/Solution.java)/[python](./NimGame/Solution.py)/[ruby](./NimGame/Solution.rb)/[javascript](./NimGame/Solution.js) |
 | 299 | Bulls And Cows | [cpp](./BullsAndCows/Solution.cpp)/[java](./BullsAndCows/Solution.java)/[python](./BullsAndCows/Solution.py)/[ruby](./BullsAndCows/Solution.rb)/[javascript](./BullsAndCows/Solution.js) |
-| 303 | Range Sum Query - Immutable | [cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java) |
+| 303 | Range Sum Query - Immutable | [cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[javascript](./RangeSumQueryImmutable/Solution.js) |
