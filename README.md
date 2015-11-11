@@ -24,7 +24,7 @@ Solutions for leetcode problems
 | 62 | Unique Paths | [cpp](./UniquePaths/Solution.cpp)/[java](./UniquePaths/Solution.java)/[python](./UniquePaths/Solution.py)/[ruby](./UniquePaths/Solution.rb)/[javascript](./UniquePaths/Solution.js) |
 | 63 | Unique Paths II | [python](./UniquePathsII/Solution.py) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp)/[java](./PlusOne/Solution.java)/[python](./PlusOne/Solution.py) |
-| 67 | Add Binary | [cpp](./AddBinary/Solution.cpp)/[python](./AddBinary/Solution.py)/[ruby](./AddBinary/Solution.rb) |
+| 67 | Add Binary | [cpp](./AddBinary/Solution.cpp)/[java](./AddBinary/Solution.java)/[python](./AddBinary/Solution.py)/[ruby](./AddBinary/Solution.rb) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 75 | Sort Colors | [cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
