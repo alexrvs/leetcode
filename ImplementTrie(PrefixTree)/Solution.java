@@ -1,13 +1,16 @@
 class TrieNode {
-    private Map<Character, TrieNode> children;
+    private List<TrieNode> children;
     private boolean isEnded;
     // Initialize your data structure here.
     public TrieNode() {
-       this.children = new HashMap<Character, TrieNode>();
+       this.children = new ArrayList<TrieNode>();
+       for (int i = 0; i < 26; i++) {
+           this.children.add(null);
+       }
        this.isEnded = false;
     }
 
-    public Map<Character, TrieNode> getChildren() {
+    public List<TrieNode> getChildren() {
         return this.children;
     }
 
@@ -30,10 +33,10 @@ public class Trie {
     private void insertHelper(TrieNode node, String word, int index) {
         if (index == word.length()) return;
         char c = word.charAt(index);
-        TrieNode child = node.getChildren().get(c);
+        TrieNode child = node.getChildren().get(c - 'a');
         if (null == child) {
             child = new TrieNode();
-            node.getChildren().put(c, child);
+            node.getChildren().set(c - 'a', child);
         }
         if (index + 1 == word.length()) {
             child.setEnded();
@@ -48,35 +51,27 @@ public class Trie {
         insertHelper(this.root, word, 0);
     }
 
-    private boolean searchHelper(TrieNode node, String word, int index) {
-        if (index > word.length()) return false;
+    private boolean searchHelper(TrieNode node, String word, int index, boolean needEnded) {
+        if (index >= word.length()) return true;
         char c = word.charAt(index);
-        TrieNode child = node.getChildren().get(c);
+        TrieNode child = node.getChildren().get(c - 'a');
         if (null == child) return false;
-        if (index + 1 == word.length()) {
+        if (true == needEnded && index + 1 == word.length()) {
             if (true == child.isEnded()) return true;
             return false;
         }
-        return searchHelper(child, word, index + 1);
+        return searchHelper(child, word, index + 1, needEnded);
     }
 
     // Returns if the word is in the trie.
     public boolean search(String word) {
-        return searchHelper(this.root, word, 0);
-    }
-
-    private boolean startsWithHelper(TrieNode node, String prefix, int index) {
-        if (index == prefix.length()) return true;
-        char c = prefix.charAt(index);
-        TrieNode child = node.getChildren().get(c);
-        if (null == child) return false;
-        return startsWithHelper(child, prefix, index + 1);
+        return searchHelper(this.root, word, 0, true);
     }
 
     // Returns if there is any word in the trie
     // that starts with the given prefix.
     public boolean startsWith(String prefix) {
-        return startsWithHelper(this.root, prefix, 0);
+        return searchHelper(this.root, prefix, 0, false);
     }
 }
 
