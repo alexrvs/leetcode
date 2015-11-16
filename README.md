@@ -63,7 +63,7 @@ Solutions for leetcode problems
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 198 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
 | 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py)/[ruby](./HappyNumber/Solution.rb)/[javascript](./HappyNumber/Solution.js) |
-| 205 | Isomorphic Strings | [python](./IsomorphicStrings/Solution.py) |
+| 205 | Isomorphic Strings | [python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
 | 208 | Implement Trie (Prefix Tree) | [java](./ImplementTrie(PrefixTree)/Solution.java)/[python](./ImplementTrie(PrefixTree)/Solution.py)/[ruby](./ImplementTrie(PrefixTree)/Solution.rb)/[javascript](./ImplementTrie(PrefixTree)/Solution.js) |
 | 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
