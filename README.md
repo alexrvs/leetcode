@@ -64,6 +64,7 @@ Solutions for leetcode problems
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 198 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
+| 201 | Bitwise AND Of Numbers Range | [ruby](./BitwiseANDOfNumbersRange/Solution.rb) |
 | 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py)/[ruby](./HappyNumber/Solution.rb)/[javascript](./HappyNumber/Solution.js) |
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
