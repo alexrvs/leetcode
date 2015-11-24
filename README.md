@@ -64,7 +64,7 @@ Solutions for leetcode problems
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
 | 198 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
-| 199 | Binary Tree Right Side View | [cpp](./BinaryTreeRightSideView/Solution.cpp)/[java](./BinaryTreeRightSideView/Solution.java)/[python](./BinaryTreeRightSideView/Solution.py)/[javascript](./BinaryTreeRightSideView/Solution.js) |
+| 199 | Binary Tree Right Side View | [cpp](./BinaryTreeRightSideView/Solution.cpp)/[java](./BinaryTreeRightSideView/Solution.java)/[python](./BinaryTreeRightSideView/Solution.py)/[ruby](./BinaryTreeRightSideView/Solution.rb)/[javascript](./BinaryTreeRightSideView/Solution.js) |
 | 201 | Bitwise AND Of Numbers Range | [cpp](./BitwiseANDOfNumbersRange/Solution.cpp)/[java](./BitwiseANDOfNumbersRange/Solution.java)/[python](./BitwiseANDOfNumbersRange/Solution.py)/[ruby](./BitwiseANDOfNumbersRange/Solution.rb)/[javascript](./BitwiseANDOfNumbersRange/Solution.js) |
 | 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py)/[ruby](./HappyNumber/Solution.rb)/[javascript](./HappyNumber/Solution.js) |
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
