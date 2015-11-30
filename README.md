@@ -9,7 +9,7 @@ Solutions for leetcode problems
 | 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp) |
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
-| 14 | Longest Common Prefix | [python](./LongestCommonPrefix/Solution.py) |
+| 14 | Longest Common Prefix | [python](./LongestCommonPrefix/Solution.py)/[ruby](./LongestCommonPrefix/Solution.rb) |
 | 19 | Remove Nth Node From End Of List | [cpp](./RemoveNthNodeFromEndOfList/Solution.cpp)/[java](./RemoveNthNodeFromEndOfList/Solution.java)/[python](./RemoveNthNodeFromEndOfList/Solution.py)/[ruby](./RemoveNthNodeFromEndOfList/Solution.rb)/[javascript](./RemoveNthNodeFromEndOfList/Solution.js) |
 | 20 | Valid Parentheses | [cpp](./ValidParentheses/Solution.cpp)/[java](./ValidParentheses/Solution.java)/[python](./ValidParentheses/Solution.py)/[ruby](./ValidParentheses/Solution.rb)/[javascript](./ValidParentheses/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
