@@ -15,7 +15,7 @@ Solutions for leetcode problems
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
 | 22 | Merge Sorted Array | [cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 24 | Swap Nodes In Pairs | [cpp](./SwapNodesInPairs/Solution.cpp)/[java](./SwapNodesInPairs/Solution.java)/[python](./SwapNodesInPairs/Solution.py)/[ruby](./SwapNodesInPairs/Solution.rb)/[javascript](./SwapNodesInPairs/Solution.js) |
-| 25 | Reverse Nodes In K-Group | [java](./ReverseNodesInK-Group/Solution.java) |
+| 25 | Reverse Nodes In K-Group | [java](./ReverseNodesInK-Group/Solution.java)/[python](./ReverseNodesInK-Group/Solution.py) |
 | 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java)/[python](./RemoveDuplicatesFromSortedArray/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArray/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArray/Solution.js) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp) |
