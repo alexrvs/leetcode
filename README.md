@@ -6,6 +6,7 @@ Solutions for leetcode problems
 | 1 | Two Sum | [cpp](./TwoSum/Solution.cpp)/[java](./TwoSum/Solution.java)/[python](./TwoSum/Solution.py)/[ruby](./TwoSum/Solution.rb)/[javascript](./TwoSum/Solution.js) |
 | 2 | Add Two Numbers | [cpp](./AddTwoNumbers/Solution.cpp)/[java](./AddTwoNumbers/Solution.java)/[python](./AddTwoNumbers/Solution.py)/[ruby](./AddTwoNumbers/Solution.rb)/[javascript](./AddTwoNumbers/Solution.js) |
 | 3 | Longest Substring Without Repeating Characters | [cpp](./LongestSubstringWithoutRepeatingCharacters/Solution.cpp)/[java](./LongestSubstringWithoutRepeatingCharacters/Solution.java)/[python](./LongestSubstringWithoutRepeatingCharacters/Solution.py)/[ruby](./LongestSubstringWithoutRepeatingCharacters/Solution.rb)/[javascript](./LongestSubstringWithoutRepeatingCharacters/Solution.js) |
+| 5 | Longest Palindromic Substring | [cpp](./LongestPalindromicSubstring/Solution.cpp) |
 | 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp) |
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
@@ -13,7 +14,6 @@ Solutions for leetcode problems
 | 19 | Remove Nth Node From End Of List | [cpp](./RemoveNthNodeFromEndOfList/Solution.cpp)/[java](./RemoveNthNodeFromEndOfList/Solution.java)/[python](./RemoveNthNodeFromEndOfList/Solution.py)/[ruby](./RemoveNthNodeFromEndOfList/Solution.rb)/[javascript](./RemoveNthNodeFromEndOfList/Solution.js) |
 | 20 | Valid Parentheses | [cpp](./ValidParentheses/Solution.cpp)/[java](./ValidParentheses/Solution.java)/[python](./ValidParentheses/Solution.py)/[ruby](./ValidParentheses/Solution.rb)/[javascript](./ValidParentheses/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
-| 22 | Merge Sorted Array | [cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 24 | Swap Nodes In Pairs | [cpp](./SwapNodesInPairs/Solution.cpp)/[java](./SwapNodesInPairs/Solution.java)/[python](./SwapNodesInPairs/Solution.py)/[ruby](./SwapNodesInPairs/Solution.rb)/[javascript](./SwapNodesInPairs/Solution.js) |
 | 25 | Reverse Nodes In K-Group | [cpp](./ReverseNodesInK-Group/Solution.cpp)/[java](./ReverseNodesInK-Group/Solution.java)/[python](./ReverseNodesInK-Group/Solution.py)/[ruby](./ReverseNodesInK-Group/Solution.rb)/[javascript](./ReverseNodesInK-Group/Solution.js) |
 | 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java)/[python](./RemoveDuplicatesFromSortedArray/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArray/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArray/Solution.js) |
@@ -33,6 +33,7 @@ Solutions for leetcode problems
 | 75 | Sort Colors | [cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
+| 88 | Merge Sorted Array | [cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 94 | Binary Tree Inorder Traversal | [cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 100 | same Tree | [cpp](./SameTree/Solution.cpp)/[java](./SameTree/Solution.java)/[python](./SameTree/Solution.py)/[ruby](./SameTree/Solution.rb)/[javascript](./SameTree/Solution.js) |
 | 102 | Binary Tree Level Order Traversal | [cpp](./BinaryTreeLevelOrderTraversal/Solution.cpp)/[java](./BinaryTreeLevelOrderTraversal/Solution.java)/[python](./BinaryTreeLevelOrderTraversal/Solution.py)/[ruby](./BinaryTreeLevelOrderTraversal/Solution.rb)/[javascript](./BinaryTreeLevelOrderTraversal/Solution.js) |
