@@ -18,6 +18,7 @@ Solutions for leetcode problems
 | 25 | Reverse Nodes In K-Group | [cpp](./ReverseNodesInK-Group/Solution.cpp)/[java](./ReverseNodesInK-Group/Solution.java)/[python](./ReverseNodesInK-Group/Solution.py)/[ruby](./ReverseNodesInK-Group/Solution.rb)/[javascript](./ReverseNodesInK-Group/Solution.js) |
 | 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java)/[python](./RemoveDuplicatesFromSortedArray/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArray/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArray/Solution.js) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
+| 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
