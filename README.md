@@ -55,7 +55,7 @@ Solutions for leetcode problems
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
 | 136 | Single Number | [cpp](./SingleNumber/Solution.cpp)/[java](./SingleNumber/Solution.java)/[python](./SingleNumber/Solution.py)/[ruby](./SingleNumber/Solution.rb)/[javascript](./SingleNumber/Solution.js) |
-| 138 | Copy List With Random Pointer | [cpp](./CopyListWithRandomPointer/Solution.cpp)/[java](./CopyListWithRandomPointer/Solution.java)/[python](./CopyListWithRandomPointer/Solution.py) |
+| 138 | Copy List With Random Pointer | [cpp](./CopyListWithRandomPointer/Solution.cpp)/[java](./CopyListWithRandomPointer/Solution.java)/[python](./CopyListWithRandomPointer/Solution.py)/[javascript](./CopyListWithRandomPointer/Solution.js) |
 | 141 | Linked List Cycle | [cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
 | 144 | Binary Tree Preorder Traversal | [cpp](./BinaryTreePreorderTraversal/Solution.cpp)/[java](./BinaryTreePreorderTraversal/Solution.java)/[python](./BinaryTreePreorderTraversal/Solution.py)/[ruby](./BinaryTreePreorderTraversal/Solution.rb)/[javascript](./BinaryTreePreorderTraversal/Solution.js) |
