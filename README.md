@@ -12,7 +12,7 @@ Solutions for leetcode problems
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 14 | Longest Common Prefix | [cpp](./LongestCommonPrefix/Solution.cpp)/[java](./LongestCommonPrefix/Solution.java)/[python](./LongestCommonPrefix/Solution.py)/[ruby](./LongestCommonPrefix/Solution.rb)/[javascript](./LongestCommonPrefix/Solution.js) |
 | 15 | 3Sum | [cpp](./3Sum/Solution.cpp)/[java](./3Sum/Solution.java)/[python](./3Sum/Solution.py)/[ruby](./3Sum/Solution.rb)/[javascript](./3Sum/Solution.js) |
-| 16 | 3Sum Closest | [cpp](./3SumClosest/Solution.cpp)/[java](./3SumClosest/Solution.java) |
+| 16 | 3Sum Closest | [cpp](./3SumClosest/Solution.cpp)/[java](./3SumClosest/Solution.java)/[python](./3SumClosest/Solution.py) |
 | 19 | Remove Nth Node From End Of List | [cpp](./RemoveNthNodeFromEndOfList/Solution.cpp)/[java](./RemoveNthNodeFromEndOfList/Solution.java)/[python](./RemoveNthNodeFromEndOfList/Solution.py)/[ruby](./RemoveNthNodeFromEndOfList/Solution.rb)/[javascript](./RemoveNthNodeFromEndOfList/Solution.js) |
 | 20 | Valid Parentheses | [cpp](./ValidParentheses/Solution.cpp)/[java](./ValidParentheses/Solution.java)/[python](./ValidParentheses/Solution.py)/[ruby](./ValidParentheses/Solution.rb)/[javascript](./ValidParentheses/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
