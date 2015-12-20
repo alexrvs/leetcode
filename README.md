@@ -7,7 +7,7 @@ Solutions for leetcode problems
 | 2 | Add Two Numbers | [cpp](./AddTwoNumbers/Solution.cpp)/[java](./AddTwoNumbers/Solution.java)/[python](./AddTwoNumbers/Solution.py)/[ruby](./AddTwoNumbers/Solution.rb)/[javascript](./AddTwoNumbers/Solution.js) |
 | 3 | Longest Substring Without Repeating Characters | [cpp](./LongestSubstringWithoutRepeatingCharacters/Solution.cpp)/[java](./LongestSubstringWithoutRepeatingCharacters/Solution.java)/[python](./LongestSubstringWithoutRepeatingCharacters/Solution.py)/[ruby](./LongestSubstringWithoutRepeatingCharacters/Solution.rb)/[javascript](./LongestSubstringWithoutRepeatingCharacters/Solution.js) |
 | 5 | Longest Palindromic Substring | [cpp](./LongestPalindromicSubstring/Solution.cpp) |
-| 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp)/[java](./ZigzagConversion/Solution.java) |
+| 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp)/[java](./ZigzagConversion/Solution.java)/[python](./ZigzagConversion/Solution.py) |
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 14 | Longest Common Prefix | [cpp](./LongestCommonPrefix/Solution.cpp)/[java](./LongestCommonPrefix/Solution.java)/[python](./LongestCommonPrefix/Solution.py)/[ruby](./LongestCommonPrefix/Solution.rb)/[javascript](./LongestCommonPrefix/Solution.js) |
