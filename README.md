@@ -12,6 +12,7 @@ Solutions for leetcode problems
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 11 | Container With Most Water | [cpp](./ContainerWithMostWater/Solution.cpp)/[java](./ContainerWithMostWater/Solution.java)/[python](./ContainerWithMostWater/Solution.py)/[ruby](./ContainerWithMostWater/Solution.rb)/[javascript](./ContainerWithMostWater/Solution.js) |
 | 12 | Integer To Roman | [cpp](./IntegerToRoman/Solution.cpp) |
+| 12 | Roman To Integer | [cpp](./RomanToInteger/Solution.cpp) |
 | 14 | Longest Common Prefix | [cpp](./LongestCommonPrefix/Solution.cpp)/[java](./LongestCommonPrefix/Solution.java)/[python](./LongestCommonPrefix/Solution.py)/[ruby](./LongestCommonPrefix/Solution.rb)/[javascript](./LongestCommonPrefix/Solution.js) |
 | 15 | 3Sum | [cpp](./3Sum/Solution.cpp)/[java](./3Sum/Solution.java)/[python](./3Sum/Solution.py)/[ruby](./3Sum/Solution.rb)/[javascript](./3Sum/Solution.js) |
 | 16 | 3Sum Closest | [cpp](./3SumClosest/Solution.cpp)/[java](./3SumClosest/Solution.java)/[python](./3SumClosest/Solution.py)/[ruby](./3SumClosest/Solution.rb)/[javascript](./3SumClosest/Solution.js) |
