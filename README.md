@@ -12,7 +12,7 @@ Solutions for leetcode problems
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 11 | Container With Most Water | [cpp](./ContainerWithMostWater/Solution.cpp)/[java](./ContainerWithMostWater/Solution.java)/[python](./ContainerWithMostWater/Solution.py)/[ruby](./ContainerWithMostWater/Solution.rb)/[javascript](./ContainerWithMostWater/Solution.js) |
 | 12 | Integer To Roman | [cpp](./IntegerToRoman/Solution.cpp) |
-| 12 | Roman To Integer | [cpp](./RomanToInteger/Solution.cpp) |
+| 13 | Roman To Integer | [cpp](./RomanToInteger/Solution.cpp) |
 | 14 | Longest Common Prefix | [cpp](./LongestCommonPrefix/Solution.cpp)/[java](./LongestCommonPrefix/Solution.java)/[python](./LongestCommonPrefix/Solution.py)/[ruby](./LongestCommonPrefix/Solution.rb)/[javascript](./LongestCommonPrefix/Solution.js) |
 | 15 | 3Sum | [cpp](./3Sum/Solution.cpp)/[java](./3Sum/Solution.java)/[python](./3Sum/Solution.py)/[ruby](./3Sum/Solution.rb)/[javascript](./3Sum/Solution.js) |
 | 16 | 3Sum Closest | [cpp](./3SumClosest/Solution.cpp)/[java](./3SumClosest/Solution.java)/[python](./3SumClosest/Solution.py)/[ruby](./3SumClosest/Solution.rb)/[javascript](./3SumClosest/Solution.js) |
@@ -27,6 +27,7 @@ Solutions for leetcode problems
 | 26 | Remove Duplicates From Sorted Array | [cpp](./RemoveDuplicatesFromSortedArray/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArray/Solution.java)/[python](./RemoveDuplicatesFromSortedArray/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArray/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArray/Solution.js) |
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
+| 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp) |
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
