@@ -28,6 +28,7 @@ Solutions for leetcode problems
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
+| 34 | Search For A Range | [cpp](./SearchForARange/Solution.cpp) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp) |
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
