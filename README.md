@@ -21,7 +21,7 @@ Solutions for leetcode problems
 | 19 | Remove Nth Node From End Of List | [cpp](./RemoveNthNodeFromEndOfList/Solution.cpp)/[java](./RemoveNthNodeFromEndOfList/Solution.java)/[python](./RemoveNthNodeFromEndOfList/Solution.py)/[ruby](./RemoveNthNodeFromEndOfList/Solution.rb)/[javascript](./RemoveNthNodeFromEndOfList/Solution.js) |
 | 20 | Valid Parentheses | [cpp](./ValidParentheses/Solution.cpp)/[java](./ValidParentheses/Solution.java)/[python](./ValidParentheses/Solution.py)/[ruby](./ValidParentheses/Solution.rb)/[javascript](./ValidParentheses/Solution.js) |
 | 21 | Merge Two Sorted Lists | [cpp](./MergeTwoSortedLists/Solution.cpp)/[java](./MergeTwoSortedLists/Solution.java)/[python](./MergeTwoSortedLists/Solution.py)/[ruby](./MergeTwoSortedLists/Solution.rb)/[javascript](./MergeTwoSortedLists/Solution.js) |
-| 22 | Generate Parentheses | [cpp](./GenerateParentheses/Solution.cpp)/[java](./GenerateParentheses/Solution.java) |
+| 22 | Generate Parentheses | [cpp](./GenerateParentheses/Solution.cpp)/[java](./GenerateParentheses/Solution.java)/[ruby](./GenerateParentheses/Solution.rb) |
 | 23 | Merge K Sorted Lists | [cpp](./MergeKSortedLists/Solution.cpp) |
 | 24 | Swap Nodes In Pairs | [cpp](./SwapNodesInPairs/Solution.cpp)/[java](./SwapNodesInPairs/Solution.java)/[python](./SwapNodesInPairs/Solution.py)/[ruby](./SwapNodesInPairs/Solution.rb)/[javascript](./SwapNodesInPairs/Solution.js) |
 | 25 | Reverse Nodes In K-Group | [cpp](./ReverseNodesInK-Group/Solution.cpp)/[java](./ReverseNodesInK-Group/Solution.java)/[python](./ReverseNodesInK-Group/Solution.py)/[ruby](./ReverseNodesInK-Group/Solution.rb)/[javascript](./ReverseNodesInK-Group/Solution.js) |
