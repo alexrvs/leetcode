@@ -50,7 +50,7 @@ Solutions for leetcode problems
 | 69 | Sqrt(x) | [cpp](./SqurtX/Solution.cpp)/[java](./SqurtX/Solution.java)/[python](./SqurtX/Solution.py)/[ruby](./SqurtX/Solution.rb)/[javascript](./SqurtX/Solution.js) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 71 | Simplify Path | [cpp](./SimplifyPath/Solution.cpp) |
-| 74 | Search A 2D Matrix | [cpp](./SearchA2DMatrix/Solution.cpp)/[java](./SearchA2DMatrix/Solution.java) |
+| 74 | Search A 2D Matrix | [cpp](./SearchA2DMatrix/Solution.cpp)/[java](./SearchA2DMatrix/Solution.java)/[python](./SearchA2DMatrix/Solution.py) |
 | 75 | Sort Colors | [cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
