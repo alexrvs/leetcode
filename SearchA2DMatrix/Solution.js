@@ -13,7 +13,7 @@ var searchRow = function(row, target) {
         }
     }
     return false;
-}
+};
 
 /**
  * @param {number[][]} matrix
