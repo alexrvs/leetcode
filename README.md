@@ -55,7 +55,7 @@ Solutions for leetcode problems
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 82 | Remove Duplicates From Sorted List II | [cpp](./RemoveDuplicatesFromSortedListII/Solution.cpp)/[java](./RemoveDuplicatesFromSortedListII/Solution.java)/[python](./RemoveDuplicatesFromSortedListII/Solution.py)/[ruby](./RemoveDuplicatesFromSortedListII/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedListII/Solution.js) |
 | 83 | Remove Duplicates From Sorted List | [cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
-| 86 | Partition List | [javascript](./PartitionList/Solution.js) |
+| 86 | Partition List | [cpp](./PartitionList/Solution.cpp)/[javascript](./PartitionList/Solution.js) |
 | 88 | Merge Sorted Array | [cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 94 | Binary Tree Inorder Traversal | [cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 100 | same Tree | [cpp](./SameTree/Solution.cpp)/[java](./SameTree/Solution.java)/[python](./SameTree/Solution.py)/[ruby](./SameTree/Solution.rb)/[javascript](./SameTree/Solution.js) |
