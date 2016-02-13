@@ -20,7 +20,7 @@ class Solution(object):
             if cur.val < x:
                 if sHead == None:
                     sHead = cur
-                else
+                else:
                     sTail.next = cur
                 sTail = cur
                 cur = cur.next
@@ -32,7 +32,7 @@ class Solution(object):
                     lTail.next = cur
                 lTail = cur
                 cur = cur.next
-                lTail.next
+                lTail.next = None
         if sTail != None:
             sTail.next = lHead
             return sHead
