@@ -29,7 +29,7 @@ Solutions for leetcode problems
 | 27 | Remove Element | [cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
-| 33 | Search In Rotated Sorted Array | [cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[ruby](./SearchInRotatedSortedArray/Solution.rb) |
+| 33 | Search In Rotated Sorted Array | [cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[python](./SearchInRotatedSortedArray/Solution.py)/[ruby](./SearchInRotatedSortedArray/Solution.rb) |
 | 34 | Search For A Range | [cpp](./SearchForARange/Solution.cpp) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp)/[java](./ValidSudoku/Solution.java)/[python](./ValidSudoku/Solution.py)/[ruby](./ValidSudoku/Solution.rb)/[javascript](./ValidSudoku/Solution.js) |
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
