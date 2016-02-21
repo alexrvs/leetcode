@@ -1,10 +1,9 @@
-class Solution {
-public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> res;
-        int n = nums.size();
+public class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        int[] res = new int[2];
+        int size = nums.length;
         int l = 0;
-        int r = n;
+        int r = size;
         int m = 0;
         while (l < r) {
             m = l + (r - l) / 2;
@@ -14,14 +13,14 @@ public:
                 r = m;
             }
         }
-        if (l == n || nums[l] != target) {
-            res.push_back(-1);
-            res.push_back(-1);
+        if (l == size || nums[l] != target) {
+            res[0] = -1;
+            res[1] = -1;
             return res;
         }
-        res.push_back(l);
+        res[0] = l;
         l = 0;
-        r = n;
+        r = size;
         while (l < r) {
             m = l + (r - l) / 2;
             if (nums[m] <= target) {
@@ -30,7 +29,7 @@ public:
                 r = m;
             }
         }
-        res.push_back(l - 1);
+        res[1] = l - 1;
         return res;
     }
-};
+}
