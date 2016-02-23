@@ -137,4 +137,4 @@ Solutions for leetcode problems
 | 303 | Range Sum Query - Immutable | [cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[python](./RangeSumQueryImmutable/Solution.py)/[ruby](./RangeSumQueryImmutable/Solution.rb)/[javascript](./RangeSumQueryImmutable/Solution.js) |
 | 326 | Power Of Three | [cpp](./PowerOfThree/Solution.cpp)/[java](./PowerOfThree/Solution.java)/[python](./PowerOfThree/Solution.py)/[ruby](./PowerOfThree/Solution.rb)/[javascript](./PowerOfThree/Solution.js) |
 | 328 | Odd Even Linked List | [cpp](./OddEvenLinkedList/Solution.cpp)/[java](./OddEvenLinkedList/Solution.java)/[python](./OddEvenLinkedList/Solution.py)/[ruby](./OddEvenLinkedList/Solution.rb)/[javascript](./OddEvenLinkedList/Solution.js) |
-| 334 | Increasing Triplet Subsequence | [cpp](./IncreasingTripletSubsequence/Solution.cpp) |
+| 334 | Increasing Triplet Subsequence | [cpp](./IncreasingTripletSubsequence/Solution.cpp)/[java](./IncreasingTripletSubsequence/Solution.java) |
