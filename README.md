@@ -134,7 +134,7 @@ Solutions for leetcode problems
 | 290 | Word Pattern | [java](./WordPattern/Solution.java)/[python](./WordPattern/Solution.py)/[ruby](./WordPattern/Solution.rb)/[javascript](./WordPattern/Solution.js) |
 | 292 | Nim Game | [cpp](./NimGame/Solution.cpp)/[java](./NimGame/Solution.java)/[python](./NimGame/Solution.py)/[ruby](./NimGame/Solution.rb)/[javascript](./NimGame/Solution.js) |
 | 299 | Bulls And Cows | [cpp](./BullsAndCows/Solution.cpp)/[java](./BullsAndCows/Solution.java)/[python](./BullsAndCows/Solution.py)/[ruby](./BullsAndCows/Solution.rb)/[javascript](./BullsAndCows/Solution.js) |
-| 300 | Longest Increasing Subsequence | [cpp](./LongestIncreasingSubsequence/Solution.cpp) |
+| 300 | Longest Increasing Subsequence | [cpp](./LongestIncreasingSubsequence/Solution.cpp)/[java](./LongestIncreasingSubsequence/Solution.java) |
 | 303 | Range Sum Query - Immutable | [cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[python](./RangeSumQueryImmutable/Solution.py)/[ruby](./RangeSumQueryImmutable/Solution.rb)/[javascript](./RangeSumQueryImmutable/Solution.js) |
 | 313 | Super Ugly Number | [cpp](./SuperUglyNumber/Solution.cpp)/[java](./SuperUglyNumber/Solution.java)/[python](./SuperUglyNumber/Solution.py)/[ruby](./SuperUglyNumber/Solution.rb)/[javascript](./SuperUglyNumber/Solution.js) |
 | 322 | Coin Change | [cpp](./CoinChange/Solution.cpp)/[java](./CoinChange/Solution.java)/[python](./CoinChange/Solution.py)/[ruby](./CoinChange/Solution.rb)/[javascript](./CoinChange/Solution.js) |
