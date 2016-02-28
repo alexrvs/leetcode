@@ -33,6 +33,7 @@ Solutions for leetcode problems
 | 34 | Search For A Range | [cpp](./SearchForARange/Solution.cpp)/[java](./SearchForARange/Solution.java)/[python](./SearchForARange/Solution.py)/[ruby](./SearchForARange/Solution.rb)/[javascript](./SearchForARange/Solution.js) |
 | 35 | Search Insert Position | [cpp](./SearchInsertPosition/Solution.cpp)/[java](./SearchInsertPosition/Solution.java)/[python](./SearchInsertPosition/Solution.py)/[ruby](./SearchInsertPosition/Solution.rb)/[javascript](./SearchInsertPosition/Solution.js) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp)/[java](./ValidSudoku/Solution.java)/[python](./ValidSudoku/Solution.py)/[ruby](./ValidSudoku/Solution.rb)/[javascript](./ValidSudoku/Solution.js) |
+| 37 | Sudoku Solver | [cpp](./SudokuSolver/Solution.cpp) |
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
