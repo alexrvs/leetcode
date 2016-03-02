@@ -12,8 +12,8 @@ def is_valid(board, a, b)
     y = b / 3 * 3
     0.upto(2) do | i |
         0.upto(2) do | j |
-        return false if x + i != a && y + j != b && board[x + i][y + j] == board[a][b]
-    end
+            return false if x + i != a && y + j != b && board[x + i][y + j] == board[a][b]
+        end
     end
     return true
 end
@@ -24,15 +24,15 @@ def dfs(board)
     c = board[0].length
     r.times do | i |
         c.times do | j |
-        if board[i][j] == '.' then
-            "123456789".chars.each do | c |
-                board[i][j] = c
-                return true if is_valid(board, i, j) && dfs(board)
-                board[i][j] = '.'
+            if board[i][j] == '.' then
+                "123456789".chars.each do | c |
+                    board[i][j] = c
+                    return true if is_valid(board, i, j) && dfs(board)
+                    board[i][j] = '.'
+                end
+                return false
             end
-            return false
         end
-    end
     end
     return true
 end
