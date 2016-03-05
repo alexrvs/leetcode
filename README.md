@@ -93,6 +93,7 @@ Solutions for leetcode problems
 | 153 | Find Minimum In Rotated Sorted Array | [cpp](./FindMinimumInRotatedSortedArray/MinStack.cpp)/[java](./FindMinimumInRotatedSortedArray/MinStack.java)/[python](./FindMinimumInRotatedSortedArray/MinStack.py)/[ruby](./FindMinimumInRotatedSortedArray/MinStack.rb)/[javascript](./FindMinimumInRotatedSortedArray/MinStack.js) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
 | 162 | Find Peak Element | [cpp](./FindPeakElement/Solution.cpp)/[java](./FindPeakElement/Solution.java)/[python](./FindPeakElement/Solution.py)/[ruby](./FindPeakElement/Solution.rb)/[javascript](./FindPeakElement/Solution.js) |
+| 171 | Excel Sheet Column Number | [cpp](./ExcelSheetColumnNumber/Solution.cpp) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 179 | Largest Number | [python](./LargestNumber/Solution.py)/[ruby](./LargestNumber/Solution.rb) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
