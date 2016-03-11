@@ -73,7 +73,7 @@ Solutions for leetcode problems
 | 110 | Balanced Binary Tree | [cpp](./BalancedBinaryTree/Solution.cpp)/[java](./BalancedBinaryTree/Solution.java)/[python](./BalancedBinaryTree/Solution.py)/[ruby](./BalancedBinaryTree/Solution.rb)/[javascript](./BalancedBinaryTree/Solution.js) |
 | 111 | Minimum Depth Of Binary Tree | [cpp](./MinimumDepthOfBinaryTree/Solution.cpp)/[java](./MinimumDepthOfBinaryTree/Solution.java)/[python](./MinimumDepthOfBinaryTree/Solution.py)/[ruby](./MinimumDepthOfBinaryTree/Solution.rb) |
 | 112 | Path Sum | [cpp](./PathSum/Solution.cpp)/[java](./PathSum/Solution.java)/[python](./PathSum/Solution.py)/[ruby](./PathSum/Solution.rb)/[javascript](./PathSum/Solution.js) |
-| 113 | Path Sum II | [cpp](./PathSumII/Solution.cpp)/[java](./PathSumII/Solution.java)/[python](./PathSumII/Solution.py) |
+| 113 | Path Sum II | [cpp](./PathSumII/Solution.cpp)/[java](./PathSumII/Solution.java)/[python](./PathSumII/Solution.py)/[ruby](./PathSumII/Solution.rb) |
 | 114 | Flatten Binary Tree To Linked List | [cpp](./FlattenBinaryTreeToLinkedList/Solution.cpp)/[java](./FlattenBinaryTreeToLinkedList/Solution.java)/[python](./FlattenBinaryTreeToLinkedList/Solution.py)/[ruby](./FlattenBinaryTreeToLinkedList/Solution.rb)/[javascript](./FlattenBinaryTreeToLinkedList/Solution.js) |
 | 118 | Pascal's Triangle | [cpp](./PascalsTriangle/Solution.cpp)/[java](./PascalsTriangle/Solution.java)/[python](./PascalsTriangle/Solution.py)/[ruby](./PascalsTriangle/Solution.rb)/[javascript](./PascalsTriangle/Solution.js) |
 | 119 | Pascal's Triangle II | [cpp](./PascalsTriangleII/Solution.cpp)/[java](./PascalsTriangleII/Solution.java)/[python](./PascalsTriangleII/Solution.py)/[ruby](./PascalsTriangleII/Solution.rb)/[javascript](./PascalsTriangleII/Solution.js) |
