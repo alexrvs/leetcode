@@ -116,7 +116,7 @@ Solutions for leetcode problems
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
 | 206 | Reverse Linked List | [cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
 | 208 | Implement Trie (Prefix Tree) | [java](./ImplementTrie(PrefixTree)/Solution.java)/[python](./ImplementTrie(PrefixTree)/Solution.py)/[ruby](./ImplementTrie(PrefixTree)/Solution.rb)/[javascript](./ImplementTrie(PrefixTree)/Solution.js) |
-| 213 | House Robber II | [cpp](./HouseRobberII/Solution.cpp) |
+| 213 | House Robber II | [cpp](./HouseRobberII/Solution.cpp)/[java](./HouseRobberII/Solution.java) |
 | 215 | Kth Largest Element in an Array | [cpp](./KthLargestElementInAnArray/Solution.cpp)/[java](./KthLargestElementInAnArray/Solution.java)/[python](./KthLargestElementInAnArray/Solution.py)/[ruby](./KthLargestElementInAnArray/Solution.rb)/[javascript](./KthLargestElementInAnArray/Solution.js) |
 | 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
