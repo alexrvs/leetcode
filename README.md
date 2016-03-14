@@ -150,4 +150,4 @@ Solutions for leetcode problems
 | 326 | Power Of Three | [cpp](./PowerOfThree/Solution.cpp)/[java](./PowerOfThree/Solution.java)/[python](./PowerOfThree/Solution.py)/[ruby](./PowerOfThree/Solution.rb)/[javascript](./PowerOfThree/Solution.js) |
 | 328 | Odd Even Linked List | [cpp](./OddEvenLinkedList/Solution.cpp)/[java](./OddEvenLinkedList/Solution.java)/[python](./OddEvenLinkedList/Solution.py)/[ruby](./OddEvenLinkedList/Solution.rb)/[javascript](./OddEvenLinkedList/Solution.js) |
 | 334 | Increasing Triplet Subsequence | [cpp](./IncreasingTripletSubsequence/Solution.cpp)/[java](./IncreasingTripletSubsequence/Solution.java)/[python](./IncreasingTripletSubsequence/Solution.py)/[ruby](./IncreasingTripletSubsequence/Solution.rb)/[javascript](./IncreasingTripletSubsequence/Solution.js) |
-| 33y | House Robber III | [cpp](./HouseRobberIII/Solution.cpp)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb) |
+| 33y | House Robber III | [cpp](./HouseRobberIII/Solution.cpp)/[java](./HouseRobberIII/Solution.java)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb) |
