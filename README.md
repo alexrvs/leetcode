@@ -10,6 +10,7 @@ Solutions for leetcode problems
 | 5 | Longest Palindromic Substring | [cpp](./LongestPalindromicSubstring/Solution.cpp) |
 | 6 | Zigzag Conversion | [cpp](./ZigzagConversion/Solution.cpp)/[java](./ZigzagConversion/Solution.java)/[python](./ZigzagConversion/Solution.py)/[ruby](./ZigzagConversion/Solution.rb)/[javascript](./ZigzagConversion/Solution.js) |
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
+| 8 | String To Integer | [cpp](./StringToInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
 | 11 | Container With Most Water | [cpp](./ContainerWithMostWater/Solution.cpp)/[java](./ContainerWithMostWater/Solution.java)/[python](./ContainerWithMostWater/Solution.py)/[ruby](./ContainerWithMostWater/Solution.rb)/[javascript](./ContainerWithMostWater/Solution.js) |
 | 12 | Integer To Roman | [cpp](./IntegerToRoman/Solution.cpp) |
