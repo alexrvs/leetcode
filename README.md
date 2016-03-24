@@ -40,7 +40,7 @@ Solutions for leetcode problems
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
-| 44 | Wildcard Matching | [cpp](./WildcardMatching/Solution.cpp)/[java](./WildcardMatching/Solution.java)/[python](./WildcardMatching/Solution.py) |
+| 44 | Wildcard Matching | [cpp](./WildcardMatching/Solution.cpp)/[java](./WildcardMatching/Solution.java)/[python](./WildcardMatching/Solution.py)/[ruby](./WildcardMatching/Solution.rb) |
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
