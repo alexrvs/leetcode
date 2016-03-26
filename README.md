@@ -38,7 +38,7 @@ Solutions for leetcode problems
 | 37 | Sudoku Solver | [cpp](./SudokuSolver/Solution.cpp)/[java](./SudokuSolver/Solution.java)/[python](./SudokuSolver/Solution.py)/[ruby](./SudokuSolver/Solution.rb)/[javascript](./SudokuSolver/Solution.js) |
 | 38 | Count And Say | [cpp](./CountAndSay/Solution.cpp) |
 | 39 | Combination Sum | [cpp](./CombinationSum/Solution.cpp)/[java](./CombinationSum/Solution.java)/[python](./CombinationSum/Solution.py)/[ruby](./CombinationSum/Solution.rb)/[javascript](./CombinationSum/Solution.js) |
-| 40 | Combination Sum II | [cpp](./CombinationSumII/Solution.cpp)/[javascript](./CombinationSumII/Solution.js) |
+| 40 | Combination Sum II | [cpp](./CombinationSumII/Solution.cpp)/[java](./CombinationSumII/Solution.java)/[javascript](./CombinationSumII/Solution.js) |
 | 41 | First Missing Positive | [cpp](./FirstMissingPositive/Solution.cpp)/[java](./FirstMissingPositive/Solution.java)/[python](./FirstMissingPositive/Solution.py)/[ruby](./FirstMissingPositive/Solution.rb)/[javascript](./FirstMissingPositive/Solution.js) |
 | 42 | Trapping Rain Water | [cpp](./TrappingRainWater/Solution.cpp)/[java](./TrappingRainWater/Solution.java)/[python](./TrappingRainWater/Solution.py)/[ruby](./TrappingRainWater/Solution.rb)/[javascript](./TrappingRainWater/Solution.js) |
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
