@@ -4,6 +4,7 @@ class Solution(object):
             return
         if sum == 0:
             res.append(list(path))
+            return
         l = len(candidates)
         for i in range(index, l):
             path.append(candidates[i])
@@ -18,5 +19,6 @@ class Solution(object):
         """
         res = []
         path = []
-        self.helper(candidates, path, 0, 0, res)
+        list.sort(candidates)
+        self.helper(candidates, path, 0, target, res)
         return res
