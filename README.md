@@ -56,7 +56,7 @@ Solutions for leetcode problems
 | 64 | Minimum Path Sum | [cpp](./MinimumPathSum/Solution.cpp)/[java](./MinimumPathSum/Solution.java)/[python](./MinimumPathSum/Solution.py)/[ruby](./MinimumPathSum/Solution.rb)/[javascript](./MinimumPathSum/Solution.js) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp)/[java](./PlusOne/Solution.java)/[python](./PlusOne/Solution.py) |
 | 67 | Add Binary | [cpp](./AddBinary/Solution.cpp)/[java](./AddBinary/Solution.java)/[python](./AddBinary/Solution.py)/[ruby](./AddBinary/Solution.rb)/[javascript](./AddBinary/Solution.js) |
-| 68 | Text Justification | [cpp](./TextJustification/Solution.cpp) |
+| 68 | Text Justification | [cpp](./TextJustification/Solution.cpp)/[java](./TextJustification/Solution.java) |
 | 69 | Sqrt(x) | [cpp](./SqurtX/Solution.cpp)/[java](./SqurtX/Solution.java)/[python](./SqurtX/Solution.py)/[ruby](./SqurtX/Solution.rb)/[javascript](./SqurtX/Solution.js) |
 | 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 71 | Simplify Path | [cpp](./SimplifyPath/Solution.cpp) |
