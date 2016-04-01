@@ -158,7 +158,7 @@ Solutions for leetcode problems
 | 300 | Longest Increasing Subsequence | [cpp](./LongestIncreasingSubsequence/Solution.cpp)/[java](./LongestIncreasingSubsequence/Solution.java)/[python](./LongestIncreasingSubsequence/Solution.py)/[ruby](./LongestIncreasingSubsequence/Solution.rb)/[javascript](./LongestIncreasingSubsequence/Solution.js) |
 | 303 | Range Sum Query - Immutable | [cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[python](./RangeSumQueryImmutable/Solution.py)/[ruby](./RangeSumQueryImmutable/Solution.rb)/[javascript](./RangeSumQueryImmutable/Solution.js) |
 | 313 | Super Ugly Number | [cpp](./SuperUglyNumber/Solution.cpp)/[java](./SuperUglyNumber/Solution.java)/[python](./SuperUglyNumber/Solution.py)/[ruby](./SuperUglyNumber/Solution.rb)/[javascript](./SuperUglyNumber/Solution.js) |
-| 319 | Bulb Switcher | [cpp](./BulbSwitcher/Solution.cpp)/[java](./BulbSwitcher/Solution.java) |
+| 319 | Bulb Switcher | [cpp](./BulbSwitcher/Solution.cpp)/[java](./BulbSwitcher/Solution.java)/[python](./BulbSwitcher/Solution.py) |
 | 322 | Coin Change | [cpp](./CoinChange/Solution.cpp)/[java](./CoinChange/Solution.java)/[python](./CoinChange/Solution.py)/[ruby](./CoinChange/Solution.rb)/[javascript](./CoinChange/Solution.js) |
 | 326 | Power Of Three | [cpp](./PowerOfThree/Solution.cpp)/[java](./PowerOfThree/Solution.java)/[python](./PowerOfThree/Solution.py)/[ruby](./PowerOfThree/Solution.rb)/[javascript](./PowerOfThree/Solution.js) |
 | 328 | Odd Even Linked List | [cpp](./OddEvenLinkedList/Solution.cpp)/[java](./OddEvenLinkedList/Solution.java)/[python](./OddEvenLinkedList/Solution.py)/[ruby](./OddEvenLinkedList/Solution.rb)/[javascript](./OddEvenLinkedList/Solution.js) |
