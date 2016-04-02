@@ -45,6 +45,7 @@ Solutions for leetcode problems
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
 | 44 | Wildcard Matching | [cpp](./WildcardMatching/Solution.cpp)/[java](./WildcardMatching/Solution.java)/[python](./WildcardMatching/Solution.py)/[ruby](./WildcardMatching/Solution.rb)/[javascript](./WildcardMatching/Solution.js) |
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
+| 46 | Permutations | [cpp](./Permutations/Solution.cpp) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
 | 53 | Maximum Subarray | [cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
