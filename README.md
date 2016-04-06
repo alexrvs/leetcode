@@ -45,7 +45,7 @@ Solutions for leetcode problems
 | 43 | Multiply Strings | [cpp](./MultiplyStrings/Solution.cpp)/[java](./MultiplyStrings/Solution.java)/[python](./MultiplyStrings/Solution.py)/[ruby](./MultiplyStrings/Solution.rb)/[javascript](./MultiplyStrings/Solution.js) |
 | 44 | Wildcard Matching | [cpp](./WildcardMatching/Solution.cpp)/[java](./WildcardMatching/Solution.java)/[python](./WildcardMatching/Solution.py)/[ruby](./WildcardMatching/Solution.rb)/[javascript](./WildcardMatching/Solution.js) |
 | 45 | Jump Game II | [cpp](./JumpGameII/Solution.cpp)/[java](./JumpGameII/Solution.java)/[python](./JumpGameII/Solution.py)/[ruby](./JumpGameII/Solution.rb)/[javascript](./JumpGameII/Solution.js) |
-| 46 | Permutations | [cpp](./Permutations/Solution.cpp) |
+| 46 | Permutations | [cpp](./Permutations/Solution.cpp)/[java](./Permutations/Solution.java) |
 | 47 | Permutations II | [cpp](./PermutationsII/Solution.cpp)/[java](./PermutationsII/Solution.java)/[python](./PermutationsII/Solution.py) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
