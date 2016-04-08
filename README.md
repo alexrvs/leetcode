@@ -48,6 +48,7 @@ Solutions for leetcode problems
 | 46 | Permutations | [cpp](./Permutations/Solution.cpp)/[java](./Permutations/Solution.java)/[python](./Permutations/Solution.py)/[ruby](./Permutations/Solution.rb)/[javascript](./Permutations/Solution.js) |
 | 47 | Permutations II | [cpp](./PermutationsII/Solution.cpp)/[java](./PermutationsII/Solution.java)/[python](./PermutationsII/Solution.py)/[ruby](./PermutationsII/Solution.rb)/[javascript](./PermutationsII/Solution.js) |
 | 48 | Rotate Image | [cpp](./RotateImage/Solution.cpp)/[java](./RotateImage/Solution.java)/[python](./RotateImage/Solution.py)/[ruby](./RotateImage/Solution.rb)/[javascript](./RotateImage/Solution.js) |
+| 50 | Power(x, n) | [python](./RotateImage/Solution.py) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
 | 53 | Maximum Subarray | [cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
