@@ -59,6 +59,7 @@ Solutions for leetcode problems
 | 62 | Unique Paths | [cpp](./UniquePaths/Solution.cpp)/[java](./UniquePaths/Solution.java)/[python](./UniquePaths/Solution.py)/[ruby](./UniquePaths/Solution.rb)/[javascript](./UniquePaths/Solution.js) |
 | 63 | Unique Paths II | [python](./UniquePathsII/Solution.py) |
 | 64 | Minimum Path Sum | [cpp](./MinimumPathSum/Solution.cpp)/[java](./MinimumPathSum/Solution.java)/[python](./MinimumPathSum/Solution.py)/[ruby](./MinimumPathSum/Solution.rb)/[javascript](./MinimumPathSum/Solution.js) |
+| 65 | Valid Number | [cpp](./ValidNumber/Solution.cpp) |
 | 66 | Plus One | [cpp](./PlusOne/Solution.cpp)/[java](./PlusOne/Solution.java)/[python](./PlusOne/Solution.py) |
 | 67 | Add Binary | [cpp](./AddBinary/Solution.cpp)/[java](./AddBinary/Solution.java)/[python](./AddBinary/Solution.py)/[ruby](./AddBinary/Solution.rb)/[javascript](./AddBinary/Solution.js) |
 | 68 | Text Justification | [cpp](./TextJustification/Solution.cpp)/[java](./TextJustification/Solution.java)/[python](./TextJustification/Solution.py)/[ruby](./TextJustification/Solution.rb)/[javascript](./TextJustification/Solution.js) |
