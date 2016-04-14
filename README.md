@@ -91,7 +91,7 @@ Solutions for leetcode problems
 | 113 | Path Sum II | [cpp](./PathSumII/Solution.cpp)/[java](./PathSumII/Solution.java)/[python](./PathSumII/Solution.py)/[ruby](./PathSumII/Solution.rb)/[javascript](./PathSumII/Solution.js) |
 | 114 | Flatten Binary Tree To Linked List | [cpp](./FlattenBinaryTreeToLinkedList/Solution.cpp)/[java](./FlattenBinaryTreeToLinkedList/Solution.java)/[python](./FlattenBinaryTreeToLinkedList/Solution.py)/[ruby](./FlattenBinaryTreeToLinkedList/Solution.rb)/[javascript](./FlattenBinaryTreeToLinkedList/Solution.js) |
 | 116 | Populating Next Right Pointers In Each Node | [cpp](./PopulatingNextRightPointersInEachNode/Solution.cpp) |
-| 117 | Populating Next Right Pointers In Each Node II | [cpp](./PopulatingNextRightPointersInEachNodeII/Solution.cpp) |
+| 117 | Populating Next Right Pointers In Each Node II | [cpp](./PopulatingNextRightPointersInEachNodeII/Solution.cpp)/[java](./PopulatingNextRightPointersInEachNodeII/Solution.java) |
 | 118 | Pascal's Triangle | [cpp](./PascalsTriangle/Solution.cpp)/[java](./PascalsTriangle/Solution.java)/[python](./PascalsTriangle/Solution.py)/[ruby](./PascalsTriangle/Solution.rb)/[javascript](./PascalsTriangle/Solution.js) |
 | 119 | Pascal's Triangle II | [cpp](./PascalsTriangleII/Solution.cpp)/[java](./PascalsTriangleII/Solution.java)/[python](./PascalsTriangleII/Solution.py)/[ruby](./PascalsTriangleII/Solution.rb)/[javascript](./PascalsTriangleII/Solution.js) |
 | 120 | Triangle | [cpp](./Triangle/Solution.cpp)/[java](./Triangle/Solution.java)/[python](./Triangle/Solution.py)/[ruby](./Triangle/Solution.rb)/[javascript](./Triangle/Solution.js) |
