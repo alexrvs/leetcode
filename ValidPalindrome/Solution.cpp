@@ -7,7 +7,7 @@ private:
         if (0 <= ord && ord <= 26) return c;
         ord = c - 'A';
         if (0 <= ord && ord <= 26) return 'a' + ord;
-        return '+';
+        return 0;
     }
 public:
     bool isPalindrome(string s) {
@@ -16,12 +16,12 @@ public:
         int r = size - 1;
         while (l < r) {
             char lo = toOrd(s[l]);
-            if (lo == '+') {
+            if (lo == 0) {
                 l++;
                 continue;
             }
             char ro = toOrd(s[r]);
-            if (ro == '+') {
+            if (ro == 0) {
                 r--;
                 continue;
             }
