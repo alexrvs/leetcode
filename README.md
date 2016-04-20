@@ -99,7 +99,7 @@ Solutions for leetcode problems
 | 122 | Best Time To Buy And Sell Stock II | [cpp](./BestTimeToBuyAndSellStockII/Solution.cpp)/[java](./BestTimeToBuyAndSellStockII/Solution.java)/[python](./BestTimeToBuyAndSellStockII/Solution.py)/[ruby](./BestTimeToBuyAndSellStockII/Solution.rb)/[javascript](./BestTimeToBuyAndSellStockII/Solution.js) |
 | 123 | Best Time To Buy And Sell Stock III | [cpp](./BestTimeToBuyAndSellStockIII/Solution.cpp)/[java](./BestTimeToBuyAndSellStockIII/Solution.java)/[python](./BestTimeToBuyAndSellStockIII/Solution.py)/[ruby](./BestTimeToBuyAndSellStockIII/Solution.rb)/[javascript](./BestTimeToBuyAndSellStockIII/Solution.js) |
 | 124 | Binary Tree Maximum Path Sum | [cpp](./BinaryTreeMaximumPathSum/Solution.cpp)/[java](./BinaryTreeMaximumPathSum/Solution.java)/[python](./BinaryTreeMaximumPathSum/Solution.py)/[ruby](./BinaryTreeMaximumPathSum/Solution.rb)/[javascript](./BinaryTreeMaximumPathSum/Solution.js) |
-| 125 | Valid Palindrome | [cpp](./ValidPalindrome/Solution.cpp) |
+| 125 | Valid Palindrome | [cpp](./ValidPalindrome/Solution.cpp)/[java](./ValidPalindrome/Solution.java) |
 | 129 | Sum Root To Leaf Numbers | [cpp](./SumRootToLeafNumbers/Solution.cpp)/[java](./SumRootToLeafNumbers/Solution.java)/[python](./SumRootToLeafNumbers/Solution.py)/[ruby](./SumRootToLeafNumbers/Solution.rb)/[javascript](./SumRootToLeafNumbers/Solution.js) |
 | 134 | Gas Station | [cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
 | 135 | Candy | [cpp](./Candy/Solution.cpp)/[java](./Candy/Solution.java)/[python](./Candy/Solution.py)/[ruby](./Candy/Solution.rb)/[javascript](./Candy/Solution.js) |
