@@ -177,4 +177,4 @@ Solutions for leetcode problems
 | 334 | Increasing Triplet Subsequence | [cpp](./IncreasingTripletSubsequence/Solution.cpp)/[java](./IncreasingTripletSubsequence/Solution.java)/[python](./IncreasingTripletSubsequence/Solution.py)/[ruby](./IncreasingTripletSubsequence/Solution.rb)/[javascript](./IncreasingTripletSubsequence/Solution.js) |
 | 337 | House Robber III | [cpp](./HouseRobberIII/Solution.cpp)/[java](./HouseRobberIII/Solution.java)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb)/[javascript](./HouseRobberIII/Solution.js) |
 | 338 | Count Bits | [cpp](./CountBits/Solution.cpp)/[java](./CountBits/Solution.java)/[python](./CountBits/Solution.py)/[ruby](./CountBits/Solution.rb)/[javascript](./CountBits/Solution.js)/[swift](./CountBits/Solution.swift) |
-| 342 | Power Of Four | [cpp](./CountBits/Solution.cpp)/[python](./CountBits/Solution.py)/[ruby](./CountBits/Solution.rb)/[javascript](./CountBits/Solution.js) |
+| 342 | Power Of Four | [c](./CountBits/Solution.c)/[cpp](./CountBits/Solution.cpp)/[python](./CountBits/Solution.py)/[ruby](./CountBits/Solution.rb)/[javascript](./CountBits/Solution.js) |
