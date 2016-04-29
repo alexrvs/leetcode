@@ -65,7 +65,7 @@ Solutions for leetcode problems
 | 67 | Add Binary | [cpp](./AddBinary/Solution.cpp)/[java](./AddBinary/Solution.java)/[python](./AddBinary/Solution.py)/[ruby](./AddBinary/Solution.rb)/[javascript](./AddBinary/Solution.js) |
 | 68 | Text Justification | [cpp](./TextJustification/Solution.cpp)/[java](./TextJustification/Solution.java)/[python](./TextJustification/Solution.py)/[ruby](./TextJustification/Solution.rb)/[javascript](./TextJustification/Solution.js) |
 | 69 | Sqrt(x) | [cpp](./SqurtX/Solution.cpp)/[java](./SqurtX/Solution.java)/[python](./SqurtX/Solution.py)/[ruby](./SqurtX/Solution.rb)/[javascript](./SqurtX/Solution.js) |
-| 70 | Climbing Stairs | [cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
+| 70 | Climbing Stairs | [c](./ClimbingStairs/Solution.c)/[cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 71 | Simplify Path | [cpp](./SimplifyPath/Solution.cpp) |
 | 73 | Set Matrix Zeros | [cpp](./SetMatrixZeros/Solution.cpp)/[java](./SetMatrixZeros/Solution.java)/[python](./SetMatrixZeros/Solution.py)/[ruby](./SetMatrixZeros/Solution.rb)/[javascript](./SetMatrixZeros/Solution.js) |
 | 74 | Search A 2D Matrix | [cpp](./SearchA2DMatrix/Solution.cpp)/[java](./SearchA2DMatrix/Solution.java)/[python](./SearchA2DMatrix/Solution.py)/[ruby](./SearchA2DMatrix/Solution.rb)/[javascript](./SearchA2DMatrix/Solution.js) |
