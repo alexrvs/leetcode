@@ -12,6 +12,7 @@ Solutions for leetcode problems
 | 7 | Reverse Integer | [cpp](./ReverseInteger/Solution.cpp) |
 | 8 | String To Integer | [cpp](./StringToInteger/Solution.cpp) |
 | 9 | Palindrome Number | [cpp](./PalindromeNumber/Solution.cpp) |
+| 10 | Regular Expression Matching | [c](./RegularExpressionMatching/Solution.c) |
 | 11 | Container With Most Water | [cpp](./ContainerWithMostWater/Solution.cpp)/[java](./ContainerWithMostWater/Solution.java)/[python](./ContainerWithMostWater/Solution.py)/[ruby](./ContainerWithMostWater/Solution.rb)/[javascript](./ContainerWithMostWater/Solution.js) |
 | 12 | Integer To Roman | [cpp](./IntegerToRoman/Solution.cpp) |
 | 13 | Roman To Integer | [cpp](./RomanToInteger/Solution.cpp) |
