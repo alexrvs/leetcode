@@ -119,6 +119,7 @@ Solutions for leetcode problems
 | 162 | Find Peak Element | [cpp](./FindPeakElement/Solution.cpp)/[java](./FindPeakElement/Solution.java)/[python](./FindPeakElement/Solution.py)/[ruby](./FindPeakElement/Solution.rb)/[javascript](./FindPeakElement/Solution.js) |
 | 171 | Excel Sheet Column Number | [cpp](./ExcelSheetColumnNumber/Solution.cpp)/[java](./ExcelSheetColumnNumber/Solution.java)/[python](./ExcelSheetColumnNumber/Solution.py)/[ruby](./ExcelSheetColumnNumber/Solution.rb)/[javascript](./ExcelSheetColumnNumber/Solution.js) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
+| 173 | Binary Search Tree Iterator | [java](./BinarySearchTreeIterator/Solution.java) |
 | 179 | Largest Number | [python](./LargestNumber/Solution.py)/[ruby](./LargestNumber/Solution.rb) |
 | 189 | Rotate Array | [cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
 | 190 | Reverse Bits | [cpp](./ReverseBits/Solution.cpp) |

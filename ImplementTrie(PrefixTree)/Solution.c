@@ -9,7 +9,7 @@ struct TrieNode* trieCreate() {
     for (int i = 0; i < 26; i++) {
         node->children[i] = NULL;
     }
-    node->isEnded = true;
+    node->isEnded = false;
     return node;
 }
 
@@ -24,7 +24,7 @@ void insert(struct TrieNode* root, char* word) {
         node->isEnded = true;
         root->children[i] = node;
     }
-    root->isEnded = false;
+    if (*(word + 1) == 0) root->children[i]->isEnded = true;
     insert(root->children[i], word + 1);
 }
 
