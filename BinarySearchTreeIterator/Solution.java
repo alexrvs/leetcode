@@ -10,34 +10,32 @@
 
 public class BSTIterator {
 
-    private List<TreeNode> order;
-    private int cur;
+    private Stack<TreeNode> stack;
 
     private void helper(TreeNode node) {
-        if (node == null) return;
-        helper(node.left);
-        order.add(node);
-        helper(node.right);
+        while (node != null) {
+            stack.push(node);
+            node = node.left;
+        }
         return;
     }
 
     public BSTIterator(TreeNode root) {
-        order = new ArrayList<TreeNode>();
-        cur = 0;
+        stack = new Stack<TreeNode>();
         helper(root);
         return;
     }
 
     /** @return whether we have a next smallest number */
     public boolean hasNext() {
-        return (cur != order.size());
+        return (! stack.isEmpty());
     }
 
     /** @return the next smallest number */
     public int next() {
-        int val = order.get(cur).val;
-        cur++;
-        return val;
+        TreeNode node = stack.pop();
+        helper(node.right);
+        return node.val;
     }
 }
 
