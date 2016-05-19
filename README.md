@@ -184,4 +184,4 @@ Solutions for leetcode problems
 | 343 | Integer Break | [c](./IntegerBreak/Solution.c)/[cpp](./IntegerBreak/Solution.cpp)/[java](./IntegerBreak/Solution.java)/[python](./IntegerBreak/Solution.py)/[ruby](./IntegerBreak/Solution.rb)/[javascript](./IntegerBreak/Solution.js) |
 | 344 | Reverse String | [c](./ReverseString/Solution.c)/[cpp](./ReverseString/Solution.cpp)/[java](./ReverseString/Solution.java)/[py](./ReverseString/Solution.py)/[ruby](./ReverseString/Solution.rb)/[javascript](./ReverseString/Solution.js) |
 | 345 | Reverse Vowels Of A String | [c](./ReverseVowelsOfAString/Solution.c) |
-| 349 | Intersection Of Two Arrays | [cpp](./IntersectionOfTwoArrays/Solution.cpp) |
+| 349 | Intersection Of Two Arrays | [cpp](./IntersectionOfTwoArrays/Solution.cpp)/[ruby](./IntersectionOfTwoArrays/Solution.rb) |
