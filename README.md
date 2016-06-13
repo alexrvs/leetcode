@@ -144,7 +144,7 @@ Solutions for leetcode problems
 | 216 | Combination Sum III | [cpp](./CombinationSumIII/Solution.cpp)/[java](./CombinationSumIII/Solution.java)/[python](./CombinationSumIII/Solution.py)/[ruby](./CombinationSumIII/Solution.rb)/[javascript](./CombinationSumIII/Solution.js) |
 | 215 | Kth Largest Element in an Array | [cpp](./KthLargestElementInAnArray/Solution.cpp)/[java](./KthLargestElementInAnArray/Solution.java)/[python](./KthLargestElementInAnArray/Solution.py)/[ruby](./KthLargestElementInAnArray/Solution.rb)/[javascript](./KthLargestElementInAnArray/Solution.js) |
 | 221 | Maximal Square | [cpp](./MaximalSquare/Solution.cpp)/[java](./MaximalSquare/Solution.java) |
-| 222 | Count Complete Tree Nodes | [c](./CountCompleteTreeNodes/Solution.c) |
+| 222 | Count Complete Tree Nodes | [c](./CountCompleteTreeNodes/Solution.c)/[cpp](./CountCompleteTreeNodes/Solution.cpp) |
 | 223 | Rectangle Area | [cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
 | 229 | Majority Element II | [c](./MajorityElementII/Solution.c)/[cpp](./MajorityElementII/Solution.cpp)/[java](./MajorityElementII/Solution.java)/[python](./MajorityElementII/Solution.py)/[ruby](./MajorityElementII/Solution.rb)/[javascript](./MajorityElementII/Solution.js) |
