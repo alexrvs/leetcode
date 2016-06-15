@@ -191,4 +191,4 @@ Solutions for leetcode problems
 | 349 | Intersection Of Two Arrays | [c](./IntersectionOfTwoArrays/Solution.c)/[cpp](./IntersectionOfTwoArrays/Solution.cpp)/[java](./IntersectionOfTwoArrays/Solution.java)//[python](./IntersectionOfTwoArrays/Solution.py)/[ruby](./IntersectionOfTwoArrays/Solution.rb)/[javascript](./IntersectionOfTwoArrays/Solution.js) |
 | 350 | Intersection Of Two Arrays II | [c](./IntersectionOfTwoArraysIi/Solution.c)/[cpp](./IntersectionOfTwoArraysIi/Solution.cpp)/[java](./IntersectionOfTwoArraysIi/Solution.java)/[python](./IntersectionOfTwoArraysIi/Solution.py)/[ruby](./IntersectionOfTwoArraysIi/Solution.rb)/[javascript](./IntersectionOfTwoArraysIi/Solution.js) |
 | 354 | Russian Doll Envelopes | [java](./IntersectionOfTwoArraysIi/Solution.java) |
-| 357 | Count Numbers With Unique Digits | [cpp](./CountNumbersWithUniqueDigits/Solution.cpp) |
+| 357 | Count Numbers With Unique Digits | [c](./CountNumbersWithUniqueDigits/Solution.c)/[cpp](./CountNumbersWithUniqueDigits/Solution.cpp) |
