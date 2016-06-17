@@ -33,7 +33,7 @@ Solutions for leetcode problems
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
 | 32 | Longest Valid Parentheses | [cpp](./LongestValidParentheses/Solution.cpp) |
-| 33 | Search In Rotated Sorted Array | [cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[python](./SearchInRotatedSortedArray/Solution.py)/[ruby](./SearchInRotatedSortedArray/Solution.rb)/[javascript](./SearchInRotatedSortedArray/Solution.js) |
+| 33 | Search In Rotated Sorted Array | [c](./SearchInRotatedSortedArray/Solution.c)/[cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[python](./SearchInRotatedSortedArray/Solution.py)/[ruby](./SearchInRotatedSortedArray/Solution.rb)/[javascript](./SearchInRotatedSortedArray/Solution.js) |
 | 34 | Search For A Range | [c](./SearchForARange/Solution.c)/[cpp](./SearchForARange/Solution.cpp)/[java](./SearchForARange/Solution.java)/[python](./SearchForARange/Solution.py)/[ruby](./SearchForARange/Solution.rb)/[javascript](./SearchForARange/Solution.js) |
 | 35 | Search Insert Position | [c](./SearchInsertPosition/Solution.c)/[cpp](./SearchInsertPosition/Solution.cpp)/[java](./SearchInsertPosition/Solution.java)/[python](./SearchInsertPosition/Solution.py)/[ruby](./SearchInsertPosition/Solution.rb)/[javascript](./SearchInsertPosition/Solution.js) |
 | 36 | Valid Sudoku | [cpp](./ValidSudoku/Solution.cpp)/[java](./ValidSudoku/Solution.java)/[python](./ValidSudoku/Solution.py)/[ruby](./ValidSudoku/Solution.rb)/[javascript](./ValidSudoku/Solution.js) |
