@@ -171,7 +171,7 @@ Solutions for leetcode problems
 | 279 | Perfect Squares | [cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
 | 283 | Move Zeroes | [cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
 | 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp)/[java](./PeekingIterator/Solution.java)/[python](./PeekingIterator/Solution.py) |
-| 289 | Game Of Life | [cpp](./GameOfLifeSolution.cpp) |
+| 289 | Game Of Life | [c](./GameOfLifeSolution.c)/[cpp](./GameOfLifeSolution.cpp) |
 | 290 | Word Pattern | [java](./WordPattern/Solution.java)/[python](./WordPattern/Solution.py)/[ruby](./WordPattern/Solution.rb)/[javascript](./WordPattern/Solution.js) |
 | 292 | Nim Game | [cpp](./NimGame/Solution.cpp)/[java](./NimGame/Solution.java)/[python](./NimGame/Solution.py)/[ruby](./NimGame/Solution.rb)/[javascript](./NimGame/Solution.js) |
 | 299 | Bulls And Cows | [cpp](./BullsAndCows/Solution.cpp)/[java](./BullsAndCows/Solution.java)/[python](./BullsAndCows/Solution.py)/[ruby](./BullsAndCows/Solution.rb)/[javascript](./BullsAndCows/Solution.js) |
