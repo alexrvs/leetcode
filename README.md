@@ -53,7 +53,7 @@ Solutions for leetcode problems
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
 | 53 | Maximum Subarray | [cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
-| 54 | Spiral Matrix | [cpp](./SpiralMaxtrix/Solution.cpp)/[java](./SpiralMaxtrix/Solution.java) |
+| 54 | Spiral Matrix | [c](./SpiralMaxtrix/Solution.c)/[cpp](./SpiralMaxtrix/Solution.cpp)/[java](./SpiralMaxtrix/Solution.java) |
 | 55 | Jump Game | [c](./JumpGame/Solution.c)/[cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 58 | Length Of Last Word | [cpp](./LengthOfLastWord/Solution.cpp)/[java](./LengthOfLastWord/Solution.java)/[python](./LengthOfLastWord/Solution.py)/[ruby](./LengthOfLastWord/Solution.rb)/[javascript](./LengthOfLastWord/Solution.js) |
 | 59 | Spiral Matrix II | [cpp](./SpiralMatrixII/Solution.cpp) |
