@@ -52,7 +52,7 @@ Solutions for leetcode problems
 | 50 | Power(x, n) | [c](./Power(x, n)/Solution.c)/[cpp](./Power(x, n)/Solution.cpp)/[java](./Power(x, n)/Solution.java)/[python](./Power(x, n)/Solution.py)/[ruby](./Power(x, n)/Solution.rb)/[javascript](./Power(x, n)/Solution.js) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
-| 53 | Maximum Subarray | [cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
+| 53 | Maximum Subarray | [c](./MaximumSubarray/Solution.c)/[cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
 | 54 | Spiral Matrix | [c](./SpiralMaxtrix/Solution.c)/[cpp](./SpiralMaxtrix/Solution.cpp)/[java](./SpiralMaxtrix/Solution.java)/[javascript](./SpiralMaxtrix/Solution.js) |
 | 55 | Jump Game | [c](./JumpGame/Solution.c)/[cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 58 | Length Of Last Word | [cpp](./LengthOfLastWord/Solution.cpp)/[java](./LengthOfLastWord/Solution.java)/[python](./LengthOfLastWord/Solution.py)/[ruby](./LengthOfLastWord/Solution.rb)/[javascript](./LengthOfLastWord/Solution.js) |
