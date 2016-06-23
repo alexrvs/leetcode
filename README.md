@@ -191,6 +191,7 @@ Solutions for leetcode problems
 | 343 | Integer Break | [c](./IntegerBreak/Solution.c)/[cpp](./IntegerBreak/Solution.cpp)/[java](./IntegerBreak/Solution.java)/[python](./IntegerBreak/Solution.py)/[ruby](./IntegerBreak/Solution.rb)/[javascript](./IntegerBreak/Solution.js) |
 | 344 | Reverse String | [c](./ReverseString/Solution.c)/[cpp](./ReverseString/Solution.cpp)/[java](./ReverseString/Solution.java)/[py](./ReverseString/Solution.py)/[ruby](./ReverseString/Solution.rb)/[javascript](./ReverseString/Solution.js) |
 | 345 | Reverse Vowels Of A String | [c](./ReverseVowelsOfAString/Solution.c)/[cpp](./ReverseVowelsOfAString/Solution.cpp)/[ruby](./ReverseVowelsOfAString/Solution.rb)/[js](./ReverseVowelsOfAString/Solution.js) |
+| 347 | Top K Frequent Elements | [java](./TopKFrequentElements/Solution.java) |
 | 349 | Intersection Of Two Arrays | [c](./IntersectionOfTwoArrays/Solution.c)/[cpp](./IntersectionOfTwoArrays/Solution.cpp)/[java](./IntersectionOfTwoArrays/Solution.java)//[python](./IntersectionOfTwoArrays/Solution.py)/[ruby](./IntersectionOfTwoArrays/Solution.rb)/[javascript](./IntersectionOfTwoArrays/Solution.js) |
 | 350 | Intersection Of Two Arrays II | [c](./IntersectionOfTwoArraysIi/Solution.c)/[cpp](./IntersectionOfTwoArraysIi/Solution.cpp)/[java](./IntersectionOfTwoArraysIi/Solution.java)/[python](./IntersectionOfTwoArraysIi/Solution.py)/[ruby](./IntersectionOfTwoArraysIi/Solution.rb)/[javascript](./IntersectionOfTwoArraysIi/Solution.js) |
 | 354 | Russian Doll Envelopes | [java](./IntersectionOfTwoArraysIi/Solution.java) |
