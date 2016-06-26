@@ -197,4 +197,4 @@ Solutions for leetcode problems
 | 354 | Russian Doll Envelopes | [java](./IntersectionOfTwoArraysIi/Solution.java) |
 | 357 | Count Numbers With Unique Digits | [c](./CountNumbersWithUniqueDigits/Solution.c)/[cpp](./CountNumbersWithUniqueDigits/Solution.cpp)/[java](./CountNumbersWithUniqueDigits/Solution.java)/[python](./CountNumbersWithUniqueDigits/Solution.py)/[ruby](./CountNumbersWithUniqueDigits/Solution.rb)/[javascript](./CountNumbersWithUniqueDigits/Solution.js) |
 | 365 | Water And Jug Problem | [c](./WaterAndJugProblem/Solution.c)/[cpp](./WaterAndJugProblem/Solution.cpp)/[java](./WaterAndJugProblem/Solution.java)/[python](./WaterAndJugProblem/Solution.py)/[ruby](./WaterAndJugProblem/Solution.rb)/[javascript](./WaterAndJugProblem/Solution.js) |
-| 367 | Valid Perfect Square | [c](./ValidPerfectSquare/Solution.c)/[cpp](./ValidPerfectSquare/Solution.cpp)/[java](./ValidPerfectSquare/Solution.java) |
+| 367 | Valid Perfect Square | [c](./ValidPerfectSquare/Solution.c)/[cpp](./ValidPerfectSquare/Solution.cpp)/[java](./ValidPerfectSquare/Solution.java)/[python](./ValidPerfectSquare/Solution.py) |
