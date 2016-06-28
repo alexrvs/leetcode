@@ -187,6 +187,7 @@ Solutions for leetcode problems
 | 335 | Self Crossing | [c](./SelfCrossing/Solution.c) |
 | 337 | House Robber III | [c](./HouseRobberIII/Solution.c)/[cpp](./HouseRobberIII/Solution.cpp)/[java](./HouseRobberIII/Solution.java)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb)/[javascript](./HouseRobberIII/Solution.js) |
 | 338 | Count Bits | [c](./CountBits/Solution.c)/[cpp](./CountBits/Solution.cpp)/[java](./CountBits/Solution.java)/[python](./CountBits/Solution.py)/[ruby](./CountBits/Solution.rb)/[javascript](./CountBits/Solution.js)/[swift](./CountBits/Solution.swift) |
+| 341 | Flatten Nested List Iterator | [java](./FlattenNestedListIterator/Solution.java) |
 | 342 | Power Of Four | [c](./CountBits/Solution.c)/[cpp](./CountBits/Solution.cpp)/[java](./CountBits/Solution.java)/[python](./CountBits/Solution.py)/[ruby](./CountBits/Solution.rb)/[javascript](./CountBits/Solution.js) |
 | 343 | Integer Break | [c](./IntegerBreak/Solution.c)/[cpp](./IntegerBreak/Solution.cpp)/[java](./IntegerBreak/Solution.java)/[python](./IntegerBreak/Solution.py)/[ruby](./IntegerBreak/Solution.rb)/[javascript](./IntegerBreak/Solution.js) |
 | 344 | Reverse String | [c](./ReverseString/Solution.c)/[cpp](./ReverseString/Solution.cpp)/[java](./ReverseString/Solution.java)/[py](./ReverseString/Solution.py)/[ruby](./ReverseString/Solution.rb)/[javascript](./ReverseString/Solution.js) |
