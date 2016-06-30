@@ -200,4 +200,4 @@ Solutions for leetcode problems
 | 365 | Water And Jug Problem | [c](./WaterAndJugProblem/Solution.c)/[cpp](./WaterAndJugProblem/Solution.cpp)/[java](./WaterAndJugProblem/Solution.java)/[python](./WaterAndJugProblem/Solution.py)/[ruby](./WaterAndJugProblem/Solution.rb)/[javascript](./WaterAndJugProblem/Solution.js) |
 | 367 | Valid Perfect Square | [c](./ValidPerfectSquare/Solution.c)/[cpp](./ValidPerfectSquare/Solution.cpp)/[java](./ValidPerfectSquare/Solution.java)/[python](./ValidPerfectSquare/Solution.py)/[ruby](./ValidPerfectSquare/Solution.rb)/[javascript](./ValidPerfectSquare/Solution.js) |
 | 368 | Largest Divisible Subset | [c](./LargestDivisibleSubset/Solution.c)/[cpp](./LargestDivisibleSubset/Solution.cpp)/[java](./LargestDivisibleSubset/Solution.java)/[python](./LargestDivisibleSubset/Solution.py)/[ruby](./LargestDivisibleSubset/Solution.rb)/[javascript](./LargestDivisibleSubset/Solution.js) |
-| 371 | Sum Of Two Integers | [c](./SumOfTwoIntegers/Solution.c)/[java](./SumOfTwoIntegers/Solution.java) |
+| 371 | Sum Of Two Integers | [c](./SumOfTwoIntegers/Solution.c)/[cpp](./SumOfTwoIntegers/Solution.cpp)/[java](./SumOfTwoIntegers/Solution.java) |
