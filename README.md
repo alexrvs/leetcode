@@ -140,8 +140,9 @@ Solutions for leetcode problems
 | 204 | Count Primes | [cpp](./CountPrimes/Solution.cpp)/[java](./CountPrimes/Solution.java)/[python](./CountPrimes/Solution.py)/[ruby](./CountPrimes/Solution.rb)/[javascript](./CountPrimes/Solution.js) |
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
 | 206 | Reverse Linked List | [c](./ReverseLinkedList/Solution.c)/[cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
-| 207 | Course Schedule | [cpp](./ImplementTrie(PrefixTree)/Solution.cpp) |
+| 207 | Course Schedule | [cpp](./CourseSchedule/Solution.cpp) |
 | 208 | Implement Trie (Prefix Tree) | [c](./ImplementTrie(PrefixTree)/Solution.c)/[java](./ImplementTrie(PrefixTree)/Solution.java)/[python](./ImplementTrie(PrefixTree)/Solution.py)/[ruby](./ImplementTrie(PrefixTree)/Solution.rb)/[javascript](./ImplementTrie(PrefixTree)/Solution.js) |
+| 210 | Course Schedule II | [cpp](./CourseSchedule/Solution.cpp) |
 | 213 | House Robber II | [cpp](./HouseRobberII/Solution.cpp)/[java](./HouseRobberII/Solution.java)/[java](./HouseRobberII/Solution.java)/[python](./HouseRobberII/Solution.py)/[ruby](./HouseRobberII/Solution.rb)/[javascript](./HouseRobberII/Solution.js) |
 | 216 | Combination Sum III | [cpp](./CombinationSumIII/Solution.cpp)/[java](./CombinationSumIII/Solution.java)/[python](./CombinationSumIII/Solution.py)/[ruby](./CombinationSumIII/Solution.rb)/[javascript](./CombinationSumIII/Solution.js) |
 | 215 | Kth Largest Element in an Array | [cpp](./KthLargestElementInAnArray/Solution.cpp)/[java](./KthLargestElementInAnArray/Solution.java)/[python](./KthLargestElementInAnArray/Solution.py)/[ruby](./KthLargestElementInAnArray/Solution.rb)/[javascript](./KthLargestElementInAnArray/Solution.js) |
