@@ -187,6 +187,7 @@ Solutions for leetcode problems
 | 326 | Power Of Three | [c](./PowerOfThree/Solution.c)/[cpp](./PowerOfThree/Solution.cpp)/[java](./PowerOfThree/Solution.java)/[python](./PowerOfThree/Solution.py)/[ruby](./PowerOfThree/Solution.rb)/[javascript](./PowerOfThree/Solution.js) |
 | 327 | Count Of Range Sum | [c](./CountOfRangeSum/Solution.c) |
 | 328 | Odd Even Linked List | [c](./OddEvenLinkedList/Solution.c)/[cpp](./OddEvenLinkedList/Solution.cpp)/[java](./OddEvenLinkedList/Solution.java)/[python](./OddEvenLinkedList/Solution.py)/[ruby](./OddEvenLinkedList/Solution.rb)/[javascript](./OddEvenLinkedList/Solution.js) |
+| 329 | Longest Increasing Path In A Matrix | [cpp](./LongestIncreasingPathInAMatrix/Solution.cpp) |
 | 334 | Increasing Triplet Subsequence | [c](./IncreasingTripletSubsequence/Solution.c)/[cpp](./IncreasingTripletSubsequence/Solution.cpp)/[java](./IncreasingTripletSubsequence/Solution.java)/[python](./IncreasingTripletSubsequence/Solution.py)/[ruby](./IncreasingTripletSubsequence/Solution.rb)/[javascript](./IncreasingTripletSubsequence/Solution.js) |
 | 335 | Self Crossing | [c](./SelfCrossing/Solution.c) |
 | 337 | House Robber III | [c](./HouseRobberIII/Solution.c)/[cpp](./HouseRobberIII/Solution.cpp)/[java](./HouseRobberIII/Solution.java)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb)/[javascript](./HouseRobberIII/Solution.js) |
