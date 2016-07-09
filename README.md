@@ -207,4 +207,4 @@ Solutions for leetcode problems
 | 367 | Valid Perfect Square | [c](./ValidPerfectSquare/Solution.c)/[cpp](./ValidPerfectSquare/Solution.cpp)/[java](./ValidPerfectSquare/Solution.java)/[python](./ValidPerfectSquare/Solution.py)/[ruby](./ValidPerfectSquare/Solution.rb)/[javascript](./ValidPerfectSquare/Solution.js) |
 | 368 | Largest Divisible Subset | [c](./LargestDivisibleSubset/Solution.c)/[cpp](./LargestDivisibleSubset/Solution.cpp)/[java](./LargestDivisibleSubset/Solution.java)/[python](./LargestDivisibleSubset/Solution.py)/[ruby](./LargestDivisibleSubset/Solution.rb)/[javascript](./LargestDivisibleSubset/Solution.js) |
 | 371 | Sum Of Two Integers | [c](./SumOfTwoIntegers/Solution.c)/[cpp](./SumOfTwoIntegers/Solution.cpp)/[java](./SumOfTwoIntegers/Solution.java)/[python](./SumOfTwoIntegers/Solution.py) |
-| 372 | Super Pow | [c](./SuperPow/Solution.c)/[cpp](./SuperPow/Solution.cpp)/[java](./SuperPow/Solution.java) |
+| 372 | Super Pow | [c](./SuperPow/Solution.c)/[cpp](./SuperPow/Solution.cpp)/[java](./SuperPow/Solution.java)/[python](./SuperPow/Solution.py) |
