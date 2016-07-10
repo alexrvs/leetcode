@@ -184,7 +184,7 @@ Solutions for leetcode problems
 | 310 | Minimum Height Trees | [cpp](./MinimumHeightTrees/Solution.cpp) |
 | 313 | Super Ugly Number | [cpp](./SuperUglyNumber/Solution.cpp)/[java](./SuperUglyNumber/Solution.java)/[python](./SuperUglyNumber/Solution.py)/[ruby](./SuperUglyNumber/Solution.rb)/[javascript](./SuperUglyNumber/Solution.js) |
 | 319 | Bulb Switcher | [cpp](./BulbSwitcher/Solution.cpp)/[java](./BulbSwitcher/Solution.java)/[python](./BulbSwitcher/Solution.py)/[ruby](./BulbSwitcher/Solution.rb)/[javascript](./BulbSwitcher/Solution.js) |
-| 322 | Coin Change | [cpp](./CoinChange/Solution.cpp)/[java](./CoinChange/Solution.java)/[python](./CoinChange/Solution.py)/[ruby](./CoinChange/Solution.rb)/[javascript](./CoinChange/Solution.js) |
+| 322 | Coin Change | [c](./CoinChange/Solution.c)/[cpp](./CoinChange/Solution.cpp)/[java](./CoinChange/Solution.java)/[python](./CoinChange/Solution.py)/[ruby](./CoinChange/Solution.rb)/[javascript](./CoinChange/Solution.js) |
 | 326 | Power Of Three | [c](./PowerOfThree/Solution.c)/[cpp](./PowerOfThree/Solution.cpp)/[java](./PowerOfThree/Solution.java)/[python](./PowerOfThree/Solution.py)/[ruby](./PowerOfThree/Solution.rb)/[javascript](./PowerOfThree/Solution.js) |
 | 327 | Count Of Range Sum | [c](./CountOfRangeSum/Solution.c) |
 | 328 | Odd Even Linked List | [c](./OddEvenLinkedList/Solution.c)/[cpp](./OddEvenLinkedList/Solution.cpp)/[java](./OddEvenLinkedList/Solution.java)/[python](./OddEvenLinkedList/Solution.py)/[ruby](./OddEvenLinkedList/Solution.rb)/[javascript](./OddEvenLinkedList/Solution.js) |
