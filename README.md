@@ -172,7 +172,7 @@ Solutions for leetcode problems
 | 274 | H-Index | [cpp](./H-Index/Solution.cpp)/[java](./H-Index/Solution.java)/[python](./H-Index/Solution.py)/[ruby](./H-Index/Solution.rb)/[javascript](./H-Index/Solution.js) |
 | 275 | H-Index II | [cpp](./H-IndexII/Solution.cpp)/[java](./H-IndexII/Solution.java)/[python](./H-IndexII/Solution.py)/[ruby](./H-IndexII/Solution.rb)/[javascript](./H-IndexII/Solution.js) |
 | 278 | First Bad Version | [cpp](./FirstBadVersion/Solution.cpp)/[java](./FirstBadVersion/Solution.java)/[python](./FirstBadVersion/Solution.py)/[ruby](./FirstBadVersion/Solution.rb)/[javascript](./FirstBadVersion/Solution.js) |
-| 279 | Perfect Squares | [cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
+| 279 | Perfect Squares | [c](./PerfectSquares/Solution.c)/[cpp](./PerfectSquares/Solution.cpp)/[java](./PerfectSquares/Solution.java)/[python](./PerfectSquares/Solution.py)/[ruby](./PerfectSquares/Solution.rb)/[javascript](./PerfectSquares/Solution.js) |
 | 283 | Move Zeroes | [c](./MoveZeroes/Solution.c)/[cpp](./MoveZeroes/Solution.cpp)/[java](./MoveZeroes/Solution.java)/[python](./MoveZeroes/Solution.py)/[rb](./MoveZeroes/Solution.rb)/[javascript](./MoveZeroes/Solution.js) |
 | 284 | Peeking Iterator | [cpp](./PeekingIterator/Solution.cpp)/[java](./PeekingIterator/Solution.java)/[python](./PeekingIterator/Solution.py) |
 | 289 | Game Of Life | [c](./GameOfLifeSolution.c)/[cpp](./GameOfLifeSolution.cpp)/[java](./GameOfLifeSolution.java)/[python](./GameOfLifeSolution.py)/[ruby](./GameOfLifeSolution.rb)/[javascript](./GameOfLifeSolution.js) |
