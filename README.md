@@ -210,3 +210,4 @@ Solutions for leetcode problems
 | 371 | Sum Of Two Integers | [c](./SumOfTwoIntegers/Solution.c)/[cpp](./SumOfTwoIntegers/Solution.cpp)/[java](./SumOfTwoIntegers/Solution.java)/[python](./SumOfTwoIntegers/Solution.py) |
 | 372 | Super Pow | [c](./SuperPow/Solution.c)/[cpp](./SuperPow/Solution.cpp)/[java](./SuperPow/Solution.java)/[python](./SuperPow/Solution.py) |
 | 374 | Guess Number Higher Or Lower | [cpp](./GuessNumberHigherOrLower/Solution.cpp)/[java](./GuessNumberHigherOrLower/Solution.java)/[python](./GuessNumberHigherOrLower/Solution.py) |
+| 376 | Wiggle Subsequence | [cpp](./WiggleSubsequence/Solution.cpp) |
