@@ -166,7 +166,7 @@ Solutions for leetcode problems
 | 242 | Valid Anagram | [cpp](./ValidAnagram/Solution.cpp)/[java](./ValidAnagram/Solution.java) |
 | 257 | Binary Tree Paths | [cpp](./binaryTreePaths/Solution.cpp)/[java](./binaryTreePaths/Solution.java)/[python](./binaryTreePaths/Solution.py)/[ruby](./binaryTreePaths/Solution.rb)/[javascript](./binaryTreePaths/Solution.js) |
 | 258 | Add Digits | [cpp](./AddDigits/Solution.cpp)/[java](./AddDigits/Solution.java)/[python](./AddDigits/Solution.py)/[ruby](./AddDigits/Solution.rb)/[javascript](./AddDigits/Solution.js) |
-| 260 | Single Number III | [c](./SingleNumberIII/Solution.c)/[cpp](./SingleNumberIII/Solution.cpp) |
+| 260 | Single Number III | [c](./SingleNumberIII/Solution.c)/[cpp](./SingleNumberIII/Solution.cpp)/[java](./SingleNumberIII/Solution.java) |
 | 263 | Ugly Number | [c](./UglyNumber/Solution.c)/[cpp](./UglyNumber/Solution.cpp)/[java](./UglyNumber/Solution.java)/[python](./UglyNumber/Solution.py)/[ruby](./UglyNumber/Solution.rb)/[javascript](./UglyNumber/Solution.js) |
 | 264 | Ugly Number II | [c](./UglyNumberII/Solution.c)/[cpp](./UglyNumberII/Solution.cpp)/[java](./UglyNumberII/Solution.java)/[python](./UglyNumberII/Solution.py)/[ruby](./UglyNumberII/Solution.rb)/[javascript](./UglyNumberII/Solution.js) |
 | 268 | Missing Number | [c](./MissingNumber/Solution.c)/[cpp](./MissingNumber/Solution.cpp)/[java](./MissingNumber/Solution.java)/[python](./MissingNumber/Solution.py)/[ruby](./MissingNumber/Solution.rb)/[javascript](./MissingNumber/Solution.js) |
