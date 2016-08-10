@@ -216,3 +216,4 @@ Solutions for leetcode problems
 | 378 | Kth Smallest Element In A Sorted Matrix | [c](./KthSmallestElementInASortedMatrix/Solution.c) |
 | 380 | Insert Delete GetRandom O(1) | [cpp](./InsertDeleteGetRandomO(1)/Solution.cpp) |
 | 381 | Insert Delete GetRandom O(1) - Duplicates Allowed | [cpp](./InsertDeleteGetRandomO(1)DuplicatesAllowed/Solution.cpp) |
+| 382 | Linked List Random Node | [cpp](./LinkedListRandomNode/Solution.cpp) |
