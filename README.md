@@ -217,3 +217,4 @@ Solutions for leetcode problems
 | 380 | Insert Delete GetRandom O(1) | [cpp](./InsertDeleteGetRandomO(1)/Solution.cpp) |
 | 381 | Insert Delete GetRandom O(1) - Duplicates Allowed | [cpp](./InsertDeleteGetRandomO(1)DuplicatesAllowed/Solution.cpp) |
 | 382 | Linked List Random Node | [c](./LinkedListRandomNode/Solution.c)/[cpp](./LinkedListRandomNode/Solution.cpp)/[java](./LinkedListRandomNode/Solution.java) |
+| 383 | Ransom Note | [c](./RandomNote/Solution.c) |
