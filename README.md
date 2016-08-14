@@ -51,13 +51,14 @@ Solutions for leetcode problems
 | 46 | Permutations | [cpp](./Permutations/Solution.cpp)/[java](./Permutations/Solution.java)/[python](./Permutations/Solution.py)/[ruby](./Permutations/Solution.rb)/[javascript](./Permutations/Solution.js) |
 | 47 | Permutations II | [cpp](./PermutationsII/Solution.cpp)/[java](./PermutationsII/Solution.java)/[python](./PermutationsII/Solution.py)/[ruby](./PermutationsII/Solution.rb)/[javascript](./PermutationsII/Solution.js) |
 | 48 | Rotate Image | [c](./RotateImage/Solution.c)/[cpp](./RotateImage/Solution.cpp)/[java](./RotateImage/Solution.java)/[python](./RotateImage/Solution.py)/[ruby](./RotateImage/Solution.rb)/[javascript](./RotateImage/Solution.js) |
-| 49 | Merge Intervals | [cpp](./MergeIntervals/Solution.cpp) |
 | 50 | Power(x, n) | [c](./Power(x, n)/Solution.c)/[cpp](./Power(x, n)/Solution.cpp)/[java](./Power(x, n)/Solution.java)/[python](./Power(x, n)/Solution.py)/[ruby](./Power(x, n)/Solution.rb)/[javascript](./Power(x, n)/Solution.js) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
 | 53 | Maximum Subarray | [c](./MaximumSubarray/Solution.c)/[cpp](./MaximumSubarray/Solution.cpp)/[java](./MaximumSubarray/Solution.java)/[python](./MaximumSubarray/Solution.py)/[ruby](./MaximumSubarray/Solution.rb)/[javascript](./MaximumSubarray/Solution.js) |
 | 54 | Spiral Matrix | [c](./SpiralMaxtrix/Solution.c)/[cpp](./SpiralMaxtrix/Solution.cpp)/[java](./SpiralMaxtrix/Solution.java)/[javascript](./SpiralMaxtrix/Solution.js) |
 | 55 | Jump Game | [c](./JumpGame/Solution.c)/[cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
+| 56 | Merge Intervals | [cpp](./MergeIntervals/Solution.cpp) |
+| 56 | Insert Interval | [cpp](./InsertInterval/Solution.cpp) |
 | 58 | Length Of Last Word | [cpp](./LengthOfLastWord/Solution.cpp)/[java](./LengthOfLastWord/Solution.java)/[python](./LengthOfLastWord/Solution.py)/[ruby](./LengthOfLastWord/Solution.rb)/[javascript](./LengthOfLastWord/Solution.js) |
 | 59 | Spiral Matrix II | [c](./SpiralMatrixII/Solution.c)/[cpp](./SpiralMatrixII/Solution.cpp)/[java](./SpiralMatrixII/Solution.java) |
 | 61 | Rotate List | [c](./RotateList/Solution.c)/[cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
