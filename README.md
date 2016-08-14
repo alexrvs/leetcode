@@ -32,7 +32,7 @@ Solutions for leetcode problems
 | 27 | Remove Element | [c](./RemoveElement/Solution.c)/[cpp](./RemoveElement/Solution.cpp)/[java](./RemoveElement/Solution.java)/[python](./RemoveElement/Solution.py)/[ruby](./RemoveElement/Solution.rb)/[javascript](./RemoveElement/Solution.js) |
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 29 | Divide Two Integers | [c](./DivideTwoIntegers/Solution.c)/[cpp](./DivideTwoIntegers/Solution.cpp) |
-| 30 | Substring With Concatenation Of All Words | [cpp](./SubstringWithConcatenationOfAllWords/Solution.cpp) |
+| 30 | Substring With Concatenation Of All Words | [cpp](./SubstringWithConcatenationOfAllWords/Solution.cpp)/[java](./SubstringWithConcatenationOfAllWords/Solution.java) |
 | 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
 | 32 | Longest Valid Parentheses | [cpp](./LongestValidParentheses/Solution.cpp) |
 | 33 | Search In Rotated Sorted Array | [c](./SearchInRotatedSortedArray/Solution.c)/[cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[python](./SearchInRotatedSortedArray/Solution.py)/[ruby](./SearchInRotatedSortedArray/Solution.rb)/[javascript](./SearchInRotatedSortedArray/Solution.js) |
