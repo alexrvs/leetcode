@@ -58,7 +58,7 @@ Solutions for leetcode problems
 | 54 | Spiral Matrix | [c](./SpiralMaxtrix/Solution.c)/[cpp](./SpiralMaxtrix/Solution.cpp)/[java](./SpiralMaxtrix/Solution.java)/[javascript](./SpiralMaxtrix/Solution.js) |
 | 55 | Jump Game | [c](./JumpGame/Solution.c)/[cpp](./JumpGame/Solution.cpp)/[java](./JumpGame/Solution.java)/[python](./JumpGame/Solution.py)/[ruby](./JumpGame/Solution.rb)/[javascript](./JumpGame/Solution.js) |
 | 56 | Merge Intervals | [c](./MergeIntervals/Solution.c)/[cpp](./MergeIntervals/Solution.cpp) |
-| 56 | Insert Interval | [cpp](./InsertInterval/Solution.cpp) |
+| 57 | Insert Interval | [c](./InsertInterval/Solution.c)/[cpp](./InsertInterval/Solution.cpp) |
 | 58 | Length Of Last Word | [cpp](./LengthOfLastWord/Solution.cpp)/[java](./LengthOfLastWord/Solution.java)/[python](./LengthOfLastWord/Solution.py)/[ruby](./LengthOfLastWord/Solution.rb)/[javascript](./LengthOfLastWord/Solution.js) |
 | 59 | Spiral Matrix II | [c](./SpiralMatrixII/Solution.c)/[cpp](./SpiralMatrixII/Solution.cpp)/[java](./SpiralMatrixII/Solution.java) |
 | 61 | Rotate List | [c](./RotateList/Solution.c)/[cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
