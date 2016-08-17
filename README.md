@@ -61,6 +61,7 @@ Solutions for leetcode problems
 | 57 | Insert Interval | [c](./InsertInterval/Solution.c)/[cpp](./InsertInterval/Solution.cpp) |
 | 58 | Length Of Last Word | [cpp](./LengthOfLastWord/Solution.cpp)/[java](./LengthOfLastWord/Solution.java)/[python](./LengthOfLastWord/Solution.py)/[ruby](./LengthOfLastWord/Solution.rb)/[javascript](./LengthOfLastWord/Solution.js) |
 | 59 | Spiral Matrix II | [c](./SpiralMatrixII/Solution.c)/[cpp](./SpiralMatrixII/Solution.cpp)/[java](./SpiralMatrixII/Solution.java) |
+| 60 | Permutation Sequence | [cpp](./PermutationSequence/Solution.cpp) |
 | 61 | Rotate List | [c](./RotateList/Solution.c)/[cpp](./RotateList/Solution.cpp)/[java](./RotateList/Solution.java)/[python](./RotateList/Solution.py)/[ruby](./RotateList/Solution.rb)/[javascript](./RotateList/Solution.js) |
 | 62 | Unique Paths | [c](./UniquePaths/Solution.c)/[cpp](./UniquePaths/Solution.cpp)/[java](./UniquePaths/Solution.java)/[python](./UniquePaths/Solution.py)/[ruby](./UniquePaths/Solution.rb)/[javascript](./UniquePaths/Solution.js) |
 | 63 | Unique Paths II | [c](./UniquePathsII/Solution.c)/[cpp](./UniquePathsII/Solution.cpp)/[java](./UniquePathsII/Solution.java)/[python](./UniquePathsII/Solution.py)/[javascript](./UniquePathsII/Solution.js) |
