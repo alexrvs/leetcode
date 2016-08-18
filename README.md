@@ -73,6 +73,7 @@ Solutions for leetcode problems
 | 69 | Sqrt(x) | [c](./SqrtX/Solution.c)/[cpp](./SqrtX/Solution.cpp)/[java](./SqrtX/Solution.java)/[python](./SqrtX/Solution.py)/[ruby](./SqrtX/Solution.rb)/[javascript](./SqrtX/Solution.js) |
 | 70 | Climbing Stairs | [c](./ClimbingStairs/Solution.c)/[cpp](./ClimbingStairs/Solution.cpp)/[java](./ClimbingStairs/Solution.java)/[python](./ClimbingStairs/Solution.py)/[ruby](./ClimbingStairs/Solution.rb)/[javascript](./ClimbingStairs/Solution.js) |
 | 71 | Simplify Path | [cpp](./SimplifyPath/Solution.cpp) |
+| 72 | Edit Distance | [c](./EditDistance/Solution.c) |
 | 73 | Set Matrix Zeros | [c](./SetMatrixZeros/Solution.c)/[cpp](./SetMatrixZeros/Solution.cpp)/[java](./SetMatrixZeros/Solution.java)/[python](./SetMatrixZeros/Solution.py)/[ruby](./SetMatrixZeros/Solution.rb)/[javascript](./SetMatrixZeros/Solution.js) |
 | 74 | Search A 2D Matrix | [c](./SearchA2DMatrix/Solution.c)/[cpp](./SearchA2DMatrix/Solution.cpp)/[java](./SearchA2DMatrix/Solution.java)/[python](./SearchA2DMatrix/Solution.py)/[ruby](./SearchA2DMatrix/Solution.rb)/[javascript](./SearchA2DMatrix/Solution.js) |
 | 75 | Sort Colors | [c](./SortColors/Solution.c)/[cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
