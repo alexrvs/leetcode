@@ -80,6 +80,7 @@ Solutions for leetcode problems
 | 76 | Minimum Window Substring | [c](./MinimumWindowSubstring/Solution.c) |
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 78 | Subsets | [cpp](./Subsets/Solution.cpp) |
+| 79 | Word Search | [c](./WordSearch/Solution.c) |
 | 80 | Remove Duplicates From Sorted Array II | [c](./RemoveDuplicatesFromSortedArrayII/Solution.c)/[cpp](./RemoveDuplicatesFromSortedArrayII/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArrayII/Solution.java)/[python](./RemoveDuplicatesFromSortedArrayII/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArrayII/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArrayII/Solution.js) |
 | 82 | Remove Duplicates From Sorted List II | [c](./RemoveDuplicatesFromSortedListII/Solution.c)/[cpp](./RemoveDuplicatesFromSortedListII/Solution.cpp)/[java](./RemoveDuplicatesFromSortedListII/Solution.java)/[python](./RemoveDuplicatesFromSortedListII/Solution.py)/[ruby](./RemoveDuplicatesFromSortedListII/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedListII/Solution.js) |
 | 83 | Remove Duplicates From Sorted List | [c](./RemoveDuplicatesFromSortedList/Solution.c)/[cpp](./RemoveDuplicatesFromSortedList/Solution.cpp)/[java](./RemoveDuplicatesFromSortedList/Solution.java)/[python](./RemoveDuplicatesFromSortedList/Solution.py)/[ruby](./RemoveDuplicatesFromSortedList/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedList/Solution.js) |
