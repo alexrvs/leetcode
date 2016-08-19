@@ -77,6 +77,7 @@ Solutions for leetcode problems
 | 73 | Set Matrix Zeros | [c](./SetMatrixZeros/Solution.c)/[cpp](./SetMatrixZeros/Solution.cpp)/[java](./SetMatrixZeros/Solution.java)/[python](./SetMatrixZeros/Solution.py)/[ruby](./SetMatrixZeros/Solution.rb)/[javascript](./SetMatrixZeros/Solution.js) |
 | 74 | Search A 2D Matrix | [c](./SearchA2DMatrix/Solution.c)/[cpp](./SearchA2DMatrix/Solution.cpp)/[java](./SearchA2DMatrix/Solution.java)/[python](./SearchA2DMatrix/Solution.py)/[ruby](./SearchA2DMatrix/Solution.rb)/[javascript](./SearchA2DMatrix/Solution.js) |
 | 75 | Sort Colors | [c](./SortColors/Solution.c)/[cpp](./SortColors/Solution.cpp)/[java](./SortColors/Solution.java)/[python](./SortColors/Solution.py)/[ruby](./SortColors/Solution.rb)/[javascript](./SortColors/Solution.js) |
+| 76 | Minimum Window Substring | [c](./MinimumWindowSubstring/Solution.c) |
 | 77 | Combinations | [cpp](./Combinations/Solution.cpp)/[java](./Combinations/Solution.java) |
 | 78 | Subsets | [cpp](./Subsets/Solution.cpp) |
 | 80 | Remove Duplicates From Sorted Array II | [c](./RemoveDuplicatesFromSortedArrayII/Solution.c)/[cpp](./RemoveDuplicatesFromSortedArrayII/Solution.cpp)/[java](./RemoveDuplicatesFromSortedArrayII/Solution.java)/[python](./RemoveDuplicatesFromSortedArrayII/Solution.py)/[ruby](./RemoveDuplicatesFromSortedArrayII/Solution.rb)/[javascript](./RemoveDuplicatesFromSortedArrayII/Solution.js) |
