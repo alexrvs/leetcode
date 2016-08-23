@@ -230,4 +230,4 @@ Solutions for leetcode problems
 | 381 | Insert Delete GetRandom O(1) - Duplicates Allowed | [cpp](./InsertDeleteGetRandomO(1)DuplicatesAllowed/Solution.cpp) |
 | 382 | Linked List Random Node | [c](./LinkedListRandomNode/Solution.c)/[cpp](./LinkedListRandomNode/Solution.cpp)/[java](./LinkedListRandomNode/Solution.java) |
 | 383 | Ransom Note | [c](./RandomNote/Solution.c)/[cpp](./RandomNote/Solution.cpp)/[java](./RandomNote/Solution.java)/[python](./RandomNote/Solution.py)/[ruby](./RandomNote/Solution.rb)/[javascript](./RandomNote/Solution.js) |
-| 387 | First Unique Character In A String | [cpp](./FirstUniqueCharacterInAString/Solution.cpp) |
+| 387 | First Unique Character In A String | [cpp](./FirstUniqueCharacterInAString/Solution.cpp)/[java](./FirstUniqueCharacterInAString/Solution.java) |
