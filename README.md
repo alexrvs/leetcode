@@ -143,7 +143,7 @@ Solutions for leetcode problems
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
 | 195 | Tenth Line | [bash](./TenthLine/Solution.sh) |
-| 198 | House Robber | [cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
+| 198 | House Robber | [c](./HouseRobber/Solution.c)/[cpp](./HouseRobber/Solution.cpp)/[java](./HouseRobber/Solution.java)/[python](./HouseRobber/Solution.py)/[ruby](./HouseRobber/Solution.rb)/[javascript](./HouseRobber/Solution.js) |
 | 199 | Binary Tree Right Side View | [cpp](./BinaryTreeRightSideView/Solution.cpp)/[java](./BinaryTreeRightSideView/Solution.java)/[python](./BinaryTreeRightSideView/Solution.py)/[ruby](./BinaryTreeRightSideView/Solution.rb)/[javascript](./BinaryTreeRightSideView/Solution.js) |
 | 200 | Number Of Islands | [cpp](./NumberOfIslands/Solution.cpp)/[java](./NumberOfIslands/Solution.java)/[python](./NumberOfIslands/Solution.py)/[ruby](./NumberOfIslands/Solution.rb)/[javascript](./NumberOfIslands/Solution.js) |
 | 201 | Bitwise AND Of Numbers Range | [cpp](./BitwiseANDOfNumbersRange/Solution.cpp)/[java](./BitwiseANDOfNumbersRange/Solution.java)/[python](./BitwiseANDOfNumbersRange/Solution.py)/[ruby](./BitwiseANDOfNumbersRange/Solution.rb)/[javascript](./BitwiseANDOfNumbersRange/Solution.js) |
