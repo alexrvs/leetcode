@@ -152,7 +152,7 @@ Solutions for leetcode problems
 | 204 | Count Primes | [c](./CountPrimes/Solution.c)/[cpp](./CountPrimes/Solution.cpp)/[java](./CountPrimes/Solution.java)/[python](./CountPrimes/Solution.py)/[ruby](./CountPrimes/Solution.rb)/[javascript](./CountPrimes/Solution.js) |
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
 | 206 | Reverse Linked List | [c](./ReverseLinkedList/Solution.c)/[cpp](./ReverseLinkedList/Solution.cpp)/[java](./ReverseLinkedList/Solution.java)/[python](./ReverseLinkedList/Solution.py)/[ruby](./ReverseLinkedList/Solution.rb)/[javascript](./ReverseLinkedList/Solution.js) |
-| 207 | Course Schedule | [cpp](./CourseSchedule/Solution.cpp)/[java](./CourseSchedule/Solution.java) |
+| 207 | Course Schedule | [c](./CourseSchedule/Solution.c)/[cpp](./CourseSchedule/Solution.cpp)/[java](./CourseSchedule/Solution.java) |
 | 208 | Implement Trie (Prefix Tree) | [c](./ImplementTrie(PrefixTree)/Solution.c)/[java](./ImplementTrie(PrefixTree)/Solution.java)/[python](./ImplementTrie(PrefixTree)/Solution.py)/[ruby](./ImplementTrie(PrefixTree)/Solution.rb)/[javascript](./ImplementTrie(PrefixTree)/Solution.js) |
 | 209 | Minimum Size Subarray Sum | [cpp](./MinimumSizeSubarraySum/Solution.cpp) |
 | 210 | Course Schedule II | [c](./CourseSchedule/Solution.c)/[cpp](./CourseSchedule/Solution.cpp)/[java](./CourseSchedule/Solution.java) |
