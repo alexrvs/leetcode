@@ -224,7 +224,7 @@ Solutions for leetcode problems
 | 371 | Sum Of Two Integers | [c](./SumOfTwoIntegers/Solution.c)/[cpp](./SumOfTwoIntegers/Solution.cpp)/[java](./SumOfTwoIntegers/Solution.java)/[python](./SumOfTwoIntegers/Solution.py) |
 | 372 | Super Pow | [c](./SuperPow/Solution.c)/[cpp](./SuperPow/Solution.cpp)/[java](./SuperPow/Solution.java)/[python](./SuperPow/Solution.py) |
 | 373 | Find K Pairs With Smallest Sums | [c](./FindKPairsWithSmallestSums/Solution.c) |
-| 374 | Guess Number Higher Or Lower | [cpp](./GuessNumberHigherOrLower/Solution.cpp)/[java](./GuessNumberHigherOrLower/Solution.java)/[python](./GuessNumberHigherOrLower/Solution.py) |
+| 374 | Guess Number Higher Or Lower | [c](./GuessNumberHigherOrLower/Solution.c)/[cpp](./GuessNumberHigherOrLower/Solution.cpp)/[java](./GuessNumberHigherOrLower/Solution.java)/[python](./GuessNumberHigherOrLower/Solution.py) |
 | 376 | Wiggle Subsequence | [c](./WiggleSubsequence/Solution.c)/[cpp](./WiggleSubsequence/Solution.cpp)/[java](./WiggleSubsequence/Solution.java)/[python](./WiggleSubsequence/Solution.py)/[ruby](./WiggleSubsequence/Solution.rb)/[javascript](./WiggleSubsequence/Solution.js) |
 | 378 | Kth Smallest Element In A Sorted Matrix | [c](./KthSmallestElementInASortedMatrix/Solution.c) |
 | 380 | Insert Delete GetRandom O(1) | [cpp](./InsertDeleteGetRandomO(1)/Solution.cpp) |
