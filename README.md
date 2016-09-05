@@ -195,7 +195,7 @@ Solutions for leetcode problems
 | 299 | Bulls And Cows | [cpp](./BullsAndCows/Solution.cpp)/[java](./BullsAndCows/Solution.java)/[python](./BullsAndCows/Solution.py)/[ruby](./BullsAndCows/Solution.rb)/[javascript](./BullsAndCows/Solution.js) |
 | 300 | Longest Increasing Subsequence | [c](./LongestIncreasingSubsequence/Solution.c)/[cpp](./LongestIncreasingSubsequence/Solution.cpp)/[java](./LongestIncreasingSubsequence/Solution.java)/[python](./LongestIncreasingSubsequence/Solution.py)/[ruby](./LongestIncreasingSubsequence/Solution.rb)/[javascript](./LongestIncreasingSubsequence/Solution.js) |
 | 303 | Range Sum Query - Immutable | [c](./RangeSumQueryImmutable/Solution.c)/[cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[python](./RangeSumQueryImmutable/Solution.py)/[ruby](./RangeSumQueryImmutable/Solution.rb)/[javascript](./RangeSumQueryImmutable/Solution.js) |
-| 304 | Range Sum Query 2D - Immutable | [cpp](./RangeSumQuery2DImmutable/Solution.cpp) |
+| 304 | Range Sum Query 2D - Immutable | [cpp](./RangeSumQuery2DImmutable/Solution.cpp)/[java](./RangeSumQuery2DImmutable/Solution.java) |
 | 310 | Minimum Height Trees | [cpp](./MinimumHeightTrees/Solution.cpp) |
 | 313 | Super Ugly Number | [c](./SuperUglyNumber/Solution.c)/[cpp](./SuperUglyNumber/Solution.cpp)/[java](./SuperUglyNumber/Solution.java)/[python](./SuperUglyNumber/Solution.py)/[ruby](./SuperUglyNumber/Solution.rb)/[javascript](./SuperUglyNumber/Solution.js) |
 | 319 | Bulb Switcher | [c](./BulbSwitcher/Solution.c)/[cpp](./BulbSwitcher/Solution.cpp)/[java](./BulbSwitcher/Solution.java)/[python](./BulbSwitcher/Solution.py)/[ruby](./BulbSwitcher/Solution.rb)/[javascript](./BulbSwitcher/Solution.js) |
