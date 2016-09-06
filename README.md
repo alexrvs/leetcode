@@ -196,7 +196,7 @@ Solutions for leetcode problems
 | 300 | Longest Increasing Subsequence | [c](./LongestIncreasingSubsequence/Solution.c)/[cpp](./LongestIncreasingSubsequence/Solution.cpp)/[java](./LongestIncreasingSubsequence/Solution.java)/[python](./LongestIncreasingSubsequence/Solution.py)/[ruby](./LongestIncreasingSubsequence/Solution.rb)/[javascript](./LongestIncreasingSubsequence/Solution.js) |
 | 303 | Range Sum Query - Immutable | [c](./RangeSumQueryImmutable/Solution.c)/[cpp](./RangeSumQueryImmutable/Solution.cpp)/[java](./RangeSumQueryImmutable/Solution.java)/[python](./RangeSumQueryImmutable/Solution.py)/[ruby](./RangeSumQueryImmutable/Solution.rb)/[javascript](./RangeSumQueryImmutable/Solution.js) |
 | 304 | Range Sum Query 2D - Immutable | [c](./RangeSumQuery2DImmutable/Solution.c)/[cpp](./RangeSumQuery2DImmutable/Solution.cpp)/[java](./RangeSumQuery2DImmutable/Solution.java) |
-| 307 | Range Sum Query - Mutable | [cpp](./RangeSumQueryMutable/Solution.cpp) |
+| 307 | Range Sum Query - Mutable | [c](./RangeSumQueryMutable/Solution.c)/[cpp](./RangeSumQueryMutable/Solution.cpp) |
 | 310 | Minimum Height Trees | [cpp](./MinimumHeightTrees/Solution.cpp) |
 | 313 | Super Ugly Number | [c](./SuperUglyNumber/Solution.c)/[cpp](./SuperUglyNumber/Solution.cpp)/[java](./SuperUglyNumber/Solution.java)/[python](./SuperUglyNumber/Solution.py)/[ruby](./SuperUglyNumber/Solution.rb)/[javascript](./SuperUglyNumber/Solution.js) |
 | 319 | Bulb Switcher | [c](./BulbSwitcher/Solution.c)/[cpp](./BulbSwitcher/Solution.cpp)/[java](./BulbSwitcher/Solution.java)/[python](./BulbSwitcher/Solution.py)/[ruby](./BulbSwitcher/Solution.rb)/[javascript](./BulbSwitcher/Solution.js) |
