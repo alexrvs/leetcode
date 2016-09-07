@@ -235,3 +235,4 @@ Solutions for leetcode problems
 | 383 | Ransom Note | [c](./RandomNote/Solution.c)/[cpp](./RandomNote/Solution.cpp)/[java](./RandomNote/Solution.java)/[python](./RandomNote/Solution.py)/[ruby](./RandomNote/Solution.rb)/[javascript](./RandomNote/Solution.js) |
 | 387 | First Unique Character In A String | [c](./FirstUniqueCharacterInAString/Solution.c)/[cpp](./FirstUniqueCharacterInAString/Solution.cpp)/[java](./FirstUniqueCharacterInAString/Solution.java)/[python](./FirstUniqueCharacterInAString/Solution.py)/[ruby](./FirstUniqueCharacterInAString/Solution.rb)/[javascript](./FirstUniqueCharacterInAString/Solution.js) |
 | 389 | Find The Difference | [c](./FindTheDifference/Solution.c)/[cpp](./FindTheDifference/Solution.cpp)/[java](./FindTheDifference/Solution.java)/[javascript](./FindTheDifference/Solution.js) |
+| 392 | Is Subsequence | [cpp](./IsSubsequence/Solution.cpp) |
