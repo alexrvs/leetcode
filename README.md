@@ -242,3 +242,4 @@ Solutions for leetcode problems
 | 392 | Is Subsequence | [c](./IsSubsequence/Solution.c)/[cpp](./IsSubsequence/Solution.cpp)/[java](./IsSubsequence/Solution.java)/[python](./IsSubsequence/Solution.py)/[ruby](./IsSubsequence/Solution.rb) |
 | 393 | UTF-8 Validation | [c](./UTF-8Validation/Solution.c)/[cpp](./UTF-8Validation/Solution.cpp)/[java](./UTF-8Validation/Solution.java) |
 | 394 | Decode String | [cpp](./DecodeString/Solution.cpp) |
+| 396 | Rotate Function | [java](./RotateFunction/Solution.java) |
