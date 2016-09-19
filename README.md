@@ -237,7 +237,7 @@ Solutions for leetcode problems
 | 383 | Ransom Note | [c](./RandomNote/Solution.c)/[cpp](./RandomNote/Solution.cpp)/[java](./RandomNote/Solution.java)/[python](./RandomNote/Solution.py)/[ruby](./RandomNote/Solution.rb)/[javascript](./RandomNote/Solution.js) |
 | 385 | Mini Parser | [cpp](./MiniParser/Solution.cpp) |
 | 387 | First Unique Character In A String | [c](./FirstUniqueCharacterInAString/Solution.c)/[cpp](./FirstUniqueCharacterInAString/Solution.cpp)/[java](./FirstUniqueCharacterInAString/Solution.java)/[python](./FirstUniqueCharacterInAString/Solution.py)/[ruby](./FirstUniqueCharacterInAString/Solution.rb)/[javascript](./FirstUniqueCharacterInAString/Solution.js) |
-| 388 | Longest Absolute File Path | [c](./LongestAbsoluteFilePath/Solution.c)/[cpp](./LongestAbsoluteFilePath/Solution.cpp) |
+| 388 | Longest Absolute File Path | [c](./LongestAbsoluteFilePath/Solution.c)/[cpp](./LongestAbsoluteFilePath/Solution.cpp)/[java](./LongestAbsoluteFilePath/Solution.java) |
 | 389 | Find The Difference | [c](./FindTheDifference/Solution.c)/[cpp](./FindTheDifference/Solution.cpp)/[java](./FindTheDifference/Solution.java)/[javascript](./FindTheDifference/Solution.js) |
 | 392 | Is Subsequence | [c](./IsSubsequence/Solution.c)/[cpp](./IsSubsequence/Solution.cpp)/[java](./IsSubsequence/Solution.java)/[python](./IsSubsequence/Solution.py)/[ruby](./IsSubsequence/Solution.rb) |
 | 393 | UTF-8 Validation | [c](./UTF-8Validation/Solution.c)/[cpp](./UTF-8Validation/Solution.cpp)/[java](./UTF-8Validation/Solution.java) |
