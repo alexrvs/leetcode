@@ -244,3 +244,4 @@ Solutions for leetcode problems
 | 394 | Decode String | [cpp](./DecodeString/Solution.cpp) |
 | 396 | Rotate Function | [c](./RotateFunction/Solution.c)/[cpp](./RotateFunction/Solution.cpp)/[java](./RotateFunction/Solution.java)/[python](./RotateFunction/Solution.py)/[ruby](./RotateFunction/Solution.rb)/[javascript](./RotateFunction/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
+| 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp) |
