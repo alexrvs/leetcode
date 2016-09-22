@@ -243,7 +243,7 @@ Solutions for leetcode problems
 | 393 | UTF-8 Validation | [c](./UTF-8Validation/Solution.c)/[cpp](./UTF-8Validation/Solution.cpp)/[java](./UTF-8Validation/Solution.java) |
 | 394 | Decode String | [cpp](./DecodeString/Solution.cpp) |
 | 396 | Rotate Function | [c](./RotateFunction/Solution.c)/[cpp](./RotateFunction/Solution.cpp)/[java](./RotateFunction/Solution.java)/[python](./RotateFunction/Solution.py)/[ruby](./RotateFunction/Solution.rb)/[javascript](./RotateFunction/Solution.js) |
-| 397 | Integer Replacement | [javascript](./IntegerReplacement/Solution.js) |
+| 397 | Integer Replacement | [python](./IntegerReplacement/Solution.py)/[javascript](./IntegerReplacement/Solution.js) |
 | 400 | Nth Digits | [python](./NthDigits/Solution.py)/[javascript](./NthDigits/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
 | 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp) |
