@@ -247,3 +247,4 @@ Solutions for leetcode problems
 | 400 | Nth Digits | [python](./NthDigits/Solution.py)/[javascript](./NthDigits/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
 | 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp) |
+| 403 | Frog Jump | [python](./FrogJump/Solution.py) |
