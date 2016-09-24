@@ -246,5 +246,5 @@ Solutions for leetcode problems
 | 397 | Integer Replacement | [c](./IntegerReplacement/Solution.c)/[cpp](./IntegerReplacement/Solution.cpp)/[java](./IntegerReplacement/Solution.java)/[python](./IntegerReplacement/Solution.py)/[javascript](./IntegerReplacement/Solution.js) |
 | 400 | Nth Digits | [python](./NthDigits/Solution.py)/[javascript](./NthDigits/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
-| 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp) |
+| 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp)/[java](./RemoveKDigits/Solution.java) |
 | 403 | Frog Jump | [python](./FrogJump/Solution.py) |
