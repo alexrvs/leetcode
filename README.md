@@ -249,3 +249,4 @@ Solutions for leetcode problems
 | 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp)/[java](./RemoveKDigits/Solution.java) |
 | 403 | Frog Jump | [python](./FrogJump/Solution.py) |
 | 404 | Sum Of Left Leaves | [c](./SumOfLeftLeaves/Solution.c)/[cpp](./SumOfLeftLeaves/Solution.cpp)/[java](./SumOfLeftLeaves/Solution.java)/[python](./SumOfLeftLeaves/Solution.py)/[javascript](./SumOfLeftLeaves/Solution.js) |
+| 405 | Convert A Number To Hexadecimal | [cpp](./ConvertANumberToHexadecimal/Solution.cpp) |
