@@ -251,3 +251,4 @@ Solutions for leetcode problems
 | 404 | Sum Of Left Leaves | [c](./SumOfLeftLeaves/Solution.c)/[cpp](./SumOfLeftLeaves/Solution.cpp)/[java](./SumOfLeftLeaves/Solution.java)/[python](./SumOfLeftLeaves/Solution.py)/[javascript](./SumOfLeftLeaves/Solution.js) |
 | 405 | Convert A Number To Hexadecimal | [cpp](./ConvertANumberToHexadecimal/Solution.cpp) |
 | 406 | Queue Reconstruction By Height | [cpp](./QueueReconstructionByHeight/Solution.cpp) |
+| 407 | Trapping Rain Water | [java](./TrappingRainWater/Solution.java) |
