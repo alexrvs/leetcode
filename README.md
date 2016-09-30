@@ -209,7 +209,7 @@ Solutions for leetcode problems
 | 329 | Longest Increasing Path In A Matrix | [c](./LongestIncreasingPathInAMatrix/Solution.c)/[cpp](./LongestIncreasingPathInAMatrix/Solution.cpp) |
 | 331 | Verify Preorder Serialization Of A Binary Tree | [java](./VerifyPreorderSerializationOfABinaryTree/Solution.java) |
 | 334 | Increasing Triplet Subsequence | [c](./IncreasingTripletSubsequence/Solution.c)/[cpp](./IncreasingTripletSubsequence/Solution.cpp)/[java](./IncreasingTripletSubsequence/Solution.java)/[python](./IncreasingTripletSubsequence/Solution.py)/[ruby](./IncreasingTripletSubsequence/Solution.rb)/[javascript](./IncreasingTripletSubsequence/Solution.js) |
-| 335 | Self Crossing | [c](./SelfCrossing/Solution.c) |
+| 335 | Self Crossing | [c](./SelfCrossing/Solution.c)/[cpp](./SelfCrossing/Solution.cpp) |
 | 337 | House Robber III | [c](./HouseRobberIII/Solution.c)/[cpp](./HouseRobberIII/Solution.cpp)/[java](./HouseRobberIII/Solution.java)/[python](./HouseRobberIII/Solution.py)/[ruby](./HouseRobberIII/Solution.rb)/[javascript](./HouseRobberIII/Solution.js) |
 | 338 | Counting Bits | [c](./CountingBits/Solution.c)/[cpp](./CountingBits/Solution.cpp)/[java](./CountingBits/Solution.java)/[python](./CountingBits/Solution.py)/[ruby](./CountingBits/Solution.rb)/[javascript](./CountingBits/Solution.js)/[swift](./CountingBits/Solution.swift) |
 | 341 | Flatten Nested List Iterator | [java](./FlattenNestedListIterator/Solution.java) |
