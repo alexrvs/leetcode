@@ -253,4 +253,4 @@ Solutions for leetcode problems
 | 406 | Queue Reconstruction By Height | [cpp](./QueueReconstructionByHeight/Solution.cpp) |
 | 407 | Trapping Rain Water | [java](./TrappingRainWater/Solution.java) |
 | 409 | Longest Palindrome | [cpp](./LongestPalindrome/Solution.cpp)/[java](./LongestPalindrome/Solution.java) |
-| 410 | Split Array Largest Sum | [c](./SplitArrayLargestSum/Solution.c) |
+| 410 | Split Array Largest Sum | [c](./SplitArrayLargestSum/Solution.c)/[cpp](./SplitArrayLargestSum/Solution.cpp) |
