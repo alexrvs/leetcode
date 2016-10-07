@@ -244,6 +244,7 @@ Solutions for leetcode problems
 | 394 | Decode String | [cpp](./DecodeString/Solution.cpp)/[java](./DecodeString/Solution.java) |
 | 396 | Rotate Function | [c](./RotateFunction/Solution.c)/[cpp](./RotateFunction/Solution.cpp)/[java](./RotateFunction/Solution.java)/[python](./RotateFunction/Solution.py)/[ruby](./RotateFunction/Solution.rb)/[javascript](./RotateFunction/Solution.js) |
 | 397 | Integer Replacement | [c](./IntegerReplacement/Solution.c)/[cpp](./IntegerReplacement/Solution.cpp)/[java](./IntegerReplacement/Solution.java)/[python](./IntegerReplacement/Solution.py)/[javascript](./IntegerReplacement/Solution.js) |
+| 399 | Evaluate Division | [java](./EvaluateDivision/Solution.java) |
 | 400 | Nth Digits | [python](./NthDigits/Solution.py)/[javascript](./NthDigits/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
 | 402 | Remove K Digits | [cpp](./RemoveKDigits/Solution.cpp)/[java](./RemoveKDigits/Solution.java) |
