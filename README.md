@@ -256,5 +256,6 @@ Solutions for leetcode problems
 | 409 | Longest Palindrome | [c](./LongestPalindrome/Solution.c)/[cpp](./LongestPalindrome/Solution.cpp)/[java](./LongestPalindrome/Solution.java)/[python:Watch:Watch](./LongestPalindrome/Solution.py) |
 | 410 | Split Array Largest Sum | [c](./SplitArrayLargestSum/Solution.c)/[cpp](./SplitArrayLargestSum/Solution.cpp) |
 | 412 | Fizz Buzz | [java](./FizzBuzz/Solution.java) |
+| 413 | Arithmetic Slices | [java](./ArithmeticSlices/Solution.java) |
 | 415 | Add Strings | [java](./AddStrings/Solution.java) |
 | 416 | Partition Equal Subset Sum | [java](./PartitionEqualSubsetSum/Solution.java) |
