@@ -258,4 +258,4 @@ Solutions for leetcode problems
 | 412 | Fizz Buzz | [java](./FizzBuzz/Solution.java) |
 | 413 | Arithmetic Slices | [java](./ArithmeticSlices/Solution.java) |
 | 415 | Add Strings | [java](./AddStrings/Solution.java) |
-| 416 | Partition Equal Subset Sum | [java](./PartitionEqualSubsetSum/Solution.java) |
+| 416 | Partition Equal Subset Sum | [cpp](./PartitionEqualSubsetSum/Solution.cpp)/[java](./PartitionEqualSubsetSum/Solution.java) |
