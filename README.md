@@ -240,7 +240,7 @@ Solutions for leetcode problems
 | 386 | Lexicographical Numbers | [cpp](./LexicographicalNumbers/Solution.cpp) |
 | 387 | First Unique Character In A String | [c](./FirstUniqueCharacterInAString/Solution.c)/[cpp](./FirstUniqueCharacterInAString/Solution.cpp)/[java](./FirstUniqueCharacterInAString/Solution.java)/[python](./FirstUniqueCharacterInAString/Solution.py)/[ruby](./FirstUniqueCharacterInAString/Solution.rb)/[javascript](./FirstUniqueCharacterInAString/Solution.js) |
 | 388 | Longest Absolute File Path | [c](./LongestAbsoluteFilePath/Solution.c)/[cpp](./LongestAbsoluteFilePath/Solution.cpp)/[java](./LongestAbsoluteFilePath/Solution.java) |
-| 389 | Find The Difference | [c](./FindTheDifference/Solution.c)/[cpp](./FindTheDifference/Solution.cpp)/[java](./FindTheDifference/Solution.java)/[javascript](./FindTheDifference/Solution.js) |
+| 389 | Find The Difference | [c](./FindTheDifference/Solution.c)/[cpp](./FindTheDifference/Solution.cpp)/[java](./FindTheDifference/Solution.java)/[ruby](./FindTheDifference/Solution.rb)/[javascript](./FindTheDifference/Solution.js) |
 | 390 | Elimination Game | [c](./EliminationGame/Solution.c)/[cpp](./EliminationGame/Solution.cpp)/[java](./EliminationGame/Solution.java)/[python](./EliminationGame/Solution.py)/[javascript](./EliminationGame/Solution.js) |
 | 392 | Is Subsequence | [c](./IsSubsequence/Solution.c)/[cpp](./IsSubsequence/Solution.cpp)/[java](./IsSubsequence/Solution.java)/[python](./IsSubsequence/Solution.py)/[ruby](./IsSubsequence/Solution.rb) |
 | 393 | UTF-8 Validation | [c](./UTF-8Validation/Solution.c)/[cpp](./UTF-8Validation/Solution.cpp)/[java](./UTF-8Validation/Solution.java) |
