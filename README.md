@@ -51,7 +51,7 @@ Solutions for leetcode problems
 | 46 | Permutations | [cpp](./Permutations/Solution.cpp)/[java](./Permutations/Solution.java)/[python](./Permutations/Solution.py)/[ruby](./Permutations/Solution.rb)/[javascript](./Permutations/Solution.js) |
 | 47 | Permutations II | [cpp](./PermutationsII/Solution.cpp)/[java](./PermutationsII/Solution.java)/[python](./PermutationsII/Solution.py)/[ruby](./PermutationsII/Solution.rb)/[javascript](./PermutationsII/Solution.js) |
 | 48 | Rotate Image | [c](./RotateImage/Solution.c)/[cpp](./RotateImage/Solution.cpp)/[java](./RotateImage/Solution.java)/[python](./RotateImage/Solution.py)/[ruby](./RotateImage/Solution.rb)/[javascript](./RotateImage/Solution.js) |
-| 48 | Group Anagrams | [java](./GroupAnagrams/Solution.java) |
+| 49 | Group Anagrams | [java](./GroupAnagrams/Solution.java) |
 | 50 | Power(x, n) | [c](./Power(x, n)/Solution.c)/[cpp](./Power(x, n)/Solution.cpp)/[java](./Power(x, n)/Solution.java)/[python](./Power(x, n)/Solution.py)/[ruby](./Power(x, n)/Solution.rb)/[javascript](./Power(x, n)/Solution.js) |
 | 51 | N-Queens | [cpp](./N-Queens/Solution.cpp) |
 | 52 | N-Queens II | [cpp](./N-QueensII/Solution.cpp) |
@@ -89,6 +89,7 @@ Solutions for leetcode problems
 | 87 | Scramble String | [java](./ScrambleString/Solution.java) |
 | 88 | Merge Sorted Array | [c](./MergeSortedArray/Solution.c)/[cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 89 | Gray Code | [c](./GrayCode/Solution.c)/[cpp](./GrayCode/Solution.cpp)/[java](./GrayCode/Solution.java)/[python](./GrayCode/Solution.py)/[ruby](./GrayCode/Solution.rb)/[javascript](./GrayCode/Solution.js) |
+| 91 | Decode Ways | [java](./DecodeWays/Solution.java) |
 | 94 | Binary Tree Inorder Traversal | [c](./BinaryTreeInorderTraversal/Solution.c)/[cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 96 | Unique Binary Search Tree | [c](./UniqueBinarySearchTree/Solution.c)/[cpp](./UniqueBinarySearchTree/Solution.cpp)/[java](./UniqueBinarySearchTree/Solution.java)/[python](./UniqueBinarySearchTree/Solution.py)/[ruby](./UniqueBinarySearchTree/Solution.rb)/[javascript](./UniqueBinarySearchTree/Solution.js) |
 | 98 | Validate Binary Search Tree | [cpp](./ValidateBinarySearchTree/Solution.cpp)/[java](./ValidateBinarySearchTree/Solution.java)/[python](./ValidateBinarySearchTree/Solution.py)/[ruby](./ValidateBinarySearchTree/Solution.rb)/[javascript](./ValidateBinarySearchTree/Solution.js) |
