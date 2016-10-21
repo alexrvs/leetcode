@@ -128,7 +128,7 @@ Solutions for leetcode problems
 | 146 | LRU Cache | [c](./LRUCache/Solution.c)/[cpp](./LRUCache/Solution.cpp) |
 | 147 | Insertion Sort List | [cpp](./InsertionSortList/Solution.cpp)/[java](./InsertionSortList/Solution.java)/[python](./InsertionSortList/Solution.py)/[ruby](./InsertionSortList/Solution.rb)/[javascript](./InsertionSortList/Solution.js) |
 | 148 | Sort List | [cpp](./InsertionSortList/Solution.cpp)/[java](./InsertionSortList/Solution.java)/[python](./InsertionSortList/Solution.py)/[ruby](./InsertionSortList/Solution.rb)/[javascript](./InsertionSortList/Solution.js) |
-| 150 | Evaluate Reverse Polish Notation | [c](./EvaluateReversePolishNotation/Solution.c) |
+| 150 | Evaluate Reverse Polish Notation | [c](./EvaluateReversePolishNotation/Solution.c)/[cpp](./EvaluateReversePolishNotation/Solution.cpp) |
 | 151 | Reverse Words In A String | [c](./ReverseWordsInAString/Solution.c) |
 | 152 | Maximum Product Subarray | [c](./MaximumProductSubarray/Solution.c)/[cpp](./MaximumProductSubarray/Solution.cpp)/[java](./MaximumProductSubarray/Solution.java)/[python](./MaximumProductSubarray/Solution.py)/[ruby](./MaximumProductSubarray/Solution.rb)/[javascript](./MaximumProductSubarray/Solution.js) |
 | 153 | Find Minimum In Rotated Sorted Array | [cpp](./FindMinimumInRotatedSortedArray/MinStack.cpp)/[java](./FindMinimumInRotatedSortedArray/MinStack.java)/[python](./FindMinimumInRotatedSortedArray/MinStack.py)/[ruby](./FindMinimumInRotatedSortedArray/MinStack.rb)/[javascript](./FindMinimumInRotatedSortedArray/MinStack.js) |
