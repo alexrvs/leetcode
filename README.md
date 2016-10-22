@@ -90,7 +90,7 @@ Solutions for leetcode problems
 | 88 | Merge Sorted Array | [c](./MergeSortedArray/Solution.c)/[cpp](./MergeSortedArray/Solution.cpp)/[java](./MergeSortedArray/Solution.java)/[python](./MergeSortedArray/Solution.py)/[ruby](./MergeSortedArray/Solution.rb)/[javascript](./MergeSortedArray/Solution.js) |
 | 89 | Gray Code | [c](./GrayCode/Solution.c)/[cpp](./GrayCode/Solution.cpp)/[java](./GrayCode/Solution.java)/[python](./GrayCode/Solution.py)/[ruby](./GrayCode/Solution.rb)/[javascript](./GrayCode/Solution.js) |
 | 91 | Decode Ways | [java](./DecodeWays/Solution.java) |
-| 92 | Reverse Linked List II | [java](./ReverseLinkedListII/Solution.java) |
+| 92 | Reverse Linked List II | [cpp](./ReverseLinkedListII/Solution.cpp)/[java](./ReverseLinkedListII/Solution.java) |
 | 94 | Binary Tree Inorder Traversal | [c](./BinaryTreeInorderTraversal/Solution.c)/[cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 96 | Unique Binary Search Tree | [c](./UniqueBinarySearchTree/Solution.c)/[cpp](./UniqueBinarySearchTree/Solution.cpp)/[java](./UniqueBinarySearchTree/Solution.java)/[python](./UniqueBinarySearchTree/Solution.py)/[ruby](./UniqueBinarySearchTree/Solution.rb)/[javascript](./UniqueBinarySearchTree/Solution.js) |
 | 98 | Validate Binary Search Tree | [cpp](./ValidateBinarySearchTree/Solution.cpp)/[java](./ValidateBinarySearchTree/Solution.java)/[python](./ValidateBinarySearchTree/Solution.py)/[ruby](./ValidateBinarySearchTree/Solution.rb)/[javascript](./ValidateBinarySearchTree/Solution.js) |
