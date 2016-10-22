@@ -33,7 +33,7 @@ Solutions for leetcode problems
 | 28 | Implement strStr() | [javascript](./ImplementStrStr()/Solution.js) |
 | 29 | Divide Two Integers | [c](./DivideTwoIntegers/Solution.c)/[cpp](./DivideTwoIntegers/Solution.cpp) |
 | 30 | Substring With Concatenation Of All Words | [cpp](./SubstringWithConcatenationOfAllWords/Solution.cpp)/[java](./SubstringWithConcatenationOfAllWords/Solution.java) |
-| 31 | Next Permutation | [cpp](./NextPermutation/Solution.cpp) |
+| 31 | Next Permutation | [c](./NextPermutation/Solution.c)/[cpp](./NextPermutation/Solution.cpp) |
 | 32 | Longest Valid Parentheses | [cpp](./LongestValidParentheses/Solution.cpp) |
 | 33 | Search In Rotated Sorted Array | [c](./SearchInRotatedSortedArray/Solution.c)/[cpp](./SearchInRotatedSortedArray/Solution.cpp)/[java](./SearchInRotatedSortedArray/Solution.java)/[python](./SearchInRotatedSortedArray/Solution.py)/[ruby](./SearchInRotatedSortedArray/Solution.rb)/[javascript](./SearchInRotatedSortedArray/Solution.js) |
 | 34 | Search For A Range | [c](./SearchForARange/Solution.c)/[cpp](./SearchForARange/Solution.cpp)/[java](./SearchForARange/Solution.java)/[python](./SearchForARange/Solution.py)/[ruby](./SearchForARange/Solution.rb)/[javascript](./SearchForARange/Solution.js) |
