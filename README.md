@@ -273,4 +273,4 @@ Solutions for leetcode problems
 | 423 | Reconstruct Original Digits From English | [c](./ReconstructOriginalDigitsFromEnglish/Solution.c) |
 | 437 | Path Sum III | [c](./PathSumIII/Solution.c)/[cpp](./PathSumIII/Solution.cpp)/[java](./PathSumIII/Solution.java) |
 | 438 | Find All Anagrams In A String | [c](./FindAllAnagramsInAString/Solution.c)/[cpp](./FindAllAnagramsInAString/Solution.cpp)/[java](./FindAllAnagramsInAString/Solution.java)/[python](./FindAllAnagramsInAString/Solution.py)/[ruby](./FindAllAnagramsInAString/Solution.rb)/[ruby](./FindAllAnagramsInAString/Solution.rb)/[javascript](./FindAllAnagramsInAString/Solution.js) |
-| 441 | Arranging Coins | [c](./ArrangingCoins/Solution.c)/[cpp](./ArrangingCoins/Solution.cpp)/[java](./ArrangingCoins/Solution.java)/[python](./ArrangingCoins/Solution.py) |
+| 441 | Arranging Coins | [c](./ArrangingCoins/Solution.c)/[cpp](./ArrangingCoins/Solution.cpp)/[java](./ArrangingCoins/Solution.java)/[python](./ArrangingCoins/Solution.py)/[ruby](./ArrangingCoins/Solution.rb) |
