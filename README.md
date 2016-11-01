@@ -244,7 +244,7 @@ Solutions for leetcode problems
 | 382 | Linked List Random Node | [c](./LinkedListRandomNode/Solution.c)/[cpp](./LinkedListRandomNode/Solution.cpp)/[java](./LinkedListRandomNode/Solution.java) |
 | 383 | Ransom Note | [c](./RandomNote/Solution.c)/[cpp](./RandomNote/Solution.cpp)/[java](./RandomNote/Solution.java)/[python](./RandomNote/Solution.py)/[ruby](./RandomNote/Solution.rb)/[javascript](./RandomNote/Solution.js) |
 | 385 | Mini Parser | [cpp](./MiniParser/Solution.cpp)/[java](./MiniParser/Solution.java) |
-| 386 | Lexicographical Numbers | [cpp](./LexicographicalNumbers/Solution.cpp)/[java](./LexicographicalNumbers/Solution.java)/[python](./LexicographicalNumbers/Solution.py) |
+| 386 | Lexicographical Numbers | [cpp](./LexicographicalNumbers/Solution.cpp)/[java](./LexicographicalNumbers/Solution.java)/[python](./LexicographicalNumbers/Solution.py)/[javascript](./LexicographicalNumbers/Solution.js) |
 | 387 | First Unique Character In A String | [c](./FirstUniqueCharacterInAString/Solution.c)/[cpp](./FirstUniqueCharacterInAString/Solution.cpp)/[java](./FirstUniqueCharacterInAString/Solution.java)/[python](./FirstUniqueCharacterInAString/Solution.py)/[ruby](./FirstUniqueCharacterInAString/Solution.rb)/[javascript](./FirstUniqueCharacterInAString/Solution.js) |
 | 388 | Longest Absolute File Path | [c](./LongestAbsoluteFilePath/Solution.c)/[cpp](./LongestAbsoluteFilePath/Solution.cpp)/[java](./LongestAbsoluteFilePath/Solution.java) |
 | 389 | Find The Difference | [c](./FindTheDifference/Solution.c)/[cpp](./FindTheDifference/Solution.cpp)/[java](./FindTheDifference/Solution.java)/[ruby](./FindTheDifference/Solution.rb)/[javascript](./FindTheDifference/Solution.js) |
