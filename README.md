@@ -279,4 +279,5 @@ Solutions for leetcode problems
 | 440 | K-th Smallest In Lexicographical Order | [c](./K-thSmallestInLexicographicalOrder/Solution.c)/[cpp](./K-thSmallestInLexicographicalOrder/Solution.cpp)/[java](./K-thSmallestInLexicographicalOrder/Solution.java)/[python](./K-thSmallestInLexicographicalOrder/Solution.py)/[javascript](./K-thSmallestInLexicographicalOrder/Solution.js) |
 | 441 | Arranging Coins | [c](./ArrangingCoins/Solution.c)/[cpp](./ArrangingCoins/Solution.cpp)/[java](./ArrangingCoins/Solution.java)/[python](./ArrangingCoins/Solution.py)/[ruby](./ArrangingCoins/Solution.rb)/[javascript](./ArrangingCoins/Solution.js)/[swift](./ArrangingCoins/Solution.swift) |
 | 447 | Number Of Boomerangs | [cpp](./NumberOfBoomerangs/Solution.cpp)/[java](./NumberOfBoomerangs/Solution.java) |
+| 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
 | 453 | Minimum Moves To Equal Array Elements | [cpp](./MinimumMovesToEqualArrayElements/Solution.cpp) |
