@@ -284,3 +284,4 @@ Solutions for leetcode problems
 | 448 | Find All Numbers Disappeared In An Array | [cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
 | 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
 | 453 | Minimum Moves To Equal Array Elements | [cpp](./MinimumMovesToEqualArrayElements/Solution.cpp) |
+| 458 | Poor Pigs | [java](./PoorPigs/Solution.java) |
