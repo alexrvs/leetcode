@@ -285,5 +285,5 @@ Solutions for leetcode problems
 | 447 | Number Of Boomerangs | [cpp](./NumberOfBoomerangs/Solution.cpp)/[java](./NumberOfBoomerangs/Solution.java) |
 | 448 | Find All Numbers Disappeared In An Array | [cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
 | 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
-| 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py) |
+| 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py)/[javascript](./MinimumMovesToEqualArrayElements/Solution.js) |
 | 458 | Poor Pigs | [java](./PoorPigs/Solution.java) |
