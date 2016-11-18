@@ -290,5 +290,6 @@ Solutions for leetcode problems
 | 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
 | 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py)/[javascript](./MinimumMovesToEqualArrayElements/Solution.js) |
 | 455 | Assign Cookies | [cpp](./AssignCookies/Solution.cpp) |
+| 456 | 132 Pattern | [cpp](./132Pattern/Solution.cpp) |
 | 458 | Poor Pigs | [java](./PoorPigs/Solution.java) |
 | 459 | Repeated Substring Pattern | [c](./RepeatedSubstringPattern/Solution.c)/[cpp](./RepeatedSubstringPattern/Solution.cpp)/[java](./RepeatedSubstringPattern/Solution.java)/[python](./RepeatedSubstringPattern/Solution.py)/[javascript](./RepeatedSubstringPattern/Solution.js) |
