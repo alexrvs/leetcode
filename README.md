@@ -95,6 +95,7 @@ Solutions for leetcode problems
 | 90 | Subsets II | [cpp](./SubsetsII/Solution.cpp) |
 | 91 | Decode Ways | [java](./DecodeWays/Solution.java) |
 | 92 | Reverse Linked List II | [c](./ReverseLinkedListII/Solution.c)/[cpp](./ReverseLinkedListII/Solution.cpp)/[java](./ReverseLinkedListII/Solution.java)/[python](./ReverseLinkedListII/Solution.py)/[javascript](./ReverseLinkedListII/Solution.js) |
+| 93 | Restore IP Addresses | [cpp](./RestoreIPAddresses/Solution.cpp) |
 | 94 | Binary Tree Inorder Traversal | [c](./BinaryTreeInorderTraversal/Solution.c)/[cpp](./BinaryTreeInorderTraversal/Solution.cpp)/[java](./BinaryTreeInorderTraversal/Solution.java)/[python](./BinaryTreeInorderTraversal/Solution.py)/[ruby](./BinaryTreeInorderTraversal/Solution.rb)/[javascript](./BinaryTreeInorderTraversal/Solution.js) |
 | 96 | Unique Binary Search Tree | [c](./UniqueBinarySearchTree/Solution.c)/[cpp](./UniqueBinarySearchTree/Solution.cpp)/[java](./UniqueBinarySearchTree/Solution.java)/[python](./UniqueBinarySearchTree/Solution.py)/[ruby](./UniqueBinarySearchTree/Solution.rb)/[javascript](./UniqueBinarySearchTree/Solution.js) |
 | 98 | Validate Binary Search Tree | [cpp](./ValidateBinarySearchTree/Solution.cpp)/[java](./ValidateBinarySearchTree/Solution.java)/[python](./ValidateBinarySearchTree/Solution.py)/[ruby](./ValidateBinarySearchTree/Solution.rb)/[javascript](./ValidateBinarySearchTree/Solution.js) |
