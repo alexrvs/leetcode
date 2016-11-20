@@ -277,7 +277,7 @@ Solutions for leetcode problems
 | 415 | Add Strings | [java](./AddStrings/Solution.java) |
 | 416 | Partition Equal Subset Sum | [cpp](./PartitionEqualSubsetSum/Solution.cpp)/[java](./PartitionEqualSubsetSum/Solution.java) |
 | 417 | Pacific Atlantic Water Flow | [cpp](./PacificAtlanticWaterFlow/Solution.cpp)/[java](./PacificAtlanticWaterFlow/Solution.java) |
-| 419 | Battleships In A Board | [cpp](./BattleshipsInABoard/Solution.cpp) |
+| 419 | Battleships In A Board | [cpp](./BattleshipsInABoard/Solution.cpp)/[java](./BattleshipsInABoard/Solution.java) |
 | 423 | Reconstruct Original Digits From English | [c](./ReconstructOriginalDigitsFromEnglish/Solution.c) |
 | 432 | All O`one Data Structure | [java](./AllO`oneDataStructure/Solution.java) |
 | 435 | Non-overlapping Intervals | [cpp](./Non-overlappingIntervals/Solution.cpp) |
