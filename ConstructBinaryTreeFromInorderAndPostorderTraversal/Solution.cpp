@@ -9,29 +9,29 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int size = preorder.size();
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        int size = inorder.size();
         if (size == 0) return NULL;
-        stack<TreeNode*> st;
         TreeNode root(INT_MIN);
-        TreeNode* cur = NULL;
+        stack<TreeNode*> st;
         st.push(&root);
-        int inIdx = 0;
-        int preIdx = 0;
-        while (inIdx < size) {
+        TreeNode* cur = NULL;
+        int postIdx = size - 1;
+        int inIdx = size - 1;
+        while (postIdx >= 0) {
             if (st.top()->val == inorder[inIdx]) {
                 cur = st.top();
                 st.pop();
-                inIdx++;
+                inIdx--;
             } else if (cur != NULL) {
-                cur->right = new TreeNode(preorder[preIdx++]);
-                st.push(cur->right);
+                cur->left = new TreeNode(postorder[postIdx--]);
+                st.push(cur->left);
                 cur = NULL;
             } else {
-                st.top()->left = new TreeNode(preorder[preIdx++]);;
-                st.push(st.top()->left);
+                st.top()->right = new TreeNode(postorder[postIdx--]);
+                st.push(st.top()->right);
             }
         }
-        return root.left;
+        return root.right;
     }
-}; 
+};
