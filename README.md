@@ -182,6 +182,7 @@ Solutions for leetcode problems
 | 221 | Maximal Square | [cpp](./MaximalSquare/Solution.cpp)/[java](./MaximalSquare/Solution.java) |
 | 222 | Count Complete Tree Nodes | [c](./CountCompleteTreeNodes/Solution.c)/[cpp](./CountCompleteTreeNodes/Solution.cpp) |
 | 223 | Rectangle Area | [c](./RectangleArea/Solution.c)/[cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
+| 225 | Implement Stack Using Queues | [cpp](./ImplementStackUsingQueues/Solution.cpp) |
 | 228 | Summary Ranges | [cpp](./SummaryRanges/Solution.cpp)/[java](./SummaryRanges/Solution.java)/[python](./SummaryRanges/Solution.py)/[ruby](./SummaryRanges/Solution.rb)/[javascript](./SummaryRanges/Solution.js) |
 | 229 | Majority Element II | [c](./MajorityElementII/Solution.c)/[cpp](./MajorityElementII/Solution.cpp)/[java](./MajorityElementII/Solution.java)/[python](./MajorityElementII/Solution.py)/[ruby](./MajorityElementII/Solution.rb)/[javascript](./MajorityElementII/Solution.js) |
 | 230 | Kth Smallest Element In A BST | [c](./KthSmallestElementInABST/Solution.c)/[cpp](./KthSmallestElementInABST/Solution.cpp)/[java](./KthSmallestElementInABST/Solution.java)/[python](./KthSmallestElementInABST/Solution.py)/[ruby](./KthSmallestElementInABST/Solution.rb)/[javascript](./KthSmallestElementInABST/Solution.js) |
