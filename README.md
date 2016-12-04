@@ -167,7 +167,7 @@ Solutions for leetcode problems
 | 199 | Binary Tree Right Side View | [cpp](./BinaryTreeRightSideView/Solution.cpp)/[java](./BinaryTreeRightSideView/Solution.java)/[python](./BinaryTreeRightSideView/Solution.py)/[ruby](./BinaryTreeRightSideView/Solution.rb)/[javascript](./BinaryTreeRightSideView/Solution.js) |
 | 200 | Number Of Islands | [cpp](./NumberOfIslands/Solution.cpp)/[java](./NumberOfIslands/Solution.java)/[python](./NumberOfIslands/Solution.py)/[ruby](./NumberOfIslands/Solution.rb)/[javascript](./NumberOfIslands/Solution.js) |
 | 201 | Bitwise AND Of Numbers Range | [cpp](./BitwiseANDOfNumbersRange/Solution.cpp)/[java](./BitwiseANDOfNumbersRange/Solution.java)/[python](./BitwiseANDOfNumbersRange/Solution.py)/[ruby](./BitwiseANDOfNumbersRange/Solution.rb)/[javascript](./BitwiseANDOfNumbersRange/Solution.js) |
-| 202 | Happy Number | [cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py)/[ruby](./HappyNumber/Solution.rb)/[javascript](./HappyNumber/Solution.js) |
+| 202 | Happy Number | [c](./HappyNumber/Solution.c)/[cpp](./HappyNumber/Solution.cpp)/[java](./HappyNumber/Solution.java)/[python](./HappyNumber/Solution.py)/[ruby](./HappyNumber/Solution.rb)/[javascript](./HappyNumber/Solution.js) |
 | 203 | Remove Linked List Elements | [c](./RemoveLinkedListElements/Solution.c)/[cpp](./RemoveLinkedListElements/Solution.cpp)/[java](./RemoveLinkedListElements/Solution.java)/[python](./RemoveLinkedListElements/Solution.py)/[ruby](./RemoveLinkedListElements/Solution.rb)/[javascript](./RemoveLinkedListElements/Solution.js) |
 | 204 | Count Primes | [c](./CountPrimes/Solution.c)/[cpp](./CountPrimes/Solution.cpp)/[java](./CountPrimes/Solution.java)/[python](./CountPrimes/Solution.py)/[ruby](./CountPrimes/Solution.rb)/[javascript](./CountPrimes/Solution.js) |
 | 205 | Isomorphic Strings | [cpp](./IsomorphicStrings/Solution.cpp)/[java](./IsomorphicStrings/Solution.java)/[python](./IsomorphicStrings/Solution.py)/[ruby](./IsomorphicStrings/Solution.rb)/[javascript](./IsomorphicStrings/Solution.js) |
@@ -265,7 +265,7 @@ Solutions for leetcode problems
 | 394 | Decode String | [cpp](./DecodeString/Solution.cpp)/[java](./DecodeString/Solution.java) |
 | 396 | Rotate Function | [c](./RotateFunction/Solution.c)/[cpp](./RotateFunction/Solution.cpp)/[java](./RotateFunction/Solution.java)/[python](./RotateFunction/Solution.py)/[ruby](./RotateFunction/Solution.rb)/[javascript](./RotateFunction/Solution.js) |
 | 397 | Integer Replacement | [c](./IntegerReplacement/Solution.c)/[cpp](./IntegerReplacement/Solution.cpp)/[java](./IntegerReplacement/Solution.java)/[python](./IntegerReplacement/Solution.py)/[javascript](./IntegerReplacement/Solution.js) |
-| 397 | Random Pick Index | [cpp](./Random Pick Index/Solution.cpp) |
+| 398 | Random Pick Index | [cpp](./Random Pick Index/Solution.cpp) |
 | 399 | Evaluate Division | [java](./EvaluateDivision/Solution.java) |
 | 400 | Nth Digits | [python](./NthDigits/Solution.py)/[javascript](./NthDigits/Solution.js) |
 | 401 | Binary Watch | [java](./BinaryWatch/Solution.java) |
