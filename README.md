@@ -289,7 +289,7 @@ Solutions for leetcode problems
 | 419 | Battleships In A Board | [cpp](./BattleshipsInABoard/Solution.cpp)/[java](./BattleshipsInABoard/Solution.java) |
 | 423 | Reconstruct Original Digits From English | [c](./ReconstructOriginalDigitsFromEnglish/Solution.c) |
 | 432 | All O`one Data Structure | [java](./AllO`oneDataStructure/Solution.java) |
-| 434 | Number Of Segments In A String | [c](./NumberOfSegmentsInAString/Solution.c)/[cpp](./NumberOfSegmentsInAString/Solution.cpp) |
+| 434 | Number Of Segments In A String | [c](./NumberOfSegmentsInAString/Solution.c)/[cpp](./NumberOfSegmentsInAString/Solution.cpp)/[java](./NumberOfSegmentsInAString/Solution.java) |
 | 435 | Non-overlapping Intervals | [cpp](./Non-overlappingIntervals/Solution.cpp) |
 | 436 | Find Right Interval | [cpp](./FindRightInterval/Solution.cpp) |
 | 437 | Path Sum III | [c](./PathSumIII/Solution.c)/[cpp](./PathSumIII/Solution.cpp)/[java](./PathSumIII/Solution.java)/[python](./PathSumIII/Solution.py)/[javascript](./PathSumIII/Solution.js) |
