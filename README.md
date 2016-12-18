@@ -130,6 +130,7 @@ Solutions for leetcode problems
 | 125 | Valid Palindrome | [cpp](./ValidPalindrome/Solution.cpp)/[java](./ValidPalindrome/Solution.java) |
 | 126 | Word Ladder II | [java](./WordLadderII/Solution.java) |
 | 127 | Word Ladder | [java](./WordLadder/Solution.java) |
+| 128 | Longest Consecutive Sequence | [java](./LongestConsecutiveSequence/Solution.java) |
 | 129 | Sum Root To Leaf Numbers | [c](./SumRootToLeafNumbers/Solution.c)/[cpp](./SumRootToLeafNumbers/Solution.cpp)/[java](./SumRootToLeafNumbers/Solution.java)/[python](./SumRootToLeafNumbers/Solution.py)/[ruby](./SumRootToLeafNumbers/Solution.rb)/[javascript](./SumRootToLeafNumbers/Solution.js) |
 | 130 | Surrounded Regions | [c](./SurroundedRegions/Solution.c)/[cpp](./SurroundedRegions/Solution.cpp) |
 | 134 | Gas Station | [c](./GasStation/Solution.c)/[cpp](./GasStation/Solution.cpp)/[java](./GasStation/Solution.java)/[python](./GasStation/Solution.py)/[ruby](./GasStation/Solution.rb)/[javascript](./GasStation/Solution.js) |
