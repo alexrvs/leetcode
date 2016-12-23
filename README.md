@@ -142,6 +142,7 @@ Solutions for leetcode problems
 | 137 | Single Number II | [cpp](./SingleNumberII/Solution.cpp) |
 | 138 | Copy List With Random Pointer | [cpp](./CopyListWithRandomPointer/Solution.cpp)/[java](./CopyListWithRandomPointer/Solution.java)/[python](./CopyListWithRandomPointer/Solution.py)/[javascript](./CopyListWithRandomPointer/Solution.js) |
 | 139 | Word Break | [java](./WordBreak/Solution.java) |
+| 140 | Word Break II | [java](./WordBreakII/Solution.java) |
 | 141 | Linked List Cycle | [c](./LinkedListCycle/Solution.c)/[cpp](./LinkedListCycle/Solution.cpp)/[java](./LinkedListCycle/Solution.java)/[python](./LinkedListCycle/Solution.py)/[javascript](./LinkedListCycle/Solution.js) |
 | 142 | Linked List Cycle II | [c](./LinkedListCycleII/Solution.c)/[cpp](./LinkedListCycleII/Solution.cpp)/[java](./LinkedListCycleII/Solution.java)/[python](./LinkedListCycleII/Solution.py)/[javascript](./LinkedListCycleII/Solution.js) |
 | 143 | Reorder List | [c](./ReorderList/Solution.c)/[cpp](./ReorderList/Solution.cpp)/[java](./ReorderList/Solution.java)/[python](./ReorderList/Solution.py)/[ruby](./ReorderList/Solution.rb)/[javascript](./ReorderList/Solution.js) |
