@@ -151,6 +151,7 @@ Solutions for leetcode problems
 | 146 | LRU Cache | [c](./LRUCache/Solution.c)/[cpp](./LRUCache/Solution.cpp) |
 | 147 | Insertion Sort List | [c](./InsertionSortList/Solution.c)/[cpp](./InsertionSortList/Solution.cpp)/[java](./InsertionSortList/Solution.java)/[python](./InsertionSortList/Solution.py)/[ruby](./InsertionSortList/Solution.rb)/[javascript](./InsertionSortList/Solution.js) |
 | 148 | Sort List | [c](./InsertionSortList/Solution.c)/[cpp](./InsertionSortList/Solution.cpp)/[java](./InsertionSortList/Solution.java)/[python](./InsertionSortList/Solution.py)/[ruby](./InsertionSortList/Solution.rb)/[javascript](./InsertionSortList/Solution.js) |
+| 149 | Max Points On A Line | [cpp](./MaxPointsOnALine/Solution.cpp) |
 | 150 | Evaluate Reverse Polish Notation | [c](./EvaluateReversePolishNotation/Solution.c)/[cpp](./EvaluateReversePolishNotation/Solution.cpp) |
 | 151 | Reverse Words In A String | [c](./ReverseWordsInAString/Solution.c) |
 | 152 | Maximum Product Subarray | [c](./MaximumProductSubarray/Solution.c)/[cpp](./MaximumProductSubarray/Solution.cpp)/[java](./MaximumProductSubarray/Solution.java)/[python](./MaximumProductSubarray/Solution.py)/[ruby](./MaximumProductSubarray/Solution.rb)/[javascript](./MaximumProductSubarray/Solution.js) |
