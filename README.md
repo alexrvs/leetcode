@@ -321,3 +321,4 @@ Solutions for leetcode problems
 | 462 | Minimum Moves To Equal Array Elements II | [cpp](./MinimumMovesToEqualArrayElementsII/Solution.cpp) |
 | 463 | Island Perimeter | [c](./IslandPerimeter/Solution.c)/[cpp](./IslandPerimeter/Solution.cpp)/[java](./IslandPerimeter/Solution.java)/[javascript](./IslandPerimeter/Solution.js) |
 | 464 | Can I Win | [java](./CanIWin/Solution.java) |
+| 477 | Total Hamming Distance | [cpp](./TotalHammingDistance/Solution.cpp) |
