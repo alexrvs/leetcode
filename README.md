@@ -156,7 +156,7 @@ Solutions for leetcode problems
 | 151 | Reverse Words In A String | [c](./ReverseWordsInAString/Solution.c) |
 | 152 | Maximum Product Subarray | [c](./MaximumProductSubarray/Solution.c)/[cpp](./MaximumProductSubarray/Solution.cpp)/[java](./MaximumProductSubarray/Solution.java)/[python](./MaximumProductSubarray/Solution.py)/[ruby](./MaximumProductSubarray/Solution.rb)/[javascript](./MaximumProductSubarray/Solution.js) |
 | 153 | Find Minimum In Rotated Sorted Array | [cpp](./FindMinimumInRotatedSortedArray/MinStack.cpp)/[java](./FindMinimumInRotatedSortedArray/MinStack.java)/[python](./FindMinimumInRotatedSortedArray/MinStack.py)/[ruby](./FindMinimumInRotatedSortedArray/MinStack.rb)/[javascript](./FindMinimumInRotatedSortedArray/MinStack.js) |
-| 154 | Find Minimum In Rotated Sorted Array II | [c](./FindMinimumInRotatedSortedArray/MinStack.c)/[cpp](./FindMinimumInRotatedSortedArray/MinStack.cpp) |
+| 154 | Find Minimum In Rotated Sorted Array II | [c](./FindMinimumInRotatedSortedArray/MinStack.c)/[cpp](./FindMinimumInRotatedSortedArray/MinStack.cpp)/[java](./FindMinimumInRotatedSortedArray/MinStack.java) |
 | 155 | Min Stack | [cpp](./MinStack/MinStack.cpp)/[java](./MinStack/MinStack.java)/[python](./MinStack/MinStack.py)/[ruby](./MinStack/MinStack.rb)/[javascript](./MinStack/MinStack.js) |
 | 160 | Intersection Of Two Linked Lists | [c](./IntersectionOfTwoLinkedLists/Solution.c)/[cpp](./IntersectionOfTwoLinkedLists/Solution.cpp)/[java](./IntersectionOfTwoLinkedLists/Solution.java) |
 | 162 | Find Peak Element | [cpp](./FindPeakElement/Solution.cpp)/[java](./FindPeakElement/Solution.java)/[python](./FindPeakElement/Solution.py)/[ruby](./FindPeakElement/Solution.rb)/[javascript](./FindPeakElement/Solution.js) |
