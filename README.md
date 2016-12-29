@@ -169,7 +169,7 @@ Solutions for leetcode problems
 | 171 | Excel Sheet Column Number | [cpp](./ExcelSheetColumnNumber/Solution.cpp)/[java](./ExcelSheetColumnNumber/Solution.java)/[python](./ExcelSheetColumnNumber/Solution.py)/[ruby](./ExcelSheetColumnNumber/Solution.rb)/[javascript](./ExcelSheetColumnNumber/Solution.js) |
 | 172 | Factorial Trailing Zeroes | [cpp](./FactorialTrailingZeroes/Solution.cpp)/[java](./FactorialTrailingZeroes/Solution.java)/[python](./FactorialTrailingZeroes/Solution.py)/[ruby](./FactorialTrailingZeroes/Solution.rb)/[javascript](./FactorialTrailingZeroes/Solution.js) |
 | 173 | Binary Search Tree Iterator | [c](./BinarySearchTreeIterator/Solution.c)/[cpp](./BinarySearchTreeIterator/Solution.cpp)/[java](./BinarySearchTreeIterator/Solution.java)/[python](./BinarySearchTreeIterator/Solution.py)/[ruby](./BinarySearchTreeIterator/Solution.rb)/[javascript](./BinarySearchTreeIterator/Solution.js) |
-| 174 | Dungeon Game | [cpp](./DungeonGame/Solution.cpp) |
+| 174 | Dungeon Game | [cpp](./DungeonGame/Solution.cpp)/[java](./DungeonGame/Solution.java) |
 | 179 | Largest Number | [python](./LargestNumber/Solution.py)/[ruby](./LargestNumber/Solution.rb) |
 | 187 | Repeated DNA Sequences | [cpp](./RepeatedDNASequences/Solution.cpp)/[java](./RepeatedDNASequences/Solution.java)/[javascript](./RepeatedDNASequences/Solution.js) |
 | 188 | Best Time To Buy And Sell Stock IV | [c](./BestTimeToBuyAndSellStockIV/Solution.c)/[cpp](./BestTimeToBuyAndSellStockIV/Solution.cpp)/[java](./BestTimeToBuyAndSellStockIV/Solution.java)/[python](./BestTimeToBuyAndSellStockIV/Solution.py)/[javascript](./BestTimeToBuyAndSellStockIV/Solution.js) |
