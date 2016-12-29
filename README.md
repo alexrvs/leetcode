@@ -193,6 +193,7 @@ Solutions for leetcode problems
 | 208 | Implement Trie (Prefix Tree) | [c](./ImplementTrie(PrefixTree)/Solution.c)/[java](./ImplementTrie(PrefixTree)/Solution.java)/[python](./ImplementTrie(PrefixTree)/Solution.py)/[ruby](./ImplementTrie(PrefixTree)/Solution.rb)/[javascript](./ImplementTrie(PrefixTree)/Solution.js) |
 | 209 | Minimum Size Subarray Sum | [cpp](./MinimumSizeSubarraySum/Solution.cpp) |
 | 210 | Course Schedule II | [c](./CourseSchedule/Solution.c)/[cpp](./CourseSchedule/Solution.cpp)/[java](./CourseSchedule/Solution.java) |
+| 211 | Add And Search Word - Data Structure Design | [cpp](./AddAndSearchWord-DataStructureDesign/Solution.cpp) |
 | 213 | House Robber II | [c](./HouseRobberII/Solution.c)/[cpp](./HouseRobberII/Solution.cpp)/[java](./HouseRobberII/Solution.java)/[java](./HouseRobberII/Solution.java)/[python](./HouseRobberII/Solution.py)/[ruby](./HouseRobberII/Solution.rb)/[javascript](./HouseRobberII/Solution.js) |
 | 215 | Kth Largest Element in an Array | [cpp](./KthLargestElementInAnArray/Solution.cpp)/[java](./KthLargestElementInAnArray/Solution.java)/[python](./KthLargestElementInAnArray/Solution.py)/[ruby](./KthLargestElementInAnArray/Solution.rb)/[javascript](./KthLargestElementInAnArray/Solution.js) |
 | 216 | Combination Sum III | [cpp](./CombinationSumIII/Solution.cpp)/[java](./CombinationSumIII/Solution.java)/[python](./CombinationSumIII/Solution.py)/[ruby](./CombinationSumIII/Solution.rb)/[javascript](./CombinationSumIII/Solution.js) |
