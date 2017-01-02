@@ -197,7 +197,7 @@ Solutions for leetcode problems
 | 213 | House Robber II | [c](./HouseRobberII/Solution.c)/[cpp](./HouseRobberII/Solution.cpp)/[java](./HouseRobberII/Solution.java)/[java](./HouseRobberII/Solution.java)/[python](./HouseRobberII/Solution.py)/[ruby](./HouseRobberII/Solution.rb)/[javascript](./HouseRobberII/Solution.js) |
 | 215 | Kth Largest Element in an Array | [cpp](./KthLargestElementInAnArray/Solution.cpp)/[java](./KthLargestElementInAnArray/Solution.java)/[python](./KthLargestElementInAnArray/Solution.py)/[ruby](./KthLargestElementInAnArray/Solution.rb)/[javascript](./KthLargestElementInAnArray/Solution.js) |
 | 216 | Combination Sum III | [cpp](./CombinationSumIII/Solution.cpp)/[java](./CombinationSumIII/Solution.java)/[python](./CombinationSumIII/Solution.py)/[ruby](./CombinationSumIII/Solution.rb)/[javascript](./CombinationSumIII/Solution.js) |
-| 221 | Maximal Square | [c](./MaximalSquare/Solution.c)/[cpp](./MaximalSquare/Solution.cpp)/[java](./MaximalSquare/Solution.java) |
+| 221 | Maximal Square | [c](./MaximalSquare/Solution.c)/[cpp](./MaximalSquare/Solution.cpp)/[java](./MaximalSquare/Solution.java)/[python](./MaximalSquare/Solution.py) |
 | 222 | Count Complete Tree Nodes | [c](./CountCompleteTreeNodes/Solution.c)/[cpp](./CountCompleteTreeNodes/Solution.cpp) |
 | 223 | Rectangle Area | [c](./RectangleArea/Solution.c)/[cpp](./RectangleArea/Solution.cpp)/[java](./RectangleArea/Solution.java)/[python](./RectangleArea/Solution.py)/[ruby](./RectangleArea/Solution.rb)/[javascript](./RectangleArea/Solution.js) |
 | 225 | Implement Stack Using Queues | [cpp](./ImplementStackUsingQueues/Solution.cpp) |
