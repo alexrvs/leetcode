@@ -314,7 +314,7 @@ Solutions for leetcode problems
 | 446 | Arithmetic Slices II - Subsequence | [java](./ArithmeticSlicesII-Subsequence/Solution.java) |
 | 447 | Number Of Boomerangs | [cpp](./NumberOfBoomerangs/Solution.cpp)/[java](./NumberOfBoomerangs/Solution.java) |
 | 448 | Find All Numbers Disappeared In An Array | [cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
-| 450 | Delete Node In A BST | [python](./DeleteNodeInABST/Solution.py) |
+| 450 | Delete Node In A BST | [c](./DeleteNodeInABST/Solution.c)/[python](./DeleteNodeInABST/Solution.py) |
 | 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
 | 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py)/[javascript](./MinimumMovesToEqualArrayElements/Solution.js) |
 | 454 | 4Sum II | [cpp](./4SumII/Solution.cpp) |
