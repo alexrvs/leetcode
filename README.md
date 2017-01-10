@@ -175,7 +175,7 @@ Solutions for leetcode problems
 | 188 | Best Time To Buy And Sell Stock IV | [c](./BestTimeToBuyAndSellStockIV/Solution.c)/[cpp](./BestTimeToBuyAndSellStockIV/Solution.cpp)/[java](./BestTimeToBuyAndSellStockIV/Solution.java)/[python](./BestTimeToBuyAndSellStockIV/Solution.py)/[javascript](./BestTimeToBuyAndSellStockIV/Solution.js) |
 | 189 | Rotate Array | [c](./RotateArray/Solution.c)/[cpp](./RotateArray/Solution.cpp)/[java](./RotateArray/Solution.java)/[python](./RotateArray/Solution.py)/[ruby](./RotateArray/Solution.rb)/[javascript](./RotateArray/Solution.js) |
 | 190 | Reverse Bits | [c](./ReverseBits/Solution.c)/[cpp](./ReverseBits/Solution.cpp) |
-| 191 | Number Of 1 Bits | [cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
+| 191 | Number Of 1 Bits | [c](./NumberOf1Bits/Solution.c)/[cpp](./NumberOf1Bits/Solution.cpp)/[java](./NumberOf1Bits/Solution.java)/[python](./NumberOf1Bits/Solution.py)/[ruby](./NumberOf1Bits/Solution.rb)/[javascript](./NumberOf1Bits/Solution.js) |
 | 192 | Word Frequency | [bash](./WordFrequency/Solution.sh) |
 | 193 | Valid Phone Number | [bash](./ValidPhoneNumber/Solution.sh) |
 | 194 | Transpose File | [bash](./TransposeFile/Solution.sh) |
