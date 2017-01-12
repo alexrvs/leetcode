@@ -330,3 +330,4 @@ Solutions for leetcode problems
 | 464 | Can I Win | [java](./CanIWin/Solution.java) |
 | 476 | Number Complement | [c](./NumberComplement/Solution.c)/[cpp](./NumberComplement/Solution.cpp) |
 | 477 | Total Hamming Distance | [c](./TotalHammingDistance/Solution.c)/[cpp](./TotalHammingDistance/Solution.cpp)/[java](./TotalHammingDistance/Solution.java)/[python](./TotalHammingDistance/Solution.py)/[javascript](./TotalHammingDistance/Solution.js) |
+| 482 | License Key Formatting | [c](./LicenseKeyFormatting/Solution.c) |
