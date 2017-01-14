@@ -314,7 +314,7 @@ Solutions for leetcode problems
 | 441 | Arranging Coins | [c](./ArrangingCoins/Solution.c)/[cpp](./ArrangingCoins/Solution.cpp)/[java](./ArrangingCoins/Solution.java)/[python](./ArrangingCoins/Solution.py)/[ruby](./ArrangingCoins/Solution.rb)/[javascript](./ArrangingCoins/Solution.js)/[swift](./ArrangingCoins/Solution.swift) |
 | 446 | Arithmetic Slices II - Subsequence | [java](./ArithmeticSlicesII-Subsequence/Solution.java) |
 | 447 | Number Of Boomerangs | [cpp](./NumberOfBoomerangs/Solution.cpp)/[java](./NumberOfBoomerangs/Solution.java) |
-| 448 | Find All Numbers Disappeared In An Array | [cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
+| 448 | Find All Numbers Disappeared In An Array | [c](./FindAllNumbersDisappearedInAnArray/Solution.c)/[cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
 | 450 | Delete Node In A BST | [c](./DeleteNodeInABST/Solution.c)/[cpp](./DeleteNodeInABST/Solution.cpp)/[java](./DeleteNodeInABST/Solution.java)/[python](./DeleteNodeInABST/Solution.py)/[javascript](./DeleteNodeInABST/Solution.js) |
 | 452 | Minimum Number Of Arrows To Burst Balloons | [cpp](./MinimumNumberOfArrowsToBurstBalloons/Solution.cpp) |
 | 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py)/[javascript](./MinimumMovesToEqualArrayElements/Solution.js) |
