@@ -331,4 +331,4 @@ Solutions for leetcode problems
 | 476 | Number Complement | [c](./NumberComplement/Solution.c)/[cpp](./NumberComplement/Solution.cpp) |
 | 477 | Total Hamming Distance | [c](./TotalHammingDistance/Solution.c)/[cpp](./TotalHammingDistance/Solution.cpp)/[java](./TotalHammingDistance/Solution.java)/[python](./TotalHammingDistance/Solution.py)/[javascript](./TotalHammingDistance/Solution.js) |
 | 482 | License Key Formatting | [c](./LicenseKeyFormatting/Solution.c)/[cpp](./LicenseKeyFormatting/Solution.cpp) |
-| 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java) |
+| 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java)/[python](./MaxConsecutiveOnes/Solution.py) |
