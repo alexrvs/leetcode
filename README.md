@@ -312,7 +312,7 @@ Solutions for leetcode problems
 | 438 | Find All Anagrams In A String | [c](./FindAllAnagramsInAString/Solution.c)/[cpp](./FindAllAnagramsInAString/Solution.cpp)/[java](./FindAllAnagramsInAString/Solution.java)/[python](./FindAllAnagramsInAString/Solution.py)/[ruby](./FindAllAnagramsInAString/Solution.rb)/[ruby](./FindAllAnagramsInAString/Solution.rb)/[javascript](./FindAllAnagramsInAString/Solution.js) |
 | 440 | K-th Smallest In Lexicographical Order | [c](./K-thSmallestInLexicographicalOrder/Solution.c)/[cpp](./K-thSmallestInLexicographicalOrder/Solution.cpp)/[java](./K-thSmallestInLexicographicalOrder/Solution.java)/[python](./K-thSmallestInLexicographicalOrder/Solution.py)/[javascript](./K-thSmallestInLexicographicalOrder/Solution.js) |
 | 441 | Arranging Coins | [c](./ArrangingCoins/Solution.c)/[cpp](./ArrangingCoins/Solution.cpp)/[java](./ArrangingCoins/Solution.java)/[python](./ArrangingCoins/Solution.py)/[ruby](./ArrangingCoins/Solution.rb)/[javascript](./ArrangingCoins/Solution.js)/[swift](./ArrangingCoins/Solution.swift) |
-| 442 | Find All Duplicates In An Array | [cpp](./FindAllDuplicatesInAnArray/Solution.cpp) |
+| 442 | Find All Duplicates In An Array | [cpp](./FindAllDuplicatesInAnArray/Solution.cpp)/[java](./FindAllDuplicatesInAnArray/Solution.java) |
 | 446 | Arithmetic Slices II - Subsequence | [java](./ArithmeticSlicesII-Subsequence/Solution.java) |
 | 447 | Number Of Boomerangs | [cpp](./NumberOfBoomerangs/Solution.cpp)/[java](./NumberOfBoomerangs/Solution.java) |
 | 448 | Find All Numbers Disappeared In An Array | [c](./FindAllNumbersDisappearedInAnArray/Solution.c)/[cpp](./FindAllNumbersDisappearedInAnArray/Solution.cpp)/[java](./FindAllNumbersDisappearedInAnArray/Solution.java) |
