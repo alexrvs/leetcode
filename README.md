@@ -330,6 +330,7 @@ Solutions for leetcode problems
 | 462 | Minimum Moves To Equal Array Elements II | [cpp](./MinimumMovesToEqualArrayElementsII/Solution.cpp) |
 | 463 | Island Perimeter | [c](./IslandPerimeter/Solution.c)/[cpp](./IslandPerimeter/Solution.cpp)/[java](./IslandPerimeter/Solution.java)/[javascript](./IslandPerimeter/Solution.js) |
 | 464 | Can I Win | [java](./CanIWin/Solution.java) |
+| 473 | Matchsticks To Square | [cpp](./MatchsticksToSquare/Solution.cpp) |
 | 476 | Number Complement | [c](./NumberComplement/Solution.c)/[cpp](./NumberComplement/Solution.cpp) |
 | 477 | Total Hamming Distance | [c](./TotalHammingDistance/Solution.c)/[cpp](./TotalHammingDistance/Solution.cpp)/[java](./TotalHammingDistance/Solution.java)/[python](./TotalHammingDistance/Solution.py)/[javascript](./TotalHammingDistance/Solution.js) |
 | 481 | Magical String | [cpp](./MagicalString/Solution.cpp)/[python](./MagicalString/Solution.py) |
