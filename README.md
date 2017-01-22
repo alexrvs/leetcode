@@ -336,3 +336,4 @@ Solutions for leetcode problems
 | 481 | Magical String | [cpp](./MagicalString/Solution.cpp)/[python](./MagicalString/Solution.py) |
 | 482 | License Key Formatting | [c](./LicenseKeyFormatting/Solution.c)/[cpp](./LicenseKeyFormatting/Solution.cpp) |
 | 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java)/[python](./MaxConsecutiveOnes/Solution.py)/[javascript](./MaxConsecutiveOnes/Solution.js) |
+| 492 | Construct The Rectangle | [cpp](./ConstructTheRectangle/Solution.cpp) |
