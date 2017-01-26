@@ -337,5 +337,5 @@ Solutions for leetcode problems
 | 482 | License Key Formatting | [c](./LicenseKeyFormatting/Solution.c)/[cpp](./LicenseKeyFormatting/Solution.cpp) |
 | 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java)/[python](./MaxConsecutiveOnes/Solution.py)/[javascript](./MaxConsecutiveOnes/Solution.js) |
 | 491 | Increasing Subsequences | [cpp](./IncreasingSubsequences/Solution.cpp) |
-| 492 | Construct The Rectangle | [cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java) |
+| 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java) |
 | 494 | Target Sum | [cpp](./TargetSum/Solution.cpp) |
