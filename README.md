@@ -338,4 +338,4 @@ Solutions for leetcode problems
 | 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java)/[python](./MaxConsecutiveOnes/Solution.py)/[javascript](./MaxConsecutiveOnes/Solution.js) |
 | 491 | Increasing Subsequences | [cpp](./IncreasingSubsequences/Solution.cpp) |
 | 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java) |
-| 494 | Target Sum | [cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
+| 494 | Target Sum | [c](./TargetSum/Solution.c)/[cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
