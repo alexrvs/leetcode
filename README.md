@@ -300,7 +300,7 @@ Solutions for leetcode problems
 | 412 | Fizz Buzz | [java](./FizzBuzz/Solution.java)/[python](./FizzBuzz/Solution.py)/[ruby](./FizzBuzz/Solution.rb) |
 | 413 | Arithmetic Slices | [cpp](./ArithmeticSlices/Solution.cpp)/[java](./ArithmeticSlices/Solution.java) |
 | 415 | Add Strings | [java](./AddStrings/Solution.java) |
-| 416 | Partition Equal Subset Sum | [cpp](./PartitionEqualSubsetSum/Solution.cpp)/[java](./PartitionEqualSubsetSum/Solution.java) |
+| 416 | Partition Equal Subset Sum | [c](./PartitionEqualSubsetSum/Solution.c)/[cpp](./PartitionEqualSubsetSum/Solution.cpp)/[java](./PartitionEqualSubsetSum/Solution.java) |
 | 417 | Pacific Atlantic Water Flow | [cpp](./PacificAtlanticWaterFlow/Solution.cpp)/[java](./PacificAtlanticWaterFlow/Solution.java) |
 | 419 | Battleships In A Board | [cpp](./BattleshipsInABoard/Solution.cpp)/[java](./BattleshipsInABoard/Solution.java) |
 | 423 | Reconstruct Original Digits From English | [c](./ReconstructOriginalDigitsFromEnglish/Solution.c) |
