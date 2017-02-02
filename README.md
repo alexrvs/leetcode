@@ -322,7 +322,7 @@ Solutions for leetcode problems
 | 453 | Minimum Moves To Equal Array Elements | [c](./MinimumMovesToEqualArrayElements/Solution.c)/[cpp](./MinimumMovesToEqualArrayElements/Solution.cpp)/[java](./MinimumMovesToEqualArrayElements/Solution.java)/[python](./MinimumMovesToEqualArrayElements/Solution.py)/[javascript](./MinimumMovesToEqualArrayElements/Solution.js) |
 | 454 | 4Sum II | [cpp](./4SumII/Solution.cpp) |
 | 455 | Assign Cookies | [c](./AssignCookies/Solution.c)/[cpp](./AssignCookies/Solution.cpp)/[java](./AssignCookies/Solution.java)/[python](./AssignCookies/Solution.py)/[javascript](./AssignCookies/Solution.js) |
-| 456 | 132 Pattern | [c](./132Pattern/Solution.c)/[cpp](./132Pattern/Solution.cpp) |
+| 456 | 132 Pattern | [c](./132Pattern/Solution.c)/[cpp](./132Pattern/Solution.cpp)/[java](./132Pattern/Solution.java) |
 | 458 | Poor Pigs | [java](./PoorPigs/Solution.java) |
 | 459 | Repeated Substring Pattern | [c](./RepeatedSubstringPattern/Solution.c)/[cpp](./RepeatedSubstringPattern/Solution.cpp)/[java](./RepeatedSubstringPattern/Solution.java)/[python](./RepeatedSubstringPattern/Solution.py)/[javascript](./RepeatedSubstringPattern/Solution.js) |
 | 460 | LFU Cache | [java](./LFUCache/Solution.java) |
