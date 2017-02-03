@@ -339,3 +339,4 @@ Solutions for leetcode problems
 | 491 | Increasing Subsequences | [cpp](./IncreasingSubsequences/Solution.cpp) |
 | 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java)/[python](./ConstructTheRectangle/Solution.py) |
 | 494 | Target Sum | [c](./TargetSum/Solution.c)/[cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
+| 501 | Find Mode In Binary Search Tree | [cpp](./FindModeInBinarySearchTree/Solution.cpp) |
