@@ -340,4 +340,5 @@ Solutions for leetcode problems
 | 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java)/[python](./ConstructTheRectangle/Solution.py) |
 | 494 | Target Sum | [c](./TargetSum/Solution.c)/[cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
 | 495 | Teemo Attacking | [c](./TeemoAttacking/Solution.c)/[cpp](./TeemoAttacking/Solution.cpp)/[java](./TeemoAttacking/Solution.java) |
+| 496 | Next Greater Element I | [java](./NextGreaterElementI/Solution.java) |
 | 501 | Find Mode In Binary Search Tree | [c](./FindModeInBinarySearchTree/Solution.c)/[cpp](./FindModeInBinarySearchTree/Solution.cpp)/[java](./FindModeInBinarySearchTree/Solution.java) |
