@@ -342,3 +342,4 @@ Solutions for leetcode problems
 | 495 | Teemo Attacking | [c](./TeemoAttacking/Solution.c)/[cpp](./TeemoAttacking/Solution.cpp)/[java](./TeemoAttacking/Solution.java)/[python](./TeemoAttacking/Solution.py)/[javascript](./TeemoAttacking/Solution.js) |
 | 496 | Next Greater Element I | [cpp](./NextGreaterElementI/Solution.cpp)/[java](./NextGreaterElementI/Solution.java) |
 | 501 | Find Mode In Binary Search Tree | [c](./FindModeInBinarySearchTree/Solution.c)/[cpp](./FindModeInBinarySearchTree/Solution.cpp)/[java](./FindModeInBinarySearchTree/Solution.java) |
+| 503 | Next Greater Element II | [cpp](./NextGreaterElementII/Solution.cpp) |
