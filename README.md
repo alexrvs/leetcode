@@ -343,5 +343,5 @@ Solutions for leetcode problems
 | 496 | Next Greater Element I | [cpp](./NextGreaterElementI/Solution.cpp)/[java](./NextGreaterElementI/Solution.java) |
 | 498 | Diagonal Traverse | [cpp](./DiagonalTraverse/Solution.cpp) |
 | 501 | Find Mode In Binary Search Tree | [c](./FindModeInBinarySearchTree/Solution.c)/[cpp](./FindModeInBinarySearchTree/Solution.cpp)/[java](./FindModeInBinarySearchTree/Solution.java) |
-| 503 | Next Greater Element II | [cpp](./NextGreaterElementII/Solution.cpp)/[java](./NextGreaterElementII/Solution.java) |
+| 503 | Next Greater Element II | [c](./NextGreaterElementII/Solution.c)/[cpp](./NextGreaterElementII/Solution.cpp)/[java](./NextGreaterElementII/Solution.java) |
 | 504 | Base 7 | [cpp](./Base7/Solution.cpp)/[java](./Base7/Solution.java)/[python](./Base7/Solution.py) |
