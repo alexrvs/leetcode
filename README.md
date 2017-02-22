@@ -351,3 +351,4 @@ Solutions for leetcode problems
 | 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c) |
+| 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
