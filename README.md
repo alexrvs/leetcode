@@ -348,7 +348,7 @@ Solutions for leetcode problems
 | 504 | Base 7 | [cpp](./Base7/Solution.cpp)/[java](./Base7/Solution.java)/[python](./Base7/Solution.py) |
 | 506 | Relative Ranks | [cpp](./RelativeRanks/Solution.cpp) |
 | 508 | Most Frequent Subtree Sum | [cpp](./MostFrequentSubtreeSum/Solution.cpp) |
-| 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c) |
+| 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c)/[cpp](./FindBottomLeftTreeValue/Solution.cpp) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c) |
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
