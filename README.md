@@ -351,6 +351,7 @@ Solutions for leetcode problems
 | 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c)/[cpp](./FindBottomLeftTreeValue/Solution.cpp) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c) |
 | 516 | Longest Palindromic Subsequence | [cpp](./LongestPalindromicSubsequence/Solution.cpp) |
+| 517 | Super Washing Machines | [cpp](./SuperWashingMachines/Solution.cpp) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c)/[cpp](./DetectCapital/Solution.cpp) |
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
