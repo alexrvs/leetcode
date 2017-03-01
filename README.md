@@ -356,3 +356,4 @@ Solutions for leetcode problems
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c)/[cpp](./DetectCapital/Solution.cpp) |
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
+| 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
