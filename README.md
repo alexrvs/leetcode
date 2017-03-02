@@ -357,3 +357,4 @@ Solutions for leetcode problems
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
 | 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
+| 530 | Minimum Absolute Difference In BST | [cpp](./MinimumAbsoluteDifferenceInBST/Solution.cpp) |
