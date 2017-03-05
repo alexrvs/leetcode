@@ -359,3 +359,4 @@ Solutions for leetcode problems
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
 | 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
 | 530 | Minimum Absolute Difference In BST | [c](./MinimumAbsoluteDifferenceInBST/Solution.c)/[cpp](./MinimumAbsoluteDifferenceInBST/Solution.cpp) |
+| 531 | Lonely Pixel I | [cpp](./LonelyPixelI/Solution.cpp) |
