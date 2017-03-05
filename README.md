@@ -355,6 +355,7 @@ Solutions for leetcode problems
 | 517 | Super Washing Machines | [cpp](./SuperWashingMachines/Solution.cpp) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c)/[cpp](./DetectCapital/Solution.cpp) |
 | 523 | Continuous Subarray Sum | [cpp](./ContinuousSubarraySum/Solution.cpp)/[java](./ContinuousSubarraySum/Solution.java) |
+| 524 | Longest Word In Dictionary Through Deleting | [java](./LongestWordInDictionaryThroughDeleting/Solution.java) |
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp) |
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
 | 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
