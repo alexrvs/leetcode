@@ -360,4 +360,5 @@ Solutions for leetcode problems
 | 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
 | 530 | Minimum Absolute Difference In BST | [c](./MinimumAbsoluteDifferenceInBST/Solution.c)/[cpp](./MinimumAbsoluteDifferenceInBST/Solution.cpp) |
 | 531 | Lonely Pixel I | [cpp](./LonelyPixelI/Solution.cpp) |
+| 532 | K-diff Pairs In An Array | [cpp](./K-diffPairsInAnArray/Solution.cpp) |
 | 533 | Lonely Pixel II | [cpp](./LonelyPixelII/Solution.cpp) |
