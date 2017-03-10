@@ -363,4 +363,4 @@ Solutions for leetcode problems
 | 531 | Lonely Pixel I | [cpp](./LonelyPixelI/Solution.cpp)/[java](./LonelyPixelI/Solution.java) |
 | 532 | K-diff Pairs In An Array | [cpp](./K-diffPairsInAnArray/Solution.cpp)/[java](./K-diffPairsInAnArray/Solution.java) |
 | 533 | Lonely Pixel II | [cpp](./LonelyPixelII/Solution.cpp) |
-| 540 | Single Element In A Sorted Array | [java](./SingleElementInASortedArray/Solution.java) |
+| 540 | Single Element In A Sorted Array | [cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java) |
