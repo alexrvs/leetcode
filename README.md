@@ -368,4 +368,4 @@ Solutions for leetcode problems
 | 533 | Lonely Pixel II | [cpp](./LonelyPixelII/Solution.cpp) |
 | 539 | Minimum Time Difference | [cpp](./MinimumTimeDifference/Solution.cpp) |
 | 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java) |
-| 541 | Reverse String II | [cpp](./ReverseStringII/Solution.cpp) |
+| 541 | Reverse String II | [c](./ReverseStringII/Solution.c)/[cpp](./ReverseStringII/Solution.cpp) |
