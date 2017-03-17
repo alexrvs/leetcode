@@ -355,7 +355,7 @@ Solutions for leetcode problems
 | 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c)/[cpp](./FindBottomLeftTreeValue/Solution.cpp) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c) |
 | 516 | Longest Palindromic Subsequence | [cpp](./LongestPalindromicSubsequence/Solution.cpp) |
-| 517 | Super Washing Machines | [cpp](./SuperWashingMachines/Solution.cpp)/[java](./SuperWashingMachines/Solution.java) |
+| 517 | Super Washing Machines | [c](./SuperWashingMachines/Solution.c)/[cpp](./SuperWashingMachines/Solution.cpp)/[java](./SuperWashingMachines/Solution.java) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c)/[cpp](./DetectCapital/Solution.cpp) |
 | 523 | Continuous Subarray Sum | [cpp](./ContinuousSubarraySum/Solution.cpp)/[java](./ContinuousSubarraySum/Solution.java) |
 | 524 | Longest Word In Dictionary Through Deleting | [java](./LongestWordInDictionaryThroughDeleting/Solution.java) |
