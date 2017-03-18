@@ -367,5 +367,5 @@ Solutions for leetcode problems
 | 532 | K-diff Pairs In An Array | [cpp](./K-diffPairsInAnArray/Solution.cpp)/[java](./K-diffPairsInAnArray/Solution.java) |
 | 533 | Lonely Pixel II | [cpp](./LonelyPixelII/Solution.cpp) |
 | 539 | Minimum Time Difference | [c](./MinimumTimeDifference/Solution.c)/[cpp](./MinimumTimeDifference/Solution.cpp) |
-| 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java) |
+| 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java)/[javascript](./SingleElementInASortedArray/Solution.js) |
 | 541 | Reverse String II | [c](./ReverseStringII/Solution.c)/[cpp](./ReverseStringII/Solution.cpp) |
