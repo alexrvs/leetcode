@@ -341,7 +341,7 @@ Solutions for leetcode problems
 | 482 | License Key Formatting | [c](./LicenseKeyFormatting/Solution.c)/[cpp](./LicenseKeyFormatting/Solution.cpp) |
 | 485 | Max Consecutive Ones | [c](./MaxConsecutiveOnes/Solution.c)/[cpp](./MaxConsecutiveOnes/Solution.cpp)/[java](./MaxConsecutiveOnes/Solution.java)/[python](./MaxConsecutiveOnes/Solution.py)/[javascript](./MaxConsecutiveOnes/Solution.js) |
 | 491 | Increasing Subsequences | [cpp](./IncreasingSubsequences/Solution.cpp) |
-| 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java)/[python](./ConstructTheRectangle/Solution.py) |
+| 492 | Construct The Rectangle | [c](./ConstructTheRectangle/Solution.c)/[cpp](./ConstructTheRectangle/Solution.cpp)/[java](./ConstructTheRectangle/Solution.java)/[python](./ConstructTheRectangle/Solution.py)/[javascript](./ConstructTheRectangle/Solution.js) |
 | 494 | Target Sum | [c](./TargetSum/Solution.c)/[cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
 | 495 | Teemo Attacking | [c](./TeemoAttacking/Solution.c)/[cpp](./TeemoAttacking/Solution.cpp)/[java](./TeemoAttacking/Solution.java)/[python](./TeemoAttacking/Solution.py)/[javascript](./TeemoAttacking/Solution.js) |
 | 496 | Next Greater Element I | [cpp](./NextGreaterElementI/Solution.cpp)/[java](./NextGreaterElementI/Solution.java) |
