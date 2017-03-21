@@ -369,4 +369,4 @@ Solutions for leetcode problems
 | 539 | Minimum Time Difference | [c](./MinimumTimeDifference/Solution.c)/[cpp](./MinimumTimeDifference/Solution.cpp) |
 | 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java)/[javascript](./SingleElementInASortedArray/Solution.js) |
 | 541 | Reverse String II | [c](./ReverseStringII/Solution.c)/[cpp](./ReverseStringII/Solution.cpp) |
-| 543 | Diameter Of Binary Tree | [cpp](./DiameterOfBinaryTree/Solution.cpp) |
+| 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp) |
