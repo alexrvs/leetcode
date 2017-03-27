@@ -371,4 +371,4 @@ Solutions for leetcode problems
 | 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java)/[javascript](./SingleElementInASortedArray/Solution.js) |
 | 541 | Reverse String II | [c](./ReverseStringII/Solution.c)/[cpp](./ReverseStringII/Solution.cpp) |
 | 542 | 01 Matrix | [cpp](./01Matrix/Solution.cpp) |
-| 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp) |
+| 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp)/[java](./DiameterOfBinaryTree/Solution.java) |
