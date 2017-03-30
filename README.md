@@ -351,7 +351,7 @@ Solutions for leetcode problems
 | 503 | Next Greater Element II | [c](./NextGreaterElementII/Solution.c)/[cpp](./NextGreaterElementII/Solution.cpp)/[java](./NextGreaterElementII/Solution.java)/[javascript](./NextGreaterElementII/Solution.js) |
 | 504 | Base 7 | [cpp](./Base7/Solution.cpp)/[java](./Base7/Solution.java)/[python](./Base7/Solution.py) |
 | 506 | Relative Ranks | [cpp](./RelativeRanks/Solution.cpp) |
-| 507 | Perfect Number | [c](./PerfectNumber/Solution.c)/[cpp](./PerfectNumber/Solution.cpp) |
+| 507 | Perfect Number | [c](./PerfectNumber/Solution.c)/[cpp](./PerfectNumber/Solution.cpp)/[java](./PerfectNumber/Solution.java) |
 | 508 | Most Frequent Subtree Sum | [cpp](./MostFrequentSubtreeSum/Solution.cpp)/[java](./MostFrequentSubtreeSum/Solution.java) |
 | 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c)/[cpp](./FindBottomLeftTreeValue/Solution.cpp) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c) |
