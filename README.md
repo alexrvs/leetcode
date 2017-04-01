@@ -345,7 +345,7 @@ Solutions for leetcode problems
 | 494 | Target Sum | [c](./TargetSum/Solution.c)/[cpp](./TargetSum/Solution.cpp)/[java](./TargetSum/Solution.java) |
 | 495 | Teemo Attacking | [c](./TeemoAttacking/Solution.c)/[cpp](./TeemoAttacking/Solution.cpp)/[java](./TeemoAttacking/Solution.java)/[python](./TeemoAttacking/Solution.py)/[javascript](./TeemoAttacking/Solution.js) |
 | 496 | Next Greater Element I | [cpp](./NextGreaterElementI/Solution.cpp)/[java](./NextGreaterElementI/Solution.java) |
-| 498 | Diagonal Traverse | [cpp](./DiagonalTraverse/Solution.cpp) |
+| 498 | Diagonal Traverse | [c](./DiagonalTraverse/Solution.c)/[cpp](./DiagonalTraverse/Solution.cpp) |
 | 500 | Keyboard Row | [python](./KeyboardRow/Solution.py) |
 | 501 | Find Mode In Binary Search Tree | [c](./FindModeInBinarySearchTree/Solution.c)/[cpp](./FindModeInBinarySearchTree/Solution.cpp)/[java](./FindModeInBinarySearchTree/Solution.java) |
 | 503 | Next Greater Element II | [c](./NextGreaterElementII/Solution.c)/[cpp](./NextGreaterElementII/Solution.cpp)/[java](./NextGreaterElementII/Solution.java)/[javascript](./NextGreaterElementII/Solution.js) |
