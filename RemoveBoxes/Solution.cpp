@@ -1,11 +1,5 @@
 class Solution {
-public:
-    int removeBoxes(vector<int>& boxes) {
-        int size = boxes.size();
-        unordered_map<int, int> dp;
-        return dfs(boxes, dp, size, 0, size - 1, 0);
-    }
-
+private:
     int dfs(vector<int>& boxes, unordered_map<int, int>& dp, int n, int l, int r, int k) {
         if (l > r) return 0;
         int key = (l * n + r) * n + k;
@@ -32,5 +26,12 @@ public:
         }
         
         return dp[key];
+    }
+    
+public:
+    int removeBoxes(vector<int>& boxes) {
+        int size = boxes.size();
+        unordered_map<int, int> dp;
+        return dfs(boxes, dp, size, 0, size - 1, 0);
     }
 };
