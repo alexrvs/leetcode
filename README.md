@@ -373,6 +373,6 @@ Solutions for leetcode problems
 | 540 | Single Element In A Sorted Array | [c](./SingleElementInASortedArray/Solution.c)/[cpp](./SingleElementInASortedArray/Solution.cpp)/[java](./SingleElementInASortedArray/Solution.java)/[javascript](./SingleElementInASortedArray/Solution.js) |
 | 541 | Reverse String II | [c](./ReverseStringII/Solution.c)/[cpp](./ReverseStringII/Solution.cpp) |
 | 542 | 01 Matrix | [cpp](./01Matrix/Solution.cpp) |
-| 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp)/[java](./DiameterOfBinaryTree/Solution.java) |
+| 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp)/[java](./DiameterOfBinaryTree/Solution.java)/[python](./DiameterOfBinaryTree/Solution.py) |
 | 546 | Remove Boxes | [cpp](./RemoveBoxes/Solution.cpp) |
 | 547 | Friend Circles | [c](./FriendCircles/Solution.c)/[cpp](./FriendCircles/Solution.cpp)/[java](./FriendCircles/Solution.java) |
