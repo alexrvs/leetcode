@@ -364,7 +364,7 @@ Solutions for leetcode problems
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp)/[java](./ContiguousArray/Solution.java) |
 | 526 | Beautiful Arrangement | [c](./BeautifulArrangement/Solution.c)/[cpp](./BeautifulArrangement/Solution.cpp) |
 | 529 | Minesweeper | [cpp](./Minesweeper/Solution.cpp) |
-| 530 | Minimum Absolute Difference In BST | [c](./MinimumAbsoluteDifferenceInBST/Solution.c)/[cpp](./MinimumAbsoluteDifferenceInBST/Solution.cpp)/[java](./MinimumAbsoluteDifferenceInBST/Solution.java) |
+| 530 | Minimum Absolute Difference In BST | [c](./MinimumAbsoluteDifferenceInBST/Solution.c)/[cpp](./MinimumAbsoluteDifferenceInBST/Solution.cpp)/[java](./MinimumAbsoluteDifferenceInBST/Solution.java)/[python](./MinimumAbsoluteDifferenceInBST/Solution.py) |
 | 531 | Lonely Pixel I | [cpp](./LonelyPixelI/Solution.cpp)/[java](./LonelyPixelI/Solution.java) |
 | 532 | K-diff Pairs In An Array | [cpp](./K-diffPairsInAnArray/Solution.cpp)/[java](./K-diffPairsInAnArray/Solution.java) |
 | 533 | Lonely Pixel II | [cpp](./LonelyPixelII/Solution.cpp) |
