@@ -377,7 +377,8 @@ Solutions for leetcode problems
 | 546 | Remove Boxes | [cpp](./RemoveBoxes/Solution.cpp)/[java](./RemoveBoxes/Solution.java) |
 | 547 | Friend Circles | [c](./FriendCircles/Solution.c)/[cpp](./FriendCircles/Solution.cpp)/[java](./FriendCircles/Solution.java) |
 | 551 | Student Attendance Record I | [python](./StudentAttendanceRecordI/Solution.py) |
-| 551 | Student Attendance Record II | [java](./StudentAttendanceRecordII/Solution.java) |
+| 552 | Student Attendance Record II | [java](./StudentAttendanceRecordII/Solution.java) |
+| 553 | Optimal Division | [cpp](./OptimalDivision/Solution.cpp) |
 | 554 | Brick Wall | [cpp](./BrickWall/Solution.cpp)/[java](./BrickWall/Solution.java)/[python](./BrickWall/Solution.py) |
 | 556 | Next Greater Element III | [cpp](./NextGreaterElementIII/Solution.cpp) |
 | 557 | Reverse Words In A String III | [c](./ReverseWordsInAStringIII/Solution.c)/[cpp](./ReverseWordsInAStringIII/Solution.cpp) |
