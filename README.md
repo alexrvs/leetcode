@@ -377,7 +377,7 @@ Solutions for leetcode problems
 | 543 | Diameter Of Binary Tree | [c](./DiameterOfBinaryTree/Solution.c)/[cpp](./DiameterOfBinaryTree/Solution.cpp)/[java](./DiameterOfBinaryTree/Solution.java)/[python](./DiameterOfBinaryTree/Solution.py) |
 | 546 | Remove Boxes | [cpp](./RemoveBoxes/Solution.cpp)/[java](./RemoveBoxes/Solution.java) |
 | 547 | Friend Circles | [c](./FriendCircles/Solution.c)/[cpp](./FriendCircles/Solution.cpp)/[java](./FriendCircles/Solution.java) |
-| 551 | Student Attendance Record I | [cpp](./StudentAttendanceRecordI/Solution.cpp)/[python](./StudentAttendanceRecordI/Solution.py) |
+| 551 | Student Attendance Record I | [c](./StudentAttendanceRecordI/Solution.c)/[cpp](./StudentAttendanceRecordI/Solution.cpp)/[python](./StudentAttendanceRecordI/Solution.py) |
 | 552 | Student Attendance Record II | [cpp](./StudentAttendanceRecordII/Solution.cpp)/[java](./StudentAttendanceRecordII/Solution.java) |
 | 553 | Optimal Division | [cpp](./OptimalDivision/Solution.cpp) |
 | 554 | Brick Wall | [cpp](./BrickWall/Solution.cpp)/[java](./BrickWall/Solution.java)/[python](./BrickWall/Solution.py) |
