@@ -378,7 +378,7 @@ Solutions for leetcode problems
 | 546 | Remove Boxes | [cpp](./RemoveBoxes/Solution.cpp)/[java](./RemoveBoxes/Solution.java) |
 | 547 | Friend Circles | [c](./FriendCircles/Solution.c)/[cpp](./FriendCircles/Solution.cpp)/[java](./FriendCircles/Solution.java) |
 | 551 | Student Attendance Record I | [c](./StudentAttendanceRecordI/Solution.c)/[cpp](./StudentAttendanceRecordI/Solution.cpp)/[java](./StudentAttendanceRecordI/Solution.java)/[python](./StudentAttendanceRecordI/Solution.py) |
-| 552 | Student Attendance Record II | [cpp](./StudentAttendanceRecordII/Solution.cpp)/[java](./StudentAttendanceRecordII/Solution.java) |
+| 552 | Student Attendance Record II | [c](./StudentAttendanceRecordII/Solution.c)/[cpp](./StudentAttendanceRecordII/Solution.cpp)/[java](./StudentAttendanceRecordII/Solution.java) |
 | 553 | Optimal Division | [cpp](./OptimalDivision/Solution.cpp) |
 | 554 | Brick Wall | [cpp](./BrickWall/Solution.cpp)/[java](./BrickWall/Solution.java)/[python](./BrickWall/Solution.py) |
 | 556 | Next Greater Element III | [cpp](./NextGreaterElementIII/Solution.cpp) |
