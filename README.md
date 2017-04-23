@@ -354,6 +354,7 @@ Solutions for leetcode problems
 | 507 | Perfect Number | [c](./PerfectNumber/Solution.c)/[cpp](./PerfectNumber/Solution.cpp)/[java](./PerfectNumber/Solution.java) |
 | 508 | Most Frequent Subtree Sum | [cpp](./MostFrequentSubtreeSum/Solution.cpp)/[java](./MostFrequentSubtreeSum/Solution.java) |
 | 513 | Find Bottom Left Tree Value | [c](./FindBottomLeftTreeValue/Solution.c)/[cpp](./FindBottomLeftTreeValue/Solution.cpp) |
+| 514 | Freedom Trail | [cpp](./FreedomTrail/Solution.cpp) |
 | 515 | Find Largest Value In Each Tree Row | [c](./FindLargestValueInEachTreeRow/Solution.c)/[cpp](./FindLargestValueInEachTreeRow/Solution.cpp) |
 | 516 | Longest Palindromic Subsequence | [cpp](./LongestPalindromicSubsequence/Solution.cpp) |
 | 517 | Super Washing Machines | [c](./SuperWashingMachines/Solution.c)/[cpp](./SuperWashingMachines/Solution.cpp)/[java](./SuperWashingMachines/Solution.java) |
