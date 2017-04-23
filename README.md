@@ -359,6 +359,7 @@ Solutions for leetcode problems
 | 517 | Super Washing Machines | [c](./SuperWashingMachines/Solution.c)/[cpp](./SuperWashingMachines/Solution.cpp)/[java](./SuperWashingMachines/Solution.java) |
 | 520 | Detect Capital | [c](./DetectCapital/Solution.c)/[cpp](./DetectCapital/Solution.cpp) |
 | 521 | Longest Uncommon Subsequence I | [cpp](./LongestUncommonSubsequenceI/Solution.cpp)/[java](./LongestUncommonSubsequenceI/Solution.java)/[python](./LongestUncommonSubsequenceI/Solution.py) |
+| 521 | Longest Uncommon Subsequence II | [java](./LongestUncommonSubsequenceII/Solution.java) |
 | 523 | Continuous Subarray Sum | [cpp](./ContinuousSubarraySum/Solution.cpp)/[java](./ContinuousSubarraySum/Solution.java) |
 | 524 | Longest Word In Dictionary Through Deleting | [java](./LongestWordInDictionaryThroughDeleting/Solution.java) |
 | 525 | Contiguous Array | [cpp](./ContiguousArray/Solution.cpp)/[java](./ContiguousArray/Solution.java) |
