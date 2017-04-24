@@ -385,3 +385,4 @@ Solutions for leetcode problems
 | 554 | Brick Wall | [cpp](./BrickWall/Solution.cpp)/[java](./BrickWall/Solution.java)/[python](./BrickWall/Solution.py) |
 | 556 | Next Greater Element III | [cpp](./NextGreaterElementIII/Solution.cpp) |
 | 557 | Reverse Words In A String III | [c](./ReverseWordsInAStringIII/Solution.c)/[cpp](./ReverseWordsInAStringIII/Solution.cpp) |
+| 561 | Array Partition I | [cpp](./ArrayPartitionI/Solution.cpp) |
