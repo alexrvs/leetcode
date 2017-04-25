@@ -386,4 +386,4 @@ Solutions for leetcode problems
 | 556 | Next Greater Element III | [cpp](./NextGreaterElementIII/Solution.cpp) |
 | 557 | Reverse Words In A String III | [c](./ReverseWordsInAStringIII/Solution.c)/[cpp](./ReverseWordsInAStringIII/Solution.cpp) |
 | 561 | Array Partition I | [cpp](./ArrayPartitionI/Solution.cpp) |
-| 563 | Binary Tree Tilt | [cpp](./BinaryTreeTilt/Solution.cpp) |
+| 563 | Binary Tree Tilt | [c](./BinaryTreeTilt/Solution.c)/[cpp](./BinaryTreeTilt/Solution.cpp) |
