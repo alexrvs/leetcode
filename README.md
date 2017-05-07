@@ -390,3 +390,4 @@ Solutions for leetcode problems
 | 566 | Reshape The Matrix | [cpp](./ReshapeTheMatrix/Solution.cpp)/[java](./ReshapeTheMatrix/Solution.java)/[python](./ReshapeTheMatrix/Solution.py) |
 | 567 | Permutation In String | [c](./PermutationInString/Solution.c)/[cpp](./PermutationInString/Solution.cpp)/[python](./PermutationInString/Solution.py) |
 | 572 | Subtree Of Another Tree | [java](./SubtreeOfAnotherTree/Solution.java) |
+| 575 | Distribute Candies | [java](./DistributeCandies/Solution.java) |
