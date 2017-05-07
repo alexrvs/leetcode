@@ -389,3 +389,4 @@ Solutions for leetcode problems
 | 563 | Binary Tree Tilt | [c](./BinaryTreeTilt/Solution.c)/[cpp](./BinaryTreeTilt/Solution.cpp)/[java](./BinaryTreeTilt/Solution.java)/[python](./BinaryTreeTilt/Solution.py) |
 | 566 | Reshape The Matrix | [cpp](./ReshapeTheMatrix/Solution.cpp)/[java](./ReshapeTheMatrix/Solution.java)/[python](./ReshapeTheMatrix/Solution.py) |
 | 567 | Permutation In String | [c](./PermutationInString/Solution.c)/[cpp](./PermutationInString/Solution.cpp)/[python](./PermutationInString/Solution.py) |
+| 572 | Subtree Of Another Tree | [java](./SubtreeOfAnotherTree/Solution.java) |
